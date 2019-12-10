@@ -1,16 +1,8 @@
 package com.wkodate.leetcode.LC0083_RemoveDuplicatesFromSortedList;
 
+import com.wkodate.leetcode.ListNode;
+
 public class Solution {
-
-    class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
 
     public ListNode deleteDuplicates(ListNode head) {
         ListNode current = head;

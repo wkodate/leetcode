@@ -1,16 +1,8 @@
 package com.wkodate.leetcode.LC0141_LinkedListCycle;
 
+import com.wkodate.leetcode.ListNode;
+
 public class Solution {
-
-    class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
 
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) {

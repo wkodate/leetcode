@@ -1,16 +1,8 @@
 package com.wkodate.leetcode.LC0206_ReverseLinkedList;
 
+import com.wkodate.leetcode.ListNode;
+
 public class Solution {
-
-    class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
 
     public ListNode reverseList(ListNode head) {
         ListNode current = head;
