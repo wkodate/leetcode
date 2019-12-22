@@ -14,14 +14,16 @@ public class ListNode {
         if (in.length == 0) {
             return null;
         }
+        ListNode headPrev = new ListNode(0);
         ListNode head = new ListNode(in[0]);
-        ListNode prev = head;
+        headPrev.next = head;
+        ListNode prev = headPrev;
         for (int i = 0; i < in.length; i++) {
             ListNode current = new ListNode(in[i]);
             prev.next = current;
             prev = current;
         }
-        return head;
+        return headPrev.next;
     }
 
     @Override
