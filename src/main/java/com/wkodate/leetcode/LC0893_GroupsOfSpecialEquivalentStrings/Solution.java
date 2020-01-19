@@ -22,7 +22,7 @@ public class Solution {
             String str = Arrays.toString(odd) + Arrays.toString(even);
             set.add(str);
         }
-        return set.sｇize();
+        return set.size();
     }
 
 
