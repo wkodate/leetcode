@@ -20,7 +20,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        ListNode head = ListNode.generate(new int[]{1, 2, 3, 4, 5});
+        ListNode head = ListNode.fromArray(new int[]{1, 2, 3, 4, 5});
         System.out.println(s.middleNode(head));
     }
 

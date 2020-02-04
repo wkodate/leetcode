@@ -10,7 +10,7 @@ public class ListNode {
         next = null;
     }
 
-    public static ListNode generate(int[] in) {
+    public static ListNode fromArray(int[] in) {
         if (in.length == 0) {
             return null;
         }

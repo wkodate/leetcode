@@ -27,8 +27,8 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        ListNode node1 = ListNode.generate(new int[]{4, 1, 8, 4, 5});
-        ListNode node2 = ListNode.generate(new int[]{5, 0, 1, 8, 4, 5});
+        ListNode node1 = ListNode.fromArray(new int[]{4, 1, 8, 4, 5});
+        ListNode node2 = ListNode.fromArray(new int[]{5, 0, 1, 8, 4, 5});
         System.out.println(s.getIntersectionNode(node1, node2));
     }
 
