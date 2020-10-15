@@ -341,6 +341,7 @@ LeetCode
 | 1232 | [CheckIfItIsAStraightLine](./src/main/java/com/wkodate/leetcode/LC1232_CheckIfItIsAStraightLine/Solution.java) |
 | 1254 | [NumberOfClosedIslands](./src/main/java/com/wkodate/leetcode/LC1254_NumberOfClosedIslands/Solution.java) |
 | 1260 | [Shift2DGrid](./src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) |
+| 1282 | [GroupThePeopleGivenTheGroupSizeTheyBelongTo](./src/main/java/com/wkodate/leetcode/LC1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java) |
 | 1286 | [IteratorForCombination](./src/main/java/com/wkodate/leetcode/LC1286_IteratorForCombination/CombinationIterator.java) |
 | 1317 | [ConvertIntegerToTheSumOfTwoNoZeroIntegers](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |
 | 1323 | [Maximum69Number](./src/main/java/com/wkodate/leetcode/LC1323_Maximum69Number/Solution.java) |
