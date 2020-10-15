@@ -264,6 +264,7 @@ LeetCode
 | 807 | [MaxIncreaseToKeepCitySkyline](./src/main/java/com/wkodate/leetcode/LC0807_MaxIncreaseToKeepCitySkyline/Solution.java) |
 | 811 | [SubdomainVisitCount](./src/main/java/com/wkodate/leetcode/LC0811_SubdomainVisitCount/Solution.java) |
 | 812 | [LargestTriangleArea](./src/main/java/com/wkodate/leetcode/LC0812_LargestTriangleArea/Solution.java) |
+| 813 | [LargestSumOfAverages](./src/main/java/com/wkodate/leetcode/LC0813_LargestSumOfAverages/Solution.java) |
 | 819 | [MostCommonWord](./src/main/java/com/wkodate/leetcode/LC0819_MostCommonWord/Solution.java) |
 | 821 | [ShortestDistanceToACharacter](./src/main/java/com/wkodate/leetcode/LC0821_ShortestDistanceToACharacter/Solution.java) |
 | 824 | [GoatLatin](./src/main/java/com/wkodate/leetcode/LC0824_GoatLatin/Solution.java) |
