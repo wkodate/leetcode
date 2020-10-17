@@ -252,6 +252,7 @@ LeetCode
 | 748 | [ShortestCompletingWord](./src/main/java/com/wkodate/leetcode/LC0748_ShortestCompletingWord/Solution.java) |
 | 752 | [OpenTheLock](./src/main/java/com/wkodate/leetcode/LC0752_OpenTheLock/Solution.java) |
 | 762 | [PrimeNumberOfSetBitsInBinaryRepresentation](./src/main/java/com/wkodate/leetcode/LC0762_PrimeNumberOfSetBitsInBinaryRepresentation/Solution.java) |
+| 763 | [PartitionLabels](./src/main/java/com/wkodate/leetcode/LC0763_PartitionLabels/Solution.java) |
 | 766 | [ToeplitzMatrix](./src/main/java/com/wkodate/leetcode/LC0766_ToeplitzMatrix/Solution.java) |
 | 771 | [JewelsAndStones](./src/main/java/com/wkodate/leetcode/LC0771_JewelsAndStones/Solution.java) |
 | 783 | [MinimumDistanceBetweenBSTNodes](./src/main/java/com/wkodate/leetcode/LC0783_MinimumDistanceBetweenBSTNodes/Solution.java) |
