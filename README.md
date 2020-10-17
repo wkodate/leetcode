@@ -40,6 +40,7 @@ LeetCode
 | 69 | [Sqrtx](./src/main/java/com/wkodate/leetcode/LC0069_Sqrtx/Solution.java) |
 | 70 | [ClimbingStairs](./src/main/java/com/wkodate/leetcode/LC0070_ClimbingStairs/Solution.java) |
 | 72 | [EditDistance](./src/main/java/com/wkodate/leetcode/LC0072_EditDistance/Solution.java) |
+| 74 | [SearchA2DMatrix](./src/main/java/com/wkodate/leetcode/LC0074_SearchA2DMatrix/Solution.java) |
 | 75 | [SortColors](./src/main/java/com/wkodate/leetcode/LC0075_SortColors/Solution.java) |
 | 78 | [Subsets](./src/main/java/com/wkodate/leetcode/LC0078_Subsets/Solution.java) |
 | 79 | [WordSearch](./src/main/java/com/wkodate/leetcode/LC0079_WordSearch/Solution.java) |
