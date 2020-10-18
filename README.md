@@ -89,6 +89,7 @@ LeetCode
 | 171 | [ExcelSheetColumnNumber](./src/main/java/com/wkodate/leetcode/LC0171_ExcelSheetColumnNumber/Solution.java) |
 | 172 | [FactorialTrailingZeroes](./src/main/java/com/wkodate/leetcode/LC0172_FactorialTrailingZeroes/Solution.java) |
 | 174 | [DungeonGame](./src/main/java/com/wkodate/leetcode/LC0174_DungeonGame/Solution.java) |
+| 187 | [RepeatedDNASequences](./src/main/java/com/wkodate/leetcode/LC0187_RepeatedDNASequences/Solution.java) |
 | 189 | [RotateArray](./src/main/java/com/wkodate/leetcode/LC0189_RotateArray/Solution.java) |
 | 190 | [ReverseBits](./src/main/java/com/wkodate/leetcode/LC0190_ReverseBits/Solution.java) |
 | 191 | [NumberOf1Bits](./src/main/java/com/wkodate/leetcode/LC0191_NumberOf1Bits/Solution.java) |
