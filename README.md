@@ -348,6 +348,7 @@ LeetCode
 | 1260 | [Shift2DGrid](./src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) |
 | 1282 | [GroupThePeopleGivenTheGroupSizeTheyBelongTo](./src/main/java/com/wkodate/leetcode/LC1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java) |
 | 1286 | [IteratorForCombination](./src/main/java/com/wkodate/leetcode/LC1286_IteratorForCombination/CombinationIterator.java) |
+| 1302 | [DeepestLeavesSum](./src/main/java/com/wkodate/leetcode/LC1302_DeepestLeavesSum/Solution.java) |
 | 1317 | [ConvertIntegerToTheSumOfTwoNoZeroIntegers](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |
 | 1323 | [Maximum69Number](./src/main/java/com/wkodate/leetcode/LC1323_Maximum69Number/Solution.java) |
 | 1337 | [TheKWeakestRowsInAMatrix](./src/main/java/com/wkodate/leetcode/LC1337_TheKWeakestRowsInAMatrix/Solution.java) |
