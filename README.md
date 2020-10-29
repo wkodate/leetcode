@@ -363,6 +363,7 @@ LeetCode
 | 1365 | [HowManyNumbersAreSmallerThanTheCurrentNumber](./src/main/java/com/wkodate/leetcode/LC1365_HowManyNumbersAreSmallerThanTheCurrentNumber/Solution.java) |
 | 1374 | [GenerateAStringWithCharactersThatHaveOddCounts](./src/main/java/com/wkodate/leetcode/LC1374_GenerateAStringWithCharactersThatHaveOddCounts/Solution.java) |
 | 1460 | [MakeTwoArraysEqualByReversingSubArrays](./src/main/java/com/wkodate/leetcode/LC1460_MakeTwoArraysEqualByReversingSubArrays/Solution.java) |
+| 1476 | [SubrectangleQueries](./src/main/java/com/wkodate/leetcode/LC1476_SubrectangleQueries/SubrectangleQueries.java) |
 | 1480 | [RunningSumOf1dArray](./src/main/java/com/wkodate/leetcode/LC1480_RunningSumOf1dArray/Solution.java) |
 | 1510 | [StoneGameIV](./src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |
 | 1588 | [SumOfAllOddLengthSubarrays](./src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |
