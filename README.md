@@ -226,6 +226,7 @@ LeetCode
 | 662 | [MaximumWidthOfBinaryTree](./src/main/java/com/wkodate/leetcode/LC0662_MaximumWidthOfBinaryTree/Solution.java) |
 | 665 | [NonDecreasingArray](./src/main/java/com/wkodate/leetcode/LC0665_NonDecreasingArray/Solution.java) |
 | 669 | [TrimABinarySearchTree](./src/main/java/com/wkodate/leetcode/LC0669_TrimABinarySearchTree/Solution.java) |
+| 673 | [NumberOfLongestIncreasingSubsequence](./src/main/java/com/wkodate/leetcode/LC0673_NumberOfLongestIncreasingSubsequence/Solution.java) |
 | 674 | [LongestContinuousIncreasingSubsequence](./src/main/java/com/wkodate/leetcode/LC0674_LongestContinuousIncreasingSubsequence/Solution.java) |
 | 678 | [ValidParenthesisString](./src/main/java/com/wkodate/leetcode/LC0678_ValidParenthesisString/Solution.java) |
 | 682 | [BaseballGame](./src/main/java/com/wkodate/leetcode/LC0682_BaseballGame/Solution.java) |
