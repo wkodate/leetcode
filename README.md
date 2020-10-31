@@ -346,6 +346,7 @@ LeetCode
 | 1143 | [LongestCommonSubsequence](./src/main/java/com/wkodate/leetcode/LC1143_LongestCommonSubsequence/Solution.java) |
 | 1160 | [FindWordsThatCanBeFormedByCharacters](./src/main/java/com/wkodate/leetcode/LC1160_FindWordsThatCanBeFormedByCharacters/Solution.java) |
 | 1207 | [UniqueNumberOfOccurrences](./src/main/java/com/wkodate/leetcode/LC1207_UniqueNumberOfOccurrences/Solution.java) |
+| 1221 | [SplitAStringInBalancedStrings](./src/main/java/com/wkodate/leetcode/LC1221_SplitAStringInBalancedStrings/Solution.java) |
 | 1227 | [CountSquareSubmatricesWithAllOnes](./src/main/java/com/wkodate/leetcode/LC1227_CountSquareSubmatricesWithAllOnes/Solution.java) |
 | 1232 | [CheckIfItIsAStraightLine](./src/main/java/com/wkodate/leetcode/LC1232_CheckIfItIsAStraightLine/Solution.java) |
 | 1254 | [NumberOfClosedIslands](./src/main/java/com/wkodate/leetcode/LC1254_NumberOfClosedIslands/Solution.java) |
