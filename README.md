@@ -329,6 +329,7 @@ LeetCode
 | 993 | [CousinsInBinaryTree](./src/main/java/com/wkodate/leetcode/LC0993_CousinsInBinaryTree/Solution.java) |
 | 994 | [RottingOranges](./src/main/java/com/wkodate/leetcode/LC0994_RottingOranges/Solution.java) |
 | 997 | [FindTheTownJudge](./src/main/java/com/wkodate/leetcode/LC0997_FindTheTownJudge/Solution.java) |
+| 1002 | [FindCommonCharacters](./src/main/java/com/wkodate/leetcode/LC1002_FindCommonCharacters/Solution.java) |
 | 1007 | [MinimumDominoRotationsForEqualRow](./src/main/java/com/wkodate/leetcode/LC1007_MinimumDominoRotationsForEqualRow/Solution.java) |
 | 1008 | [ConstructBinarySearchTreeFromPreorderTraversal](./src/main/java/com/wkodate/leetcode/LC1008_ConstructBinarySearchTreeFromPreorderTraversal/Solution.java) |
 | 1009 | [ComplementOfBase10Integer](./src/main/java/com/wkodate/leetcode/LC1009_ComplementOfBase10Integer/Solution.java) |
