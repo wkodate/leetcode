@@ -355,6 +355,7 @@ LeetCode
 | 1260 | [Shift2DGrid](./src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) |
 | 1282 | [GroupThePeopleGivenTheGroupSizeTheyBelongTo](./src/main/java/com/wkodate/leetcode/LC1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java) |
 | 1286 | [IteratorForCombination](./src/main/java/com/wkodate/leetcode/LC1286_IteratorForCombination/CombinationIterator.java) |
+| 1290 | [ConvertBinaryNumberInALinkedListToInteger](./src/main/java/com/wkodate/leetcode/LC1290_ConvertBinaryNumberInALinkedListToInteger/Solution.java) |
 | 1295 | [FindNumbersWithEvenNumberOfDigits](./src/main/java/com/wkodate/leetcode/LC1295_FindNumbersWithEvenNumberOfDigits/Solution.java) |
 | 1302 | [DeepestLeavesSum](./src/main/java/com/wkodate/leetcode/LC1302_DeepestLeavesSum/Solution.java) |
 | 1317 | [ConvertIntegerToTheSumOfTwoNoZeroIntegers](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |
