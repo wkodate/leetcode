@@ -367,6 +367,7 @@ LeetCode
 | 1356 | [SortIntegersByTheNumberOf1Bits](./src/main/java/com/wkodate/leetcode/LC1356_SortIntegersByTheNumberOf1Bits/Solution.java) |
 | 1365 | [HowManyNumbersAreSmallerThanTheCurrentNumber](./src/main/java/com/wkodate/leetcode/LC1365_HowManyNumbersAreSmallerThanTheCurrentNumber/Solution.java) |
 | 1374 | [GenerateAStringWithCharactersThatHaveOddCounts](./src/main/java/com/wkodate/leetcode/LC1374_GenerateAStringWithCharactersThatHaveOddCounts/Solution.java) |
+| 1408 | [StringMatchingInAnArray](./src/main/java/com/wkodate/leetcode/LC1408_StringMatchingInAnArray/Solution.java) |
 | 1446 | [ConsecutiveCharacters](./src/main/java/com/wkodate/leetcode/LC1446_ConsecutiveCharacters/Solution.java) |
 | 1460 | [MakeTwoArraysEqualByReversingSubArrays](./src/main/java/com/wkodate/leetcode/LC1460_MakeTwoArraysEqualByReversingSubArrays/Solution.java) |
 | 1476 | [SubrectangleQueries](./src/main/java/com/wkodate/leetcode/LC1476_SubrectangleQueries/SubrectangleQueries.java) |
