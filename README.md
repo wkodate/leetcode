@@ -347,6 +347,7 @@ LeetCode
 | 1137 | [NthTribonacciNumber](./src/main/java/com/wkodate/leetcode/LC1137_NthTribonacciNumber/Solution.java) |
 | 1143 | [LongestCommonSubsequence](./src/main/java/com/wkodate/leetcode/LC1143_LongestCommonSubsequence/Solution.java) |
 | 1160 | [FindWordsThatCanBeFormedByCharacters](./src/main/java/com/wkodate/leetcode/LC1160_FindWordsThatCanBeFormedByCharacters/Solution.java) |
+| 1189 | [MaximumNumberOfBalloons](./src/main/java/com/wkodate/leetcode/LC1189_MaximumNumberOfBalloons/Solution.java) |
 | 1207 | [UniqueNumberOfOccurrences](./src/main/java/com/wkodate/leetcode/LC1207_UniqueNumberOfOccurrences/Solution.java) |
 | 1221 | [SplitAStringInBalancedStrings](./src/main/java/com/wkodate/leetcode/LC1221_SplitAStringInBalancedStrings/Solution.java) |
 | 1227 | [CountSquareSubmatricesWithAllOnes](./src/main/java/com/wkodate/leetcode/LC1227_CountSquareSubmatricesWithAllOnes/Solution.java) |
