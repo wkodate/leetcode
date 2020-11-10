@@ -374,6 +374,7 @@ LeetCode
 | 1408 | [StringMatchingInAnArray](./src/main/java/com/wkodate/leetcode/LC1408_StringMatchingInAnArray/Solution.java) |
 | 1446 | [ConsecutiveCharacters](./src/main/java/com/wkodate/leetcode/LC1446_ConsecutiveCharacters/Solution.java) |
 | 1460 | [MakeTwoArraysEqualByReversingSubArrays](./src/main/java/com/wkodate/leetcode/LC1460_MakeTwoArraysEqualByReversingSubArrays/Solution.java) |
+| 1464 | [MaximumProductOfTwoElementsInAnArray](./src/main/java/com/wkodate/leetcode/LC1464_MaximumProductOfTwoElementsInAnArray/Solution.java) |
 | 1476 | [SubrectangleQueries](./src/main/java/com/wkodate/leetcode/LC1476_SubrectangleQueries/SubrectangleQueries.java) |
 | 1480 | [RunningSumOf1dArray](./src/main/java/com/wkodate/leetcode/LC1480_RunningSumOf1dArray/Solution.java) |
 | 1510 | [StoneGameIV](./src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |
