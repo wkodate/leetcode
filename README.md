@@ -25,6 +25,7 @@ LeetCode
 | 36 | [ValidSudoku](./src/main/java/com/wkodate/leetcode/LC0036_ValidSudoku/Solution.java) |
 | 38 | [CountAndSay](./src/main/java/com/wkodate/leetcode/LC0038_CountAndSay/Solution.java) |
 | 46 | [Permutation](./src/main/java/com/wkodate/leetcode/LC0046_Permutation/Solution.java) |
+| 47 | [PermutationsII](./src/main/java/com/wkodate/leetcode/LC0047_PermutationsII/Solution.java) |
 | 49 | [GroupAnagrams](./src/main/java/com/wkodate/leetcode/LC0049_GroupAnagrams/Solution.java) |
 | 50 | [Powxn](./src/main/java/com/wkodate/leetcode/LC0050_Powxn/Solution.java) |
 | 53 | [MaximumSubarray](./src/main/java/com/wkodate/leetcode/LC0053_MaximumSubarray/Solution.java) |
