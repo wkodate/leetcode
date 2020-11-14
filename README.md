@@ -60,6 +60,7 @@ LeetCode
 | 108 | [ConvertSortedArrayToBinarySearchTree](./src/main/java/com/wkodate/leetcode/LC0108_ConvertSortedArrayToBinarySearchTree/Solution.java) |
 | 111 | [MinimumDepthOfBinaryTree](./src/main/java/com/wkodate/leetcode/LC0111_MinimumDepthOfBinaryTree/Solution.java) |
 | 112 | [PathSum](./src/main/java/com/wkodate/leetcode/LC0112_PathSum/Solution.java) |
+| 116 | [PopulatingNextRightPointersInEachNode](./src/main/java/com/wkodate/leetcode/LC0116_PopulatingNextRightPointersInEachNode/Solution.java) |
 | 118 | [PascalsTriangle](./src/main/java/com/wkodate/leetcode/LC0118_PascalsTriangle/Solution.java) |
 | 119 | [PascalsTriangleII](./src/main/java/com/wkodate/leetcode/LC0119_PascalsTriangleII/Solution.java) |
 | 121 | [BestTimeToBuyAndSellStock](./src/main/java/com/wkodate/leetcode/LC0121_BestTimeToBuyAndSellStock/Solution.java) |
