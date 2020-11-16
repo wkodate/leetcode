@@ -383,4 +383,5 @@ LeetCode
 | 1510 | [StoneGameIV](./src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |
 | 1523 | [CountOddNumbersInAnIntervalRange](./src/main/java/com/wkodate/leetcode/LC1523_CountOddNumbersInAnIntervalRange/Solution.java) |
 | 1550 | [ThreeConsecutiveOdds](./src/main/java/com/wkodate/leetcode/LC1550_ThreeConsecutiveOdds/Solution.java) |
+| 1572 | [MatrixDiagonalSum](./src/main/java/com/wkodate/leetcode/LC1572_MatrixDiagonalSum/Solution.java) |
 | 1588 | [SumOfAllOddLengthSubarrays](./src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |
