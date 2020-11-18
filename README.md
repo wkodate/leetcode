@@ -31,6 +31,7 @@ LeetCode
 | 53 | [MaximumSubarray](./src/main/java/com/wkodate/leetcode/LC0053_MaximumSubarray/Solution.java) |
 | 54 | [SpiralMatrix](./src/main/java/com/wkodate/leetcode/LC0054_SpiralMatrix/Solution.java) |
 | 55 | [JumpGame](./src/main/java/com/wkodate/leetcode/LC0055_JumpGame/Solution.java) |
+| 56 | [MergeIntervals](./src/main/java/com/wkodate/leetcode/LC0056_MergeIntervals/Solution.java) |
 | 58 | [LengthOfLastWord](./src/main/java/com/wkodate/leetcode/LC0058_LengthOfLastWord/Solution.java) |
 | 60 | [PermutationSequence](./src/main/java/com/wkodate/leetcode/LC0060_PermutationSequence/Solution.java) |
 | 61 | [RotateList](./src/main/java/com/wkodate/leetcode/LC0061_RotateList/Solution.java) |
