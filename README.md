@@ -156,6 +156,7 @@ LeetCode
 | 383 | [RansomNote](./src/main/java/com/wkodate/leetcode/LC0383_RansomNote/Solution.java) |
 | 384 | [ShuffleAnArray](./src/main/java/com/wkodate/leetcode/LC0384_ShuffleAnArray/Solution.java) |
 | 387 | [FirstUniqueCharacterInAString](./src/main/java/com/wkodate/leetcode/LC0387_FirstUniqueCharacterInAString/Solution.java) |
+| 389 | [FindTheDifference](./src/main/java/com/wkodate/leetcode/LC0389_FindTheDifference/Solution.java) |
 | 392 | [IsSubsequence](./src/main/java/com/wkodate/leetcode/LC0392_IsSubsequence/Solution.java) |
 | 394 | [DecodeString](./src/main/java/com/wkodate/leetcode/LC0394_DecodeString/Solution.java) |
 | 402 | [RemoveKDigits](./src/main/java/com/wkodate/leetcode/LC0402_RemoveKDigits/Solution.java) |
