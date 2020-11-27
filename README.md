@@ -144,6 +144,7 @@ LeetCode
 | 338 | [CountingBits](./src/main/java/com/wkodate/leetcode/LC0338_CountingBits/Solution.java) |
 | 342 | [PowerOfFour](./src/main/java/com/wkodate/leetcode/LC0342_PowerOfFour/Solution.java) |
 | 344 | [ReverseString](./src/main/java/com/wkodate/leetcode/LC0344_ReverseString/Solution.java) |
+| 345 | [ReverseVowelsOfAString](./src/main/java/com/wkodate/leetcode/LC0345_ReverseVowelsOfAString/Solution.java) |
 | 347 | [TopKFrequentElements](./src/main/java/com/wkodate/leetcode/LC0347_TopKFrequentElements/Solution.java) |
 | 349 | [IntersectionOfTwoArrays](./src/main/java/com/wkodate/leetcode/LC0349_IntersectionOfTwoArrays/Solution.java) |
 | 350 | [IntersectionOfTwoArraysII](./src/main/java/com/wkodate/leetcode/LC0350_IntersectionOfTwoArraysII/Solution.java) |
