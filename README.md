@@ -369,6 +369,7 @@ LeetCode
 | 1290 | [ConvertBinaryNumberInALinkedListToInteger](./src/main/java/com/wkodate/leetcode/LC1290_ConvertBinaryNumberInALinkedListToInteger/Solution.java) |
 | 1295 | [FindNumbersWithEvenNumberOfDigits](./src/main/java/com/wkodate/leetcode/LC1295_FindNumbersWithEvenNumberOfDigits/Solution.java) |
 | 1302 | [DeepestLeavesSum](./src/main/java/com/wkodate/leetcode/LC1302_DeepestLeavesSum/Solution.java) |
+| 1306 | [JumpGameIII](./src/main/java/com/wkodate/leetcode/LC1306_JumpGameIII/Solution.java) |
 | 1309 | [DecryptStringFromAlphabetToIntegerMapping](./src/main/java/com/wkodate/leetcode/LC1309_DecryptStringFromAlphabetToIntegerMapping/Solution.java) |
 | 1317 | [ConvertIntegerToTheSumOfTwoNoZeroIntegers](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |
 | 1323 | [Maximum69Number](./src/main/java/com/wkodate/leetcode/LC1323_Maximum69Number/Solution.java) |
