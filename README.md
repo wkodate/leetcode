@@ -370,6 +370,7 @@ LeetCode
 | 1295 | [FindNumbersWithEvenNumberOfDigits](./src/main/java/com/wkodate/leetcode/LC1295_FindNumbersWithEvenNumberOfDigits/Solution.java) |
 | 1302 | [DeepestLeavesSum](./src/main/java/com/wkodate/leetcode/LC1302_DeepestLeavesSum/Solution.java) |
 | 1309 | [DecryptStringFromAlphabetToIntegerMapping](./src/main/java/com/wkodate/leetcode/LC1309_DecryptStringFromAlphabetToIntegerMapping/Solution.java) |
+| 1314 | [MatrixBlockSum](./src/main/java/com/wkodate/leetcode/LC1314_MatrixBlockSum/Solution.java) |
 | 1317 | [ConvertIntegerToTheSumOfTwoNoZeroIntegers](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |
 | 1323 | [Maximum69Number](./src/main/java/com/wkodate/leetcode/LC1323_Maximum69Number/Solution.java) |
 | 1337 | [TheKWeakestRowsInAMatrix](./src/main/java/com/wkodate/leetcode/LC1337_TheKWeakestRowsInAMatrix/Solution.java) |
