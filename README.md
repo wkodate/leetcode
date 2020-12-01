@@ -391,6 +391,7 @@ LeetCode
 | 1491 | [AverageSalaryExcludingTheMinimumAndMaximumSalary](./src/main/java/com/wkodate/leetcode/LC1491_AverageSalaryExcludingTheMinimumAndMaximumSalary/Solution.java) |
 | 1510 | [StoneGameIV](./src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |
 | 1523 | [CountOddNumbersInAnIntervalRange](./src/main/java/com/wkodate/leetcode/LC1523_CountOddNumbersInAnIntervalRange/Solution.java) |
+| 1525 | [NumberOfGoodWaysToSplitAString](./src/main/java/com/wkodate/leetcode/LC1525_NumberOfGoodWaysToSplitAString/Solution.java) |
 | 1550 | [ThreeConsecutiveOdds](./src/main/java/com/wkodate/leetcode/LC1550_ThreeConsecutiveOdds/Solution.java) |
 | 1556 | [ThousandSeparator](./src/main/java/com/wkodate/leetcode/LC1556_ThousandSeparator/Solution.java) |
 | 1572 | [MatrixDiagonalSum](./src/main/java/com/wkodate/leetcode/LC1572_MatrixDiagonalSum/Solution.java) |
