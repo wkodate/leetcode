@@ -154,6 +154,7 @@ LeetCode
 | 371 | [SumOfTwoIntegers](./src/main/java/com/wkodate/leetcode/LC0371_SumOfTwoIntegers/Solution.java) |
 | 374 | [GuessNumberHigherOrLower](./src/main/java/com/wkodate/leetcode/LC0374_GuessNumberHigherOrLower/Solution.java) |
 | 380 | [InsertDeleteGetRandomO1](./src/main/java/com/wkodate/leetcode/LC0380_InsertDeleteGetRandomO1/RandomizedSet.java) |
+| 382 | [LinkedListRandomNode](./src/main/java/com/wkodate/leetcode/LC0382_LinkedListRandomNode/Solution.java) |
 | 383 | [RansomNote](./src/main/java/com/wkodate/leetcode/LC0383_RansomNote/Solution.java) |
 | 384 | [ShuffleAnArray](./src/main/java/com/wkodate/leetcode/LC0384_ShuffleAnArray/Solution.java) |
 | 387 | [FirstUniqueCharacterInAString](./src/main/java/com/wkodate/leetcode/LC0387_FirstUniqueCharacterInAString/Solution.java) |
