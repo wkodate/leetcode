@@ -342,6 +342,7 @@ LeetCode
 | 1007 | [MinimumDominoRotationsForEqualRow](./src/main/java/com/wkodate/leetcode/LC1007_MinimumDominoRotationsForEqualRow/Solution.java) |
 | 1008 | [ConstructBinarySearchTreeFromPreorderTraversal](./src/main/java/com/wkodate/leetcode/LC1008_ConstructBinarySearchTreeFromPreorderTraversal/Solution.java) |
 | 1009 | [ComplementOfBase10Integer](./src/main/java/com/wkodate/leetcode/LC1009_ComplementOfBase10Integer/Solution.java) |
+| 1010 | [PairsOfSongsWithTotalDurationsDivisibleBy60](./src/main/java/com/wkodate/leetcode/LC1010_PairsOfSongsWithTotalDurationsDivisibleBy60/Solution.java) |
 | 1026 | [MaximumDifferenceBetweenNodeAndAncestor](./src/main/java/com/wkodate/leetcode/LC1026_MaximumDifferenceBetweenNodeAndAncestor/Solution.java) |
 | 1029 | [TwoCityScheduling](./src/main/java/com/wkodate/leetcode/LC1029_TwoCityScheduling/Solution.java) |
 | 1030 | [MatrixCellsInDistanceOrder](./src/main/java/com/wkodate/leetcode/LC1030_MatrixCellsInDistanceOrder/Solution.java) |
