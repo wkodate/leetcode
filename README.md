@@ -271,6 +271,7 @@ LeetCode
 | 784 | [LetterCasePermutation](./src/main/java/com/wkodate/leetcode/LC0784_LetterCasePermutation/Solution.java) |
 | 787 | [CheapestFlightsWithinKStops](./src/main/java/com/wkodate/leetcode/LC0787_CheapestFlightsWithinKStops/Solution.java) |
 | 788 | [RotatedDigits](./src/main/java/com/wkodate/leetcode/LC0788_RotatedDigits/Solution.java) |
+| 791 | [CustomSortString](./src/main/java/com/wkodate/leetcode/LC0791_CustomSortString/Solution.java) |
 | 796 | [RotateString](./src/main/java/com/wkodate/leetcode/LC0796_RotateString/Solution.java) |
 | 797 | [AllPathsFromSourceToTarget](./src/main/java/com/wkodate/leetcode/LC0797_AllPathsFromSourceToTarget/Solution.java) |
 | 804 | [UniqueMorseCodeWords](./src/main/java/com/wkodate/leetcode/LC0804_UniqueMorseCodeWords/Solution.java) |
