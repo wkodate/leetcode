@@ -293,6 +293,7 @@ LeetCode
 | 849 | [MaximizeDistanceToClosestPerson](./src/main/java/com/wkodate/leetcode/LC0849_MaximizeDistanceToClosestPerson/Solution.java) |
 | 852 | [PeakIndexInAMountainArray](./src/main/java/com/wkodate/leetcode/LC0852_PeakIndexInAMountainArray/Solution.java) |
 | 860 | [LemonadeChange](./src/main/java/com/wkodate/leetcode/LC0860_LemonadeChange/Solution.java) |
+| 865 | [SmallestSubtreeWithAllTheDeepestNodes](./src/main/java/com/wkodate/leetcode/LC0865_SmallestSubtreeWithAllTheDeepestNodes/Solution.java) |
 | 867 | [TransposeMatrix](./src/main/java/com/wkodate/leetcode/LC0867_TransposeMatrix/Solution.java) |
 | 868 | [BinaryGap](./src/main/java/com/wkodate/leetcode/LC0868_BinaryGap/Solution.java) |
 | 872 | [LeafSimilarTrees](./src/main/java/com/wkodate/leetcode/LC0872_LeafSimilarTrees/Solution.java) |
