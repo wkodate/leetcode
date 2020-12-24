@@ -15,6 +15,7 @@ LeetCode
 | 19 | [RemoveNthNodeFromEndOfList](./src/main/java/com/wkodate/leetcode/LC0019_RemoveNthNodeFromEndOfList/Solution.java) |
 | 20 | [ValidParentheses](./src/main/java/com/wkodate/leetcode/LC0020_ValidParentheses/Solution.java) |
 | 21 | [MergeTwoSortedLists](./src/main/java/com/wkodate/leetcode/LC0021_MergeTwoSortedLists/Solution.java) |
+| 24 | [SwapNodesInPairs](./src/main/java/com/wkodate/leetcode/LC0024_SwapNodesInPairs/Solution.java) |
 | 26 | [RemoveDuplicatesFromSortedArray](./src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) |
 | 27 | [RemoveElement](./src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) |
 | 28 | [ImplementStrStr](./src/main/java/com/wkodate/leetcode/LC0028_ImplementStrStr/Solution.java) |
