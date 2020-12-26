@@ -409,3 +409,4 @@ LeetCode
 | 1572 | [MatrixDiagonalSum](./src/main/java/com/wkodate/leetcode/LC1572_MatrixDiagonalSum/Solution.java) |
 | 1588 | [SumOfAllOddLengthSubarrays](./src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |
 | 1605 | [FindValidMatrixGivenRowAndColumnSums](./src/main/java/com/wkodate/leetcode/LC1605_FindValidMatrixGivenRowAndColumnSums/Solution.java) |
+| 1694 | [ReformatPhoneNumber](./src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |
