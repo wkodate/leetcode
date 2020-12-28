@@ -406,6 +406,7 @@ LeetCode
 | 1525 | [NumberOfGoodWaysToSplitAString](./src/main/java/com/wkodate/leetcode/LC1525_NumberOfGoodWaysToSplitAString/Solution.java) |
 | 1550 | [ThreeConsecutiveOdds](./src/main/java/com/wkodate/leetcode/LC1550_ThreeConsecutiveOdds/Solution.java) |
 | 1556 | [ThousandSeparator](./src/main/java/com/wkodate/leetcode/LC1556_ThousandSeparator/Solution.java) |
+| 1561 | [MaximumNumberOfCoinsYouCanGet](./src/main/java/com/wkodate/leetcode/LC1561_MaximumNumberOfCoinsYouCanGet/Solution.java) |
 | 1572 | [MatrixDiagonalSum](./src/main/java/com/wkodate/leetcode/LC1572_MatrixDiagonalSum/Solution.java) |
 | 1588 | [SumOfAllOddLengthSubarrays](./src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |
 | 1605 | [FindValidMatrixGivenRowAndColumnSums](./src/main/java/com/wkodate/leetcode/LC1605_FindValidMatrixGivenRowAndColumnSums/Solution.java) |
