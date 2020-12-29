@@ -389,6 +389,7 @@ LeetCode
 | 1356 | [SortIntegersByTheNumberOf1Bits](./src/main/java/com/wkodate/leetcode/LC1356_SortIntegersByTheNumberOf1Bits/Solution.java) |
 | 1365 | [HowManyNumbersAreSmallerThanTheCurrentNumber](./src/main/java/com/wkodate/leetcode/LC1365_HowManyNumbersAreSmallerThanTheCurrentNumber/Solution.java) |
 | 1374 | [GenerateAStringWithCharactersThatHaveOddCounts](./src/main/java/com/wkodate/leetcode/LC1374_GenerateAStringWithCharactersThatHaveOddCounts/Solution.java) |
+| 1380 | [LuckyNumbersInAMatrix](./src/main/java/com/wkodate/leetcode/LC1380_LuckyNumbersInAMatrix/Solution.java) |
 | 1387 | [SortIntegersByThePowerValue](./src/main/java/com/wkodate/leetcode/LC1387_SortIntegersByThePowerValue/Solution.java) |
 | 1400 | [ConstructKPalindromeStrings](./src/main/java/com/wkodate/leetcode/LC1400_ConstructKPalindromeStrings/Solution.java) |
 | 1403 | [MinimumSubsequenceInNonIncreasingOrder](./src/main/java/com/wkodate/leetcode/LC1403_MinimumSubsequenceInNonIncreasingOrder/Solution.java) |
