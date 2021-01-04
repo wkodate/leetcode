@@ -415,4 +415,5 @@ LeetCode
 | 1588 | [SumOfAllOddLengthSubarrays](./src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |
 | 1605 | [FindValidMatrixGivenRowAndColumnSums](./src/main/java/com/wkodate/leetcode/LC1605_FindValidMatrixGivenRowAndColumnSums/Solution.java) |
 | 1640 | [CheckArrayFormationThroughConcatenation](./src/main/java/com/wkodate/leetcode/LC1640_CheckArrayFormationThroughConcatenation/Solution.java) |
+| 1669 | [MergeInBetweenLinkedLists](./src/main/java/com/wkodate/leetcode/LC1669_MergeInBetweenLinkedLists/Solution.java) |
 | 1694 | [ReformatPhoneNumber](./src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |
