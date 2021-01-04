@@ -197,6 +197,7 @@ LeetCode
 | 520 | [DetectCapital](./src/main/java/com/wkodate/leetcode/LC0520_DetectCapital/Solution.java) |
 | 521 | [LongestUncommonSubsequenceI](./src/main/java/com/wkodate/leetcode/LC0521_LongestUncommonSubsequenceI/Solution.java) |
 | 525 | [ContiguousArray](./src/main/java/com/wkodate/leetcode/LC0525_ContiguousArray/Solution.java) |
+| 526 | [BeautifulArrangement](./src/main/java/com/wkodate/leetcode/LC0526_BeautifulArrangement/Solution.java) |
 | 528 | [RandomPickWithWeight](./src/main/java/com/wkodate/leetcode/LC0528_RandomPickWithWeight/Solution.java) |
 | 535 | [EncodeAndDecodeTinyURL](./src/main/java/com/wkodate/leetcode/LC0535_EncodeAndDecodeTinyURL/Codec.java) |
 | 538 | [ConvertBSTToGreaterTree](./src/main/java/com/wkodate/leetcode/LC0538_ConvertBSTToGreaterTree/Solution.java) |
