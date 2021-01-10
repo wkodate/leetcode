@@ -394,6 +394,7 @@ LeetCode
 | 1379 | [FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree](./src/main/java/com/wkodate/leetcode/LC1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree/Solution.java) |
 | 1380 | [LuckyNumbersInAMatrix](./src/main/java/com/wkodate/leetcode/LC1380_LuckyNumbersInAMatrix/Solution.java) |
 | 1387 | [SortIntegersByThePowerValue](./src/main/java/com/wkodate/leetcode/LC1387_SortIntegersByThePowerValue/Solution.java) |
+| 1389 | [CreateTargetArrayInTheGivenOrder](./src/main/java/com/wkodate/leetcode/LC1389_CreateTargetArrayInTheGivenOrder/Solution.java) |
 | 1400 | [ConstructKPalindromeStrings](./src/main/java/com/wkodate/leetcode/LC1400_ConstructKPalindromeStrings/Solution.java) |
 | 1403 | [MinimumSubsequenceInNonIncreasingOrder](./src/main/java/com/wkodate/leetcode/LC1403_MinimumSubsequenceInNonIncreasingOrder/Solution.java) |
 | 1408 | [StringMatchingInAnArray](./src/main/java/com/wkodate/leetcode/LC1408_StringMatchingInAnArray/Solution.java) |
