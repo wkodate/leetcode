@@ -361,6 +361,7 @@ LeetCode
 | 1089 | [DuplicateZeros](./src/main/java/com/wkodate/leetcode/LC1089_DuplicateZeros/Solution.java) |
 | 1103 | [DistributeCandiesToPeople](./src/main/java/com/wkodate/leetcode/LC1103_DistributeCandiesToPeople/Solution.java) |
 | 1108 | [DefangingAnIPAddress](./src/main/java/com/wkodate/leetcode/LC1108_DefangingAnIPAddress/Solution.java) |
+| 1122 | [RelativeSortArray](./src/main/java/com/wkodate/leetcode/LC1122_RelativeSortArray/Solution.java) |
 | 1137 | [NthTribonacciNumber](./src/main/java/com/wkodate/leetcode/LC1137_NthTribonacciNumber/Solution.java) |
 | 1143 | [LongestCommonSubsequence](./src/main/java/com/wkodate/leetcode/LC1143_LongestCommonSubsequence/Solution.java) |
 | 1160 | [FindWordsThatCanBeFormedByCharacters](./src/main/java/com/wkodate/leetcode/LC1160_FindWordsThatCanBeFormedByCharacters/Solution.java) |
