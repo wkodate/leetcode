@@ -301,6 +301,7 @@ LeetCode
 | 868 | [BinaryGap](./src/main/java/com/wkodate/leetcode/LC0868_BinaryGap/Solution.java) |
 | 872 | [LeafSimilarTrees](./src/main/java/com/wkodate/leetcode/LC0872_LeafSimilarTrees/Solution.java) |
 | 876 | [MiddleOfTheLinkedList](./src/main/java/com/wkodate/leetcode/LC0876_MiddleOfTheLinkedList/Solution.java) |
+| 881 | [BoatsToSavePeople](./src/main/java/com/wkodate/leetcode/LC0881_BoatsToSavePeople/Solution.java) |
 | 883 | [ProjectionAreaOf3DShapes](./src/main/java/com/wkodate/leetcode/LC0883_ProjectionAreaOf3DShapes/Solution.java) |
 | 884 | [UncommonWordsFromTwoSentences](./src/main/java/com/wkodate/leetcode/LC0884_UncommonWordsFromTwoSentences/Solution.java) |
 | 886 | [PossibleBipartition](./src/main/java/com/wkodate/leetcode/LC0886_PossibleBipartition/Solution.java) |
