@@ -413,6 +413,7 @@ LeetCode
 | 1491 | [AverageSalaryExcludingTheMinimumAndMaximumSalary](./src/main/java/com/wkodate/leetcode/LC1491_AverageSalaryExcludingTheMinimumAndMaximumSalary/Solution.java) |
 | 1492 | [TheKthFactorOfN](./src/main/java/com/wkodate/leetcode/LC1492_TheKthFactorOfN/Solution.java) |
 | 1510 | [StoneGameIV](./src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |
+| 1512 | [NumberOfGoodPairs](./src/main/java/com/wkodate/leetcode/LC1512_NumberOfGoodPairs/Solution.java) |
 | 1523 | [CountOddNumbersInAnIntervalRange](./src/main/java/com/wkodate/leetcode/LC1523_CountOddNumbersInAnIntervalRange/Solution.java) |
 | 1525 | [NumberOfGoodWaysToSplitAString](./src/main/java/com/wkodate/leetcode/LC1525_NumberOfGoodWaysToSplitAString/Solution.java) |
 | 1539 | [KthMissingPositiveNumber](./src/main/java/com/wkodate/leetcode/LC1539_KthMissingPositiveNumber/Solution.java) |
