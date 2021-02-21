@@ -9,6 +9,7 @@ LeetCode
 | 7 | [ReverseInteger](./src/main/java/com/wkodate/leetcode/LC0007_ReverseInteger/Solution.java) |
 | 8 | [StringToInteger](./src/main/java/com/wkodate/leetcode/LC0008_StringToInteger/Solution.java) |
 | 9 | [PalindromeNumber](./src/main/java/com/wkodate/leetcode/LC0009_PalindromeNumber/Solution.java) |
+| 12 | [IntegerToRoman](./src/main/java/com/wkodate/leetcode/LC0012_IntegerToRoman/Solution.java) |
 | 13 | [RomanToInteger](./src/main/java/com/wkodate/leetcode/LC0013_RomanToInteger/Solution.java) |
 | 14 | [LongestCommonPrefix](./src/main/java/com/wkodate/leetcode/LC0014_LongestCommonPrefix/Solution.java) |
 | 15 | [3Sum](./src/main/java/com/wkodate/leetcode/LC0015_3Sum/Solution.java) |
