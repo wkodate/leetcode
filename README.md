@@ -329,6 +329,7 @@ LeetCode
 | 941 | [ValidMountainArray](./src/main/java/com/wkodate/leetcode/LC0941_ValidMountainArray/Solution.java) |
 | 942 | [DIStringMatch](./src/main/java/com/wkodate/leetcode/LC0942_DIStringMatch/Solution.java) |
 | 944 | [DeleteColumnsToMakeSorted](./src/main/java/com/wkodate/leetcode/LC0944_DeleteColumnsToMakeSorted/Solution.java) |
+| 946 | [ValidateStackSequences](./src/main/java/com/wkodate/leetcode/LC0946_ValidateStackSequences/Solution.java) |
 | 948 | [BagOfTokens](./src/main/java/com/wkodate/leetcode/LC0948_BagOfTokens/Solution.java) |
 | 949 | [LargestTimeForGivenDigits](./src/main/java/com/wkodate/leetcode/LC0949_LargestTimeForGivenDigits/Solution.java) |
 | 953 | [VerifyingAnAlienDictionary](./src/main/java/com/wkodate/leetcode/LC0953_VerifyingAnAlienDictionary/Solution.java) |
