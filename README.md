@@ -394,6 +394,7 @@ LeetCode
 | 1317 | [ConvertIntegerToTheSumOfTwoNoZeroIntegers](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |
 | 1323 | [Maximum69Number](./src/main/java/com/wkodate/leetcode/LC1323_Maximum69Number/Solution.java) |
 | 1329 | [SortTheMatrixDiagonally](./src/main/java/com/wkodate/leetcode/LC1329_SortTheMatrixDiagonally/Solution.java) |
+| 1332 | [RemovePalindromicSubsequences](./src/main/java/com/wkodate/leetcode/LC1332_RemovePalindromicSubsequences/Solution.java) |
 | 1337 | [TheKWeakestRowsInAMatrix](./src/main/java/com/wkodate/leetcode/LC1337_TheKWeakestRowsInAMatrix/Solution.java) |
 | 1342 | [NumberOfStepsToRReduceANumberToZero](./src/main/java/com/wkodate/leetcode/LC1342_NumberOfStepsToRReduceANumberToZero/Solution.java) |
 | 1344 | [AngleBetweenHandsOfAClock](./src/main/java/com/wkodate/leetcode/LC1344_AngleBetweenHandsOfAClock/Solution.java) |
