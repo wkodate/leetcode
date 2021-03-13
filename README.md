@@ -415,6 +415,7 @@ LeetCode
 | 1446 | [ConsecutiveCharacters](./src/main/java/com/wkodate/leetcode/LC1446_ConsecutiveCharacters/Solution.java) |
 | 1451 | [RearrangeWordsInASentence](./src/main/java/com/wkodate/leetcode/LC1451_RearrangeWordsInASentence/Solution.java) |
 | 1460 | [MakeTwoArraysEqualByReversingSubArrays](./src/main/java/com/wkodate/leetcode/LC1460_MakeTwoArraysEqualByReversingSubArrays/Solution.java) |
+| 1461 | [CheckIfAStringContainsAllBinaryCodesOfSizeK](./src/main/java/com/wkodate/leetcode/LC1461_CheckIfAStringContainsAllBinaryCodesOfSizeK/Solution.java) |
 | 1464 | [MaximumProductOfTwoElementsInAnArray](./src/main/java/com/wkodate/leetcode/LC1464_MaximumProductOfTwoElementsInAnArray/Solution.java) |
 | 1475 | [FinalPricesWithASpecialDiscountInAShop](./src/main/java/com/wkodate/leetcode/LC1475_FinalPricesWithASpecialDiscountInAShop/Solution.java) |
 | 1476 | [SubrectangleQueries](./src/main/java/com/wkodate/leetcode/LC1476_SubrectangleQueries/SubrectangleQueries.java) |
