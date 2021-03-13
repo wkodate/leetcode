@@ -144,6 +144,7 @@ LeetCode
 | 300 | [LongestIncreasingSubsequence](./src/main/java/com/wkodate/leetcode/LC0300_LongestIncreasingSubsequence/Solution.java) |
 | 303 | [RangeSumQueryImmutable](./src/main/java/com/wkodate/leetcode/LC0303_RangeSumQueryImmutable/NumArray.java) |
 | 309 | [BestTimeToBuyAndSellStockWithCooldown](./src/main/java/com/wkodate/leetcode/LC0309_BestTimeToBuyAndSellStockWithCooldown/Solution.java) |
+| 322 | [CoinChange](./src/main/java/com/wkodate/leetcode/LC0322_CoinChange/Solution.java) |
 | 326 | [PowerOfThree](./src/main/java/com/wkodate/leetcode/LC0326_PowerOfThree/Solution.java) |
 | 328 | [OddEvenLinkedList](./src/main/java/com/wkodate/leetcode/LC0328_OddEvenLinkedList/Solution.java) |
 | 332 | [ReconstructItinerary](./src/main/java/com/wkodate/leetcode/LC0332_ReconstructItinerary/Solution.java) |
