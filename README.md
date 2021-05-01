@@ -411,6 +411,7 @@ LeetCode
 | 1403 | [MinimumSubsequenceInNonIncreasingOrder](./src/main/java/com/wkodate/leetcode/LC1403_MinimumSubsequenceInNonIncreasingOrder/Solution.java) |
 | 1408 | [StringMatchingInAnArray](./src/main/java/com/wkodate/leetcode/LC1408_StringMatchingInAnArray/Solution.java) |
 | 1417 | [ReformatTheString](./src/main/java/com/wkodate/leetcode/LC1417_ReformatTheString/Solution.java) |
+| 1431 | [KidsWithTheGreatestNumberOfCandies](./src/main/java/com/wkodate/leetcode/LC1431_KidsWithTheGreatestNumberOfCandies/Solution.java) |
 | 1437 | [CheckIfAll1sAreAtLeastLengthKPlacesAway](./src/main/java/com/wkodate/leetcode/LC1437_CheckIfAll1sAreAtLeastLengthKPlacesAway/Solution.java) |
 | 1446 | [ConsecutiveCharacters](./src/main/java/com/wkodate/leetcode/LC1446_ConsecutiveCharacters/Solution.java) |
 | 1451 | [RearrangeWordsInASentence](./src/main/java/com/wkodate/leetcode/LC1451_RearrangeWordsInASentence/Solution.java) |
