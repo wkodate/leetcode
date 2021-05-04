@@ -402,6 +402,7 @@ LeetCode
 | 1347 | [MinimumNumberOfStepsToMakeTwoStringsAnagram](./src/main/java/com/wkodate/leetcode/LC1347_MinimumNumberOfStepsToMakeTwoStringsAnagram/Solution.java) |
 | 1356 | [SortIntegersByTheNumberOf1Bits](./src/main/java/com/wkodate/leetcode/LC1356_SortIntegersByTheNumberOf1Bits/Solution.java) |
 | 1365 | [HowManyNumbersAreSmallerThanTheCurrentNumber](./src/main/java/com/wkodate/leetcode/LC1365_HowManyNumbersAreSmallerThanTheCurrentNumber/Solution.java) |
+| 1370 | [IncreasingDecreasingString](./src/main/java/com/wkodate/leetcode/LC1370_IncreasingDecreasingString/Solution.java) |
 | 1374 | [GenerateAStringWithCharactersThatHaveOddCounts](./src/main/java/com/wkodate/leetcode/LC1374_GenerateAStringWithCharactersThatHaveOddCounts/Solution.java) |
 | 1379 | [FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree](./src/main/java/com/wkodate/leetcode/LC1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree/Solution.java) |
 | 1380 | [LuckyNumbersInAMatrix](./src/main/java/com/wkodate/leetcode/LC1380_LuckyNumbersInAMatrix/Solution.java) |
