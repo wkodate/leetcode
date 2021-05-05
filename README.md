@@ -441,5 +441,6 @@ LeetCode
 | 1657 | [DetermineIfTwoStringsAreClose](./src/main/java/com/wkodate/leetcode/LC1657_DetermineIfTwoStringsAreClose/Solution.java) |
 | 1662 | [CheckIfTwoStringArraysAreEquivalent](./src/main/java/com/wkodate/leetcode/LC1662_CheckIfTwoStringArraysAreEquivalent/Solution.java) |
 | 1669 | [MergeInBetweenLinkedLists](./src/main/java/com/wkodate/leetcode/LC1669_MergeInBetweenLinkedLists/Solution.java) |
+| 1672 | [RichestCustomerWealth](./src/main/java/com/wkodate/leetcode/LC1672_RichestCustomerWealth/Solution.java) |
 | 1684 | [CountTheNumberOfConsistentStrings](./src/main/java/com/wkodate/leetcode/LC1684_CountTheNumberOfConsistentStrings/Solution.java) |
 | 1694 | [ReformatPhoneNumber](./src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |
