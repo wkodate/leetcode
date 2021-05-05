@@ -26,6 +26,7 @@ LeetCode
 | 35 | [SearchInsertPosition](./src/main/java/com/wkodate/leetcode/LC0035_SearchInsertPosition/Solution.java) |
 | 36 | [ValidSudoku](./src/main/java/com/wkodate/leetcode/LC0036_ValidSudoku/Solution.java) |
 | 38 | [CountAndSay](./src/main/java/com/wkodate/leetcode/LC0038_CountAndSay/Solution.java) |
+| 45 | [JumpGameII](./src/main/java/com/wkodate/leetcode/LC0045_JumpGameII/Solution.java) |
 | 46 | [Permutation](./src/main/java/com/wkodate/leetcode/LC0046_Permutation/Solution.java) |
 | 47 | [PermutationsII](./src/main/java/com/wkodate/leetcode/LC0047_PermutationsII/Solution.java) |
 | 49 | [GroupAnagrams](./src/main/java/com/wkodate/leetcode/LC0049_GroupAnagrams/Solution.java) |
