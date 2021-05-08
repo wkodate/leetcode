@@ -445,3 +445,4 @@ LeetCode
 | 1672 | [RichestCustomerWealth](./src/main/java/com/wkodate/leetcode/LC1672_RichestCustomerWealth/Solution.java) |
 | 1684 | [CountTheNumberOfConsistentStrings](./src/main/java/com/wkodate/leetcode/LC1684_CountTheNumberOfConsistentStrings/Solution.java) |
 | 1694 | [ReformatPhoneNumber](./src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |
+| 1848 | [MinimumDistanceToTheTargetElement](./src/main/java/com/wkodate/leetcode/LC1848_MinimumDistanceToTheTargetElement/Solution.java) |
