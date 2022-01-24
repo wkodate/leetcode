@@ -1,448 +1,448 @@
 LeetCode
 ===
 
-| Num | Solution |
-| -- | -- |
-| 1 | [TwoSum](./src/main/java/com/wkodate/leetcode/LC0001_TwoSum/Solution.java) |
-| 2 | [AddTwoNumbers](./src/main/java/com/wkodate/leetcode/LC0002_AddTwoNumbers/Solution.java) |
-| 3 | [LongestSubstringWithoutRepeatingCharacters](./src/main/java/com/wkodate/leetcode/LC0003_LongestSubstringWithoutRepeatingCharacters/Solution.java) |
-| 7 | [ReverseInteger](./src/main/java/com/wkodate/leetcode/LC0007_ReverseInteger/Solution.java) |
-| 8 | [StringToInteger](./src/main/java/com/wkodate/leetcode/LC0008_StringToInteger/Solution.java) |
-| 9 | [PalindromeNumber](./src/main/java/com/wkodate/leetcode/LC0009_PalindromeNumber/Solution.java) |
-| 12 | [IntegerToRoman](./src/main/java/com/wkodate/leetcode/LC0012_IntegerToRoman/Solution.java) |
-| 13 | [RomanToInteger](./src/main/java/com/wkodate/leetcode/LC0013_RomanToInteger/Solution.java) |
-| 14 | [LongestCommonPrefix](./src/main/java/com/wkodate/leetcode/LC0014_LongestCommonPrefix/Solution.java) |
-| 15 | [3Sum](./src/main/java/com/wkodate/leetcode/LC0015_3Sum/Solution.java) |
-| 19 | [RemoveNthNodeFromEndOfList](./src/main/java/com/wkodate/leetcode/LC0019_RemoveNthNodeFromEndOfList/Solution.java) |
-| 20 | [ValidParentheses](./src/main/java/com/wkodate/leetcode/LC0020_ValidParentheses/Solution.java) |
-| 21 | [MergeTwoSortedLists](./src/main/java/com/wkodate/leetcode/LC0021_MergeTwoSortedLists/Solution.java) |
-| 24 | [SwapNodesInPairs](./src/main/java/com/wkodate/leetcode/LC0024_SwapNodesInPairs/Solution.java) |
-| 26 | [RemoveDuplicatesFromSortedArray](./src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) |
-| 27 | [RemoveElement](./src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) |
-| 28 | [ImplementStrStr](./src/main/java/com/wkodate/leetcode/LC0028_ImplementStrStr/Solution.java) |
-| 31 | [NextPermutation](./src/main/java/com/wkodate/leetcode/LC0031_NextPermutation/Solution.java) |
-| 33 | [SearchInRotatedSortedArray](./src/main/java/com/wkodate/leetcode/LC0033_SearchInRotatedSortedArray/Solution.java) |
-| 34 | [FindFirstAndLastPositionOfElementInSortedArray](./src/main/java/com/wkodate/leetcode/LC0034_FindFirstAndLastPositionOfElementInSortedArray/Solution.java) |
-| 35 | [SearchInsertPosition](./src/main/java/com/wkodate/leetcode/LC0035_SearchInsertPosition/Solution.java) |
-| 36 | [ValidSudoku](./src/main/java/com/wkodate/leetcode/LC0036_ValidSudoku/Solution.java) |
-| 38 | [CountAndSay](./src/main/java/com/wkodate/leetcode/LC0038_CountAndSay/Solution.java) |
-| 45 | [JumpGameII](./src/main/java/com/wkodate/leetcode/LC0045_JumpGameII/Solution.java) |
-| 46 | [Permutation](./src/main/java/com/wkodate/leetcode/LC0046_Permutation/Solution.java) |
-| 47 | [PermutationsII](./src/main/java/com/wkodate/leetcode/LC0047_PermutationsII/Solution.java) |
-| 49 | [GroupAnagrams](./src/main/java/com/wkodate/leetcode/LC0049_GroupAnagrams/Solution.java) |
-| 50 | [Powxn](./src/main/java/com/wkodate/leetcode/LC0050_Powxn/Solution.java) |
-| 53 | [MaximumSubarray](./src/main/java/com/wkodate/leetcode/LC0053_MaximumSubarray/Solution.java) |
-| 54 | [SpiralMatrix](./src/main/java/com/wkodate/leetcode/LC0054_SpiralMatrix/Solution.java) |
-| 55 | [JumpGame](./src/main/java/com/wkodate/leetcode/LC0055_JumpGame/Solution.java) |
-| 56 | [MergeIntervals](./src/main/java/com/wkodate/leetcode/LC0056_MergeIntervals/Solution.java) |
-| 58 | [LengthOfLastWord](./src/main/java/com/wkodate/leetcode/LC0058_LengthOfLastWord/Solution.java) |
-| 59 | [SpiralMatrixII](./src/main/java/com/wkodate/leetcode/LC0059_SpiralMatrixII/Solution.java) |
-| 60 | [PermutationSequence](./src/main/java/com/wkodate/leetcode/LC0060_PermutationSequence/Solution.java) |
-| 61 | [RotateList](./src/main/java/com/wkodate/leetcode/LC0061_RotateList/Solution.java) |
-| 62 | [UniquePaths](./src/main/java/com/wkodate/leetcode/LC0062_UniquePaths/Solution.java) |
-| 64 | [MinimumPathSum](./src/main/java/com/wkodate/leetcode/LC0064_MinimumPathSum/Solution.java) |
-| 66 | [PlusOne](./src/main/java/com/wkodate/leetcode/LC0066_PlusOne/Solution.java) |
-| 67 | [AddBinary](./src/main/java/com/wkodate/leetcode/LC0067_AddBinary/Solution.java) |
-| 69 | [Sqrtx](./src/main/java/com/wkodate/leetcode/LC0069_Sqrtx/Solution.java) |
-| 70 | [ClimbingStairs](./src/main/java/com/wkodate/leetcode/LC0070_ClimbingStairs/Solution.java) |
-| 72 | [EditDistance](./src/main/java/com/wkodate/leetcode/LC0072_EditDistance/Solution.java) |
-| 74 | [SearchA2DMatrix](./src/main/java/com/wkodate/leetcode/LC0074_SearchA2DMatrix/Solution.java) |
-| 75 | [SortColors](./src/main/java/com/wkodate/leetcode/LC0075_SortColors/Solution.java) |
-| 78 | [Subsets](./src/main/java/com/wkodate/leetcode/LC0078_Subsets/Solution.java) |
-| 79 | [WordSearch](./src/main/java/com/wkodate/leetcode/LC0079_WordSearch/Solution.java) |
-| 80 | [RemoveDuplicatesFromSortedArrayII](./src/main/java/com/wkodate/leetcode/LC0080_RemoveDuplicatesFromSortedArrayII/Solution.java) |
-| 83 | [RemoveDuplicatesFromSortedList](./src/main/java/com/wkodate/leetcode/LC0083_RemoveDuplicatesFromSortedList/Solution.java) |
-| 88 | [MergeSortedArray](./src/main/java/com/wkodate/leetcode/LC0088_MergeSortedArray/Solution.java) |
-| 94 | [BinaryTreeInorderTraversal](./src/main/java/com/wkodate/leetcode/LC0094_BinaryTreeInorderTraversal/Solution.java) |
-| 96 | [UniqueBinarySearchTrees](./src/main/java/com/wkodate/leetcode/LC0096_UniqueBinarySearchTrees/Solution.java) |
-| 98 | [ValidateBinarySearchTree](./src/main/java/com/wkodate/leetcode/LC0098_ValidateBinarySearchTree/Solution.java) |
-| 100 | [SameTree](./src/main/java/com/wkodate/leetcode/LC0100_SameTree/Solution.java) |
-| 101 | [SymmetricTree](./src/main/java/com/wkodate/leetcode/LC0101_SymmetricTree/Solution.java) |
-| 102 | [BinaryTreeLevelOrderTraversal](./src/main/java/com/wkodate/leetcode/LC0102_BinaryTreeLevelOrderTraversal/Solution.java) |
-| 103 | [BinaryTreeZigzagLevelOrderTraversal](./src/main/java/com/wkodate/leetcode/LC0103_BinaryTreeZigzagLevelOrderTraversal/Solution.java) |
-| 104 | [MaximumDepthOfBinaryTree](./src/main/java/com/wkodate/leetcode/LC0104_MaximumDepthOfBinaryTree/Solution.java) |
-| 106 | [ConstructBinaryTreeFromInorderAndPostorderTraversal](./src/main/java/com/wkodate/leetcode/LC0106_ConstructBinaryTreeFromInorderAndPostorderTraversal/Solution.java) |
-| 107 | [BinaryTreeLevelOrderTraversalII](./src/main/java/com/wkodate/leetcode/LC0107_BinaryTreeLevelOrderTraversalII/Solution.java) |
-| 108 | [ConvertSortedArrayToBinarySearchTree](./src/main/java/com/wkodate/leetcode/LC0108_ConvertSortedArrayToBinarySearchTree/Solution.java) |
-| 111 | [MinimumDepthOfBinaryTree](./src/main/java/com/wkodate/leetcode/LC0111_MinimumDepthOfBinaryTree/Solution.java) |
-| 112 | [PathSum](./src/main/java/com/wkodate/leetcode/LC0112_PathSum/Solution.java) |
-| 116 | [PopulatingNextRightPointersInEachNode](./src/main/java/com/wkodate/leetcode/LC0116_PopulatingNextRightPointersInEachNode/Solution.java) |
-| 118 | [PascalsTriangle](./src/main/java/com/wkodate/leetcode/LC0118_PascalsTriangle/Solution.java) |
-| 119 | [PascalsTriangleII](./src/main/java/com/wkodate/leetcode/LC0119_PascalsTriangleII/Solution.java) |
-| 121 | [BestTimeToBuyAndSellStock](./src/main/java/com/wkodate/leetcode/LC0121_BestTimeToBuyAndSellStock/Solution.java) |
-| 122 | [BestTimeToBuyAndSellStockII](./src/main/java/com/wkodate/leetcode/LC0122_BestTimeToBuyAndSellStockII/Solution.java) |
-| 123 | [BestTimeToBuyAndSellStockIII](./src/main/java/com/wkodate/leetcode/LC0123_BestTimeToBuyAndSellStockIII/Solution.java) |
-| 124 | [BinaryTreeMaximumPathSum](./src/main/java/com/wkodate/leetcode/LC0124_BinaryTreeMaximumPathSum/Solution.java) |
-| 125 | [ValidPalindrome](./src/main/java/com/wkodate/leetcode/LC0125_ValidPalindrome/Solution.java) |
-| 129 | [SumRootToLeafNumbers](./src/main/java/com/wkodate/leetcode/LC0129_SumRootToLeafNumbers/Solution.java) |
-| 130 | [SurroundedRegions](./src/main/java/com/wkodate/leetcode/LC0130_SurroundedRegions/Solution.java) |
-| 133 | [CloneGraph](./src/main/java/com/wkodate/leetcode/LC0133_CloneGraph/Solution.java) |
-| 136 | [SingleNumber](./src/main/java/com/wkodate/leetcode/LC0136_SingleNumber/Solution.java) |
-| 137 | [SingleNumberII](./src/main/java/com/wkodate/leetcode/LC0137_SingleNumberII/Solution.java) |
-| 138 | [CopyListWithRandomPointer](./src/main/java/com/wkodate/leetcode/LC0138_CopyListWithRandomPointer/Solution.java) |
-| 140 | [WordBreakII](./src/main/java/com/wkodate/leetcode/LC0140_WordBreakII/Solution.java) |
-| 141 | [LinkedListCycle](./src/main/java/com/wkodate/leetcode/LC0141_LinkedListCycle/Solution.java) |
-| 142 | [LinkedListCycleII](./src/main/java/com/wkodate/leetcode/LC0142_LinkedListCycleII/Solution.java) |
-| 143 | [ReorderList](./src/main/java/com/wkodate/leetcode/LC0143_ReorderList/Solution.java) |
-| 146 | [LRUCache](./src/main/java/com/wkodate/leetcode/LC0146_LRUCache/LRUCache.java) |
-| 150 | [EvaluateReversePolishNotation](./src/main/java/com/wkodate/leetcode/LC0150_EvaluateReversePolishNotation/Solution.java) |
-| 151 | [ReverseWordsInAString](./src/main/java/com/wkodate/leetcode/LC0151_ReverseWordsInAString/Solution.java) |
-| 153 | [FindMinimumInRotatedSortedArray](./src/main/java/com/wkodate/leetcode/LC0153_FindMinimumInRotatedSortedArray/Solution.java) |
-| 154 | [FindMinimumInRotatedSortedArrayII](./src/main/java/com/wkodate/leetcode/LC0154_FindMinimumInRotatedSortedArrayII/Solution.java) |
-| 155 | [MinStack](./src/main/java/com/wkodate/leetcode/LC0155_MinStack/MinStack2.java) |
-| 160 | [IntersectionOfTwoLinkedLists](./src/main/java/com/wkodate/leetcode/LC0160_IntersectionOfTwoLinkedLists/Solution.java) |
-| 162 | [FindPeakElement](./src/main/java/com/wkodate/leetcode/LC0162_FindPeakElement/Solution.java) |
-| 167 | [TwoSumII](./src/main/java/com/wkodate/leetcode/LC0167_TwoSumII/Solution.java) |
-| 169 | [MajorityElement](./src/main/java/com/wkodate/leetcode/LC0169_MajorityElement/Solution.java) |
-| 171 | [ExcelSheetColumnNumber](./src/main/java/com/wkodate/leetcode/LC0171_ExcelSheetColumnNumber/Solution.java) |
-| 172 | [FactorialTrailingZeroes](./src/main/java/com/wkodate/leetcode/LC0172_FactorialTrailingZeroes/Solution.java) |
-| 174 | [DungeonGame](./src/main/java/com/wkodate/leetcode/LC0174_DungeonGame/Solution.java) |
-| 187 | [RepeatedDNASequences](./src/main/java/com/wkodate/leetcode/LC0187_RepeatedDNASequences/Solution.java) |
-| 189 | [RotateArray](./src/main/java/com/wkodate/leetcode/LC0189_RotateArray/Solution.java) |
-| 190 | [ReverseBits](./src/main/java/com/wkodate/leetcode/LC0190_ReverseBits/Solution.java) |
-| 191 | [NumberOf1Bits](./src/main/java/com/wkodate/leetcode/LC0191_NumberOf1Bits/Solution.java) |
-| 198 | [HouseRobber](./src/main/java/com/wkodate/leetcode/LC0198_HouseRobber/Solution.java) |
-| 200 | [NumberOfIslands](./src/main/java/com/wkodate/leetcode/LC0200_NumberOfIslands/Solution.java) |
-| 201 | [BitwiseANDOfNumbersRange](./src/main/java/com/wkodate/leetcode/LC0201_BitwiseANDOfNumbersRange/Solution.java) |
-| 202 | [HappyNumber](./src/main/java/com/wkodate/leetcode/LC0202_HappyNumber/Solution.java) |
-| 203 | [RemoveLinkedListElements](./src/main/java/com/wkodate/leetcode/LC0203_RemoveLinkedListElements/Solution.java) |
-| 204 | [CountPrimes](./src/main/java/com/wkodate/leetcode/LC0204_CountPrimes/Solution.java) |
-| 205 | [IsomorphicStrings](./src/main/java/com/wkodate/leetcode/LC0205_IsomorphicStrings/Solution.java) |
-| 206 | [ReverseLinkedList](./src/main/java/com/wkodate/leetcode/LC0206_ReverseLinkedList/Solution.java) |
-| 207 | [CourseSchedule](./src/main/java/com/wkodate/leetcode/LC0207_CourseSchedule/Solution.java) |
-| 208 | [ImplementTriePrefixTree](./src/main/java/com/wkodate/leetcode/LC0208_ImplementTriePrefixTree/Trie.java) |
-| 209 | [MinimumSizeSubarraySum](./src/main/java/com/wkodate/leetcode/LC0209_MinimumSizeSubarraySum/Solution.java) |
-| 210 | [CourseScheduleII](./src/main/java/com/wkodate/leetcode/LC0210_CourseScheduleII/Solution.java) |
-| 211 | [AddAndSearchWord_DataStructureDesign](./src/main/java/com/wkodate/leetcode/LC0211_AddAndSearchWord_DataStructureDesign/WordDictionary.java) |
-| 212 | [WordSearchII](./src/main/java/com/wkodate/leetcode/LC0212_WordSearchII/Solution.java) |
-| 215 | [KthLargestElementInAnArray](./src/main/java/com/wkodate/leetcode/LC0215_KthLargestElementInAnArray/Solution.java) |
-| 217 | [ContainsDuplicate](./src/main/java/com/wkodate/leetcode/LC0217_ContainsDuplicate/Solution.java) |
-| 219 | [ContainsDuplicateII](./src/main/java/com/wkodate/leetcode/LC0219_ContainsDuplicateII/Solution.java) |
-| 221 | [MaximalSquare](./src/main/java/com/wkodate/leetcode/LC0221_MaximalSquare/Solution.java) |
-| 222 | [CountCompleteTreeNodes](./src/main/java/com/wkodate/leetcode/LC0222_CountCompleteTreeNodes/Solution.java) |
-| 225 | [ImplementStackUsingQueues](./src/main/java/com/wkodate/leetcode/LC0225_ImplementStackUsingQueues/MyStack.java) |
-| 226 | [InvertBinaryTree](./src/main/java/com/wkodate/leetcode/LC0226_InvertBinaryTree/Solution.java) |
-| 230 | [KthSmallestElementInABST](./src/main/java/com/wkodate/leetcode/LC0230_KthSmallestElementInABST/Solution.java) |
-| 231 | [PowerOfTwo](./src/main/java/com/wkodate/leetcode/LC0231_PowerOfTwo/Solution.java) |
-| 232 | [ImplementQueueUsingStacks](./src/main/java/com/wkodate/leetcode/LC0232_ImplementQueueUsingStacks/MyQueue.java) |
-| 234 | [PalindromeLinkedList](./src/main/java/com/wkodate/leetcode/LC0234_PalindromeLinkedList/Solution.java) |
-| 237 | [DeleteNodeInALinkedList](./src/main/java/com/wkodate/leetcode/LC0237_DeleteNodeInALinkedList/Solution.java) |
-| 238 | [ProductOfArrayExceptSelf](./src/main/java/com/wkodate/leetcode/LC0238_ProductOfArrayExceptSelf/Solution.java) |
-| 242 | [ValidAnagram](./src/main/java/com/wkodate/leetcode/LC0242_ValidAnagram/Solution.java) |
-| 257 | [BinaryTreePaths](./src/main/java/com/wkodate/leetcode/LC0257_BinaryTreePaths/Solution.java) |
-| 258 | [AddDigits](./src/main/java/com/wkodate/leetcode/LC0258_AddDigits/Solution.java) |
-| 260 | [SingleNumberIII](./src/main/java/com/wkodate/leetcode/LC0260_SingleNumberIII/Solution.java) |
-| 264 | [UglyNumberII](./src/main/java/com/wkodate/leetcode/LC0264_UglyNumberII/Solution.java) |
-| 268 | [MissingNumber](./src/main/java/com/wkodate/leetcode/LC0268_MissingNumber/Solution.java) |
-| 274 | [HIndex](./src/main/java/com/wkodate/leetcode/LC0274_HIndex/Solution.java) |
-| 275 | [HIndexII](./src/main/java/com/wkodate/leetcode/LC0275_HIndexII/Solution.java) |
-| 278 | [FirstBadVersion](./src/main/java/com/wkodate/leetcode/LC0278_FirstBadVersion/Solution.java) |
-| 279 | [PerfectSquares](./src/main/java/com/wkodate/leetcode/LC0279_PerfectSquares/Solution.java) |
-| 283 | [MoveZeroes](./src/main/java/com/wkodate/leetcode/LC0283_MoveZeroes/Solution.java) |
-| 287 | [FindTheDuplicateNumber](./src/main/java/com/wkodate/leetcode/LC0287_FindTheDuplicateNumber/Solution.java) |
-| 289 | [GameOfLife](./src/main/java/com/wkodate/leetcode/LC0289_GameOfLife/Solution.java) |
-| 292 | [NimGame](./src/main/java/com/wkodate/leetcode/LC0292_NimGame/Solution.java) |
-| 300 | [LongestIncreasingSubsequence](./src/main/java/com/wkodate/leetcode/LC0300_LongestIncreasingSubsequence/Solution.java) |
-| 303 | [RangeSumQueryImmutable](./src/main/java/com/wkodate/leetcode/LC0303_RangeSumQueryImmutable/NumArray.java) |
-| 309 | [BestTimeToBuyAndSellStockWithCooldown](./src/main/java/com/wkodate/leetcode/LC0309_BestTimeToBuyAndSellStockWithCooldown/Solution.java) |
-| 322 | [CoinChange](./src/main/java/com/wkodate/leetcode/LC0322_CoinChange/Solution.java) |
-| 326 | [PowerOfThree](./src/main/java/com/wkodate/leetcode/LC0326_PowerOfThree/Solution.java) |
-| 328 | [OddEvenLinkedList](./src/main/java/com/wkodate/leetcode/LC0328_OddEvenLinkedList/Solution.java) |
-| 332 | [ReconstructItinerary](./src/main/java/com/wkodate/leetcode/LC0332_ReconstructItinerary/Solution.java) |
-| 338 | [CountingBits](./src/main/java/com/wkodate/leetcode/LC0338_CountingBits/Solution.java) |
-| 342 | [PowerOfFour](./src/main/java/com/wkodate/leetcode/LC0342_PowerOfFour/Solution.java) |
-| 344 | [ReverseString](./src/main/java/com/wkodate/leetcode/LC0344_ReverseString/Solution.java) |
-| 345 | [ReverseVowelsOfAString](./src/main/java/com/wkodate/leetcode/LC0345_ReverseVowelsOfAString/Solution.java) |
-| 347 | [TopKFrequentElements](./src/main/java/com/wkodate/leetcode/LC0347_TopKFrequentElements/Solution.java) |
-| 349 | [IntersectionOfTwoArrays](./src/main/java/com/wkodate/leetcode/LC0349_IntersectionOfTwoArrays/Solution.java) |
-| 350 | [IntersectionOfTwoArraysII](./src/main/java/com/wkodate/leetcode/LC0350_IntersectionOfTwoArraysII/Solution.java) |
-| 357 | [ComplexNumberMultiplication](./src/main/java/com/wkodate/leetcode/LC0357_ComplexNumberMultiplication/Solution.java) |
-| 367 | [ValidPerfectSquare](./src/main/java/com/wkodate/leetcode/LC0367_ValidPerfectSquare/Solution.java) |
-| 368 | [LargestDivisibleSubset](./src/main/java/com/wkodate/leetcode/LC0368_LargestDivisibleSubset/Solution.java) |
-| 371 | [SumOfTwoIntegers](./src/main/java/com/wkodate/leetcode/LC0371_SumOfTwoIntegers/Solution.java) |
-| 374 | [GuessNumberHigherOrLower](./src/main/java/com/wkodate/leetcode/LC0374_GuessNumberHigherOrLower/Solution.java) |
-| 380 | [InsertDeleteGetRandomO1](./src/main/java/com/wkodate/leetcode/LC0380_InsertDeleteGetRandomO1/RandomizedSet.java) |
-| 382 | [LinkedListRandomNode](./src/main/java/com/wkodate/leetcode/LC0382_LinkedListRandomNode/Solution.java) |
-| 383 | [RansomNote](./src/main/java/com/wkodate/leetcode/LC0383_RansomNote/Solution.java) |
-| 384 | [ShuffleAnArray](./src/main/java/com/wkodate/leetcode/LC0384_ShuffleAnArray/Solution.java) |
-| 387 | [FirstUniqueCharacterInAString](./src/main/java/com/wkodate/leetcode/LC0387_FirstUniqueCharacterInAString/Solution.java) |
-| 389 | [FindTheDifference](./src/main/java/com/wkodate/leetcode/LC0389_FindTheDifference/Solution.java) |
-| 392 | [IsSubsequence](./src/main/java/com/wkodate/leetcode/LC0392_IsSubsequence/Solution.java) |
-| 394 | [DecodeString](./src/main/java/com/wkodate/leetcode/LC0394_DecodeString/Solution.java) |
-| 402 | [RemoveKDigits](./src/main/java/com/wkodate/leetcode/LC0402_RemoveKDigits/Solution.java) |
-| 406 | [QueueReconstructionByHeight](./src/main/java/com/wkodate/leetcode/LC0406_QueueReconstructionByHeight/Solution.java) |
-| 409 | [LongestPalindrome](./src/main/java/com/wkodate/leetcode/LC0409_LongestPalindrome/Solution.java) |
-| 412 | [FizzBuzz](./src/main/java/com/wkodate/leetcode/LC0412_FizzBuzz/Solution.java) |
-| 430 | [FlattenAMultilevelDoublyLinkedList](./src/main/java/com/wkodate/leetcode/LC0430_FlattenAMultilevelDoublyLinkedList/Solution.java) |
-| 434 | [NumberOfSegmentsInAString](./src/main/java/com/wkodate/leetcode/LC0434_NumberOfSegmentsInAString/Solution.java) |
-| 435 | [NonOverlappingIntervals](./src/main/java/com/wkodate/leetcode/LC0435_NonOverlappingIntervals/Solution.java) |
-| 437 | [PathSumIII](./src/main/java/com/wkodate/leetcode/LC0437_PathSumIII/Solution.java) |
-| 438 | [FindAllAnagramsInAString](./src/main/java/com/wkodate/leetcode/LC0438_FindAllAnagramsInAString/Solution.java) |
-| 441 | [ArrangingCoins](./src/main/java/com/wkodate/leetcode/LC0441_ArrangingCoins/Solution.java) |
-| 442 | [FindAllDuplicatesInAnArray](./src/main/java/com/wkodate/leetcode/LC0442_FindAllDuplicatesInAnArray/Solution.java) |
-| 443 | [StringCompression](./src/main/java/com/wkodate/leetcode/LC0443_StringCompression/Solution.java) |
-| 445 | [AddTwoNumbersII](./src/main/java/com/wkodate/leetcode/LC0445_AddTwoNumbersII/Solution.java) |
-| 448 | [FindAllNumbersDisappearedInAnArray](./src/main/java/com/wkodate/leetcode/LC0448_FindAllNumbersDisappearedInAnArray/Solution.java) |
-| 451 | [SortCharactersByFrequency](./src/main/java/com/wkodate/leetcode/LC0451_SortCharactersByFrequency/Solution.java) |
-| 453 | [MinimumMovesToEqualArrayElements](./src/main/java/com/wkodate/leetcode/LC0453_MinimumMovesToEqualArrayElements/Solution.java) |
-| 454 | [4SumII](./src/main/java/com/wkodate/leetcode/LC0454_4SumII/Solution.java) |
-| 456 | [132Pattern](./src/main/java/com/wkodate/leetcode/LC0456_132Pattern/Solution.java) |
-| 461 | [HammingDistance](./src/main/java/com/wkodate/leetcode/LC0461_HammingDistance/Solution.java) |
-| 463 | [IslandPerimeter](./src/main/java/com/wkodate/leetcode/LC0463_IslandPerimeter/Solution.java) |
-| 468 | [ValidateIPAddress](./src/main/java/com/wkodate/leetcode/LC0468_ValidateIPAddress/Solution.java) |
-| 476 | [NumberComplement](./src/main/java/com/wkodate/leetcode/LC0476_NumberComplement/Solution.java) |
-| 485 | [MaxConsecutiveOnes](./src/main/java/com/wkodate/leetcode/LC0485_MaxConsecutiveOnes/Solution.java) |
-| 494 | [TargetSum](./src/main/java/com/wkodate/leetcode/LC0494_TargetSum/Solution.java) |
-| 496 | [NextGreaterElementI](./src/main/java/com/wkodate/leetcode/LC0496_NextGreaterElementI/Solution.java) |
-| 497 | [RandomPointInNonOverlappingRectangles](./src/main/java/com/wkodate/leetcode/LC0497_RandomPointInNonOverlappingRectangles/Solution.java) |
-| 498 | [DiagonalTraverse](./src/main/java/com/wkodate/leetcode/LC0498_DiagonalTraverse/Solution.java) |
-| 509 | [FibonacciNumber](./src/main/java/com/wkodate/leetcode/LC0509_FibonacciNumber/Solution.java) |
-| 518 | [CoinChange2](./src/main/java/com/wkodate/leetcode/LC0518_CoinChange2/Solution.java) |
-| 520 | [DetectCapital](./src/main/java/com/wkodate/leetcode/LC0520_DetectCapital/Solution.java) |
-| 521 | [LongestUncommonSubsequenceI](./src/main/java/com/wkodate/leetcode/LC0521_LongestUncommonSubsequenceI/Solution.java) |
-| 525 | [ContiguousArray](./src/main/java/com/wkodate/leetcode/LC0525_ContiguousArray/Solution.java) |
-| 526 | [BeautifulArrangement](./src/main/java/com/wkodate/leetcode/LC0526_BeautifulArrangement/Solution.java) |
-| 528 | [RandomPickWithWeight](./src/main/java/com/wkodate/leetcode/LC0528_RandomPickWithWeight/Solution.java) |
-| 535 | [EncodeAndDecodeTinyURL](./src/main/java/com/wkodate/leetcode/LC0535_EncodeAndDecodeTinyURL/Codec.java) |
-| 538 | [ConvertBSTToGreaterTree](./src/main/java/com/wkodate/leetcode/LC0538_ConvertBSTToGreaterTree/Solution.java) |
-| 540 | [SingleElementInASortedArray](./src/main/java/com/wkodate/leetcode/LC0540_SingleElementInASortedArray/Solution.java) |
-| 541 | [ReverseStringII](./src/main/java/com/wkodate/leetcode/LC0541_ReverseStringII/Solution.java) |
-| 542 | [01Matrix](./src/main/java/com/wkodate/leetcode/LC0542_01Matrix/Solution.java) |
-| 543 | [DiameterOfBinaryTree](./src/main/java/com/wkodate/leetcode/LC0543_DiameterOfBinaryTree/Solution.java) |
-| 551 | [StudentAttendanceRecordI](./src/main/java/com/wkodate/leetcode/LC0551_StudentAttendanceRecordI/Solution.java) |
-| 557 | [ReverseWordsInAStringIII](./src/main/java/com/wkodate/leetcode/LC0557_ReverseWordsInAStringIII/Solution.java) |
-| 559 | [MaximumDepthOfNAryTree](./src/main/java/com/wkodate/leetcode/LC0559_MaximumDepthOfNAryTree/Solution.java) |
-| 560 | [SubarraySumEqualsK](./src/main/java/com/wkodate/leetcode/LC0560_SubarraySumEqualsK/Solution.java) |
-| 561 | [ArrayPartitionI](./src/main/java/com/wkodate/leetcode/LC0561_ArrayPartitionI/Solution.java) |
-| 563 | [BinaryTreeTilt](./src/main/java/com/wkodate/leetcode/LC0563_BinaryTreeTilt/Solution.java) |
-| 566 | [ReshapeTheMatrix](./src/main/java/com/wkodate/leetcode/LC0566_ReshapeTheMatrix/Solution.java) |
-| 567 | [PermutationInString](./src/main/java/com/wkodate/leetcode/LC0567_PermutationInString/Solution.java) |
-| 572 | [SubtreeOfAnotherTree](./src/main/java/com/wkodate/leetcode/LC0572_SubtreeOfAnotherTree/Solution.java) |
-| 575 | [DistributeCandies](./src/main/java/com/wkodate/leetcode/LC0575_DistributeCandies/Solution.java) |
-| 581 | [ShortestUnsortedContinuousSubarray](./src/main/java/com/wkodate/leetcode/LC0581_ShortestUnsortedContinuousSubarray/Solution.java) |
-| 589 | [NAryTreePreorderTraversal](./src/main/java/com/wkodate/leetcode/LC0589_NAryTreePreorderTraversal/Solution.java) |
-| 590 | [NAryTreePostorderTraversal](./src/main/java/com/wkodate/leetcode/LC0590_NAryTreePostorderTraversal/Solution.java) |
-| 598 | [RangeAdditionII](./src/main/java/com/wkodate/leetcode/LC0598_RangeAdditionII/Solution.java) |
-| 599 | [MinimumIndexSumOfTwoLists](./src/main/java/com/wkodate/leetcode/LC0599_MinimumIndexSumOfTwoLists/Solution.java) |
-| 605 | [CanPlaceFlowers](./src/main/java/com/wkodate/leetcode/LC0605_CanPlaceFlowers/Solution.java) |
-| 606 | [ConstructStringFromBinaryTree](./src/main/java/com/wkodate/leetcode/LC0606_ConstructStringFromBinaryTree/Solution.java) |
-| 617 | [MergeTwoBinaryTrees](./src/main/java/com/wkodate/leetcode/LC0617_MergeTwoBinaryTrees/Solution.java) |
-| 621 | [TaskScheduler](./src/main/java/com/wkodate/leetcode/LC0621_TaskScheduler/Solution.java) |
-| 622 | [DesignCircularQueue](./src/main/java/com/wkodate/leetcode/LC0622_DesignCircularQueue/MyCircularQueue.java) |
-| 628 | [MaximumProductOfThreeNumbers](./src/main/java/com/wkodate/leetcode/LC0628_MaximumProductOfThreeNumbers/Solution.java) |
-| 633 | [SumOfSquareNumbers](./src/main/java/com/wkodate/leetcode/LC0633_SumOfSquareNumbers/Solution.java) |
-| 637 | [AverageOfLevelsInBinaryTree](./src/main/java/com/wkodate/leetcode/LC0637_AverageOfLevelsInBinaryTree/Solution.java) |
-| 643 | [MaximumAverageSubarrayI](./src/main/java/com/wkodate/leetcode/LC0643_MaximumAverageSubarrayI/Solution.java) |
-| 645 | [SetMismatch](./src/main/java/com/wkodate/leetcode/LC0645_SetMismatch/Solution.java) |
-| 652 | [FindDuplicateSubtrees](./src/main/java/com/wkodate/leetcode/LC0652_FindDuplicateSubtrees/Solution.java) |
-| 653 | [TwoSumIV](./src/main/java/com/wkodate/leetcode/LC0653_TwoSumIV/Solution.java) |
-| 657 | [RobotReturnToOrigin](./src/main/java/com/wkodate/leetcode/LC0657_RobotReturnToOrigin/Solution.java) |
-| 658 | [FindKClosestElements](./src/main/java/com/wkodate/leetcode/LC0658_FindKClosestElements/Solution.java) |
-| 661 | [ImageSmoother](./src/main/java/com/wkodate/leetcode/LC0661_ImageSmoother/Solution.java) |
-| 662 | [MaximumWidthOfBinaryTree](./src/main/java/com/wkodate/leetcode/LC0662_MaximumWidthOfBinaryTree/Solution.java) |
-| 665 | [NonDecreasingArray](./src/main/java/com/wkodate/leetcode/LC0665_NonDecreasingArray/Solution.java) |
-| 669 | [TrimABinarySearchTree](./src/main/java/com/wkodate/leetcode/LC0669_TrimABinarySearchTree/Solution.java) |
-| 673 | [NumberOfLongestIncreasingSubsequence](./src/main/java/com/wkodate/leetcode/LC0673_NumberOfLongestIncreasingSubsequence/Solution.java) |
-| 674 | [LongestContinuousIncreasingSubsequence](./src/main/java/com/wkodate/leetcode/LC0674_LongestContinuousIncreasingSubsequence/Solution.java) |
-| 678 | [ValidParenthesisString](./src/main/java/com/wkodate/leetcode/LC0678_ValidParenthesisString/Solution.java) |
-| 682 | [BaseballGame](./src/main/java/com/wkodate/leetcode/LC0682_BaseballGame/Solution.java) |
-| 686 | [RepeatedStringMatch](./src/main/java/com/wkodate/leetcode/LC0686_RepeatedStringMatch/Solution.java) |
-| 690 | [EmployeeImportance](./src/main/java/com/wkodate/leetcode/LC0690_EmployeeImportance/Solution.java) |
-| 693 | [BinaryNumberWithAlternatingBits](./src/main/java/com/wkodate/leetcode/LC0693_BinaryNumberWithAlternatingBits/Solution.java) |
-| 695 | [MaxAreaofIsland](./src/main/java/com/wkodate/leetcode/LC0695_MaxAreaofIsland/Solution.java) |
-| 696 | [CountBinarySubstrings](./src/main/java/com/wkodate/leetcode/LC0696_CountBinarySubstrings/Solution.java) |
-| 697 | [DegreeOfAnArray](./src/main/java/com/wkodate/leetcode/LC0697_DegreeOfAnArray/Solution.java) |
-| 700 | [SearchInABinarySearchTree](./src/main/java/com/wkodate/leetcode/LC0700_SearchInABinarySearchTree/Solution.java) |
-| 703 | [KthLargestElementInAStream](./src/main/java/com/wkodate/leetcode/LC0703_KthLargestElementInAStream/KthLargest2.java) |
-| 704 | [BinarySearch](./src/main/java/com/wkodate/leetcode/LC0704_BinarySearch/Solution.java) |
-| 705 | [DesignHashSet](./src/main/java/com/wkodate/leetcode/LC0705_DesignHashSet/MyHashSet2.java) |
-| 706 | [DesignHashMap](./src/main/java/com/wkodate/leetcode/LC0706_DesignHashMap/MyHashMap.java) |
-| 707 | [DesignLinkedList](./src/main/java/com/wkodate/leetcode/LC0707_DesignLinkedList/MyLinkedList.java) |
-| 709 | [ToLowerCase](./src/main/java/com/wkodate/leetcode/LC0709_ToLowerCase/Solution.java) |
-| 717 | [1BitAnd2BitCharacters](./src/main/java/com/wkodate/leetcode/LC0717_1BitAnd2BitCharacters/Solution.java) |
-| 720 | [LongestWordInDictionary](./src/main/java/com/wkodate/leetcode/LC0720_LongestWordInDictionary/Solution.java) |
-| 724 | [FindPivotIndex](./src/main/java/com/wkodate/leetcode/LC0724_FindPivotIndex/Solution.java) |
-| 728 | [SelfDividingNumbers](./src/main/java/com/wkodate/leetcode/LC0728_SelfDividingNumbers/Solution.java) |
-| 733 | [FloodFill](./src/main/java/com/wkodate/leetcode/LC0733_FloodFill/Solution.java) |
-| 735 | [AsteroidCollision](./src/main/java/com/wkodate/leetcode/LC0735_AsteroidCollision/Solution.java) |
-| 739 | [DailyTemperatures](./src/main/java/com/wkodate/leetcode/LC0739_DailyTemperatures/Solution.java) |
-| 744 | [FindSmallestLetterGreaterThanTarget](./src/main/java/com/wkodate/leetcode/LC0744_FindSmallestLetterGreaterThanTarget/Solution.java) |
-| 746 | [MinCostClimbingStairs](./src/main/java/com/wkodate/leetcode/LC0746_MinCostClimbingStairs/Solution.java) |
-| 747 | [LargestNumberAtLeastTwiceOfOthers](./src/main/java/com/wkodate/leetcode/LC0747_LargestNumberAtLeastTwiceOfOthers/Solution.java) |
-| 748 | [ShortestCompletingWord](./src/main/java/com/wkodate/leetcode/LC0748_ShortestCompletingWord/Solution.java) |
-| 752 | [OpenTheLock](./src/main/java/com/wkodate/leetcode/LC0752_OpenTheLock/Solution.java) |
-| 762 | [PrimeNumberOfSetBitsInBinaryRepresentation](./src/main/java/com/wkodate/leetcode/LC0762_PrimeNumberOfSetBitsInBinaryRepresentation/Solution.java) |
-| 763 | [PartitionLabels](./src/main/java/com/wkodate/leetcode/LC0763_PartitionLabels/Solution.java) |
-| 766 | [ToeplitzMatrix](./src/main/java/com/wkodate/leetcode/LC0766_ToeplitzMatrix/Solution.java) |
-| 771 | [JewelsAndStones](./src/main/java/com/wkodate/leetcode/LC0771_JewelsAndStones/Solution.java) |
-| 783 | [MinimumDistanceBetweenBSTNodes](./src/main/java/com/wkodate/leetcode/LC0783_MinimumDistanceBetweenBSTNodes/Solution.java) |
-| 784 | [LetterCasePermutation](./src/main/java/com/wkodate/leetcode/LC0784_LetterCasePermutation/Solution.java) |
-| 787 | [CheapestFlightsWithinKStops](./src/main/java/com/wkodate/leetcode/LC0787_CheapestFlightsWithinKStops/Solution.java) |
-| 788 | [RotatedDigits](./src/main/java/com/wkodate/leetcode/LC0788_RotatedDigits/Solution.java) |
-| 791 | [CustomSortString](./src/main/java/com/wkodate/leetcode/LC0791_CustomSortString/Solution.java) |
-| 796 | [RotateString](./src/main/java/com/wkodate/leetcode/LC0796_RotateString/Solution.java) |
-| 797 | [AllPathsFromSourceToTarget](./src/main/java/com/wkodate/leetcode/LC0797_AllPathsFromSourceToTarget/Solution.java) |
-| 804 | [UniqueMorseCodeWords](./src/main/java/com/wkodate/leetcode/LC0804_UniqueMorseCodeWords/Solution.java) |
-| 806 | [NumberOfLinesToWriteString](./src/main/java/com/wkodate/leetcode/LC0806_NumberOfLinesToWriteString/Solution.java) |
-| 807 | [MaxIncreaseToKeepCitySkyline](./src/main/java/com/wkodate/leetcode/LC0807_MaxIncreaseToKeepCitySkyline/Solution.java) |
-| 811 | [SubdomainVisitCount](./src/main/java/com/wkodate/leetcode/LC0811_SubdomainVisitCount/Solution.java) |
-| 812 | [LargestTriangleArea](./src/main/java/com/wkodate/leetcode/LC0812_LargestTriangleArea/Solution.java) |
-| 813 | [LargestSumOfAverages](./src/main/java/com/wkodate/leetcode/LC0813_LargestSumOfAverages/Solution.java) |
-| 819 | [MostCommonWord](./src/main/java/com/wkodate/leetcode/LC0819_MostCommonWord/Solution.java) |
-| 821 | [ShortestDistanceToACharacter](./src/main/java/com/wkodate/leetcode/LC0821_ShortestDistanceToACharacter/Solution.java) |
-| 824 | [GoatLatin](./src/main/java/com/wkodate/leetcode/LC0824_GoatLatin/Solution.java) |
-| 830 | [PositionsOfLargeGroups](./src/main/java/com/wkodate/leetcode/LC0830_PositionsOfLargeGroups/Solution.java) |
-| 832 | [FlippingAnImage](./src/main/java/com/wkodate/leetcode/LC0832_FlippingAnImage/Solution.java) |
-| 836 | [RectangleOverlap](./src/main/java/com/wkodate/leetcode/LC0836_RectangleOverlap/Solution.java) |
-| 840 | [MagicSquaresInGrid](./src/main/java/com/wkodate/leetcode/LC0840_MagicSquaresInGrid/Solution.java) |
-| 841 | [KeysAndRooms](./src/main/java/com/wkodate/leetcode/LC0841_KeysAndRooms/Solution.java) |
-| 844 | [BackspaceStringCompare](./src/main/java/com/wkodate/leetcode/LC0844_BackspaceStringCompare/Solution.java) |
-| 849 | [MaximizeDistanceToClosestPerson](./src/main/java/com/wkodate/leetcode/LC0849_MaximizeDistanceToClosestPerson/Solution.java) |
-| 852 | [PeakIndexInAMountainArray](./src/main/java/com/wkodate/leetcode/LC0852_PeakIndexInAMountainArray/Solution.java) |
-| 860 | [LemonadeChange](./src/main/java/com/wkodate/leetcode/LC0860_LemonadeChange/Solution.java) |
-| 865 | [SmallestSubtreeWithAllTheDeepestNodes](./src/main/java/com/wkodate/leetcode/LC0865_SmallestSubtreeWithAllTheDeepestNodes/Solution.java) |
-| 867 | [TransposeMatrix](./src/main/java/com/wkodate/leetcode/LC0867_TransposeMatrix/Solution.java) |
-| 868 | [BinaryGap](./src/main/java/com/wkodate/leetcode/LC0868_BinaryGap/Solution.java) |
-| 872 | [LeafSimilarTrees](./src/main/java/com/wkodate/leetcode/LC0872_LeafSimilarTrees/Solution.java) |
-| 876 | [MiddleOfTheLinkedList](./src/main/java/com/wkodate/leetcode/LC0876_MiddleOfTheLinkedList/Solution.java) |
-| 881 | [BoatsToSavePeople](./src/main/java/com/wkodate/leetcode/LC0881_BoatsToSavePeople/Solution.java) |
-| 883 | [ProjectionAreaOf3DShapes](./src/main/java/com/wkodate/leetcode/LC0883_ProjectionAreaOf3DShapes/Solution.java) |
-| 884 | [UncommonWordsFromTwoSentences](./src/main/java/com/wkodate/leetcode/LC0884_UncommonWordsFromTwoSentences/Solution.java) |
-| 886 | [PossibleBipartition](./src/main/java/com/wkodate/leetcode/LC0886_PossibleBipartition/Solution.java) |
-| 888 | [FairCandySwap](./src/main/java/com/wkodate/leetcode/LC0888_FairCandySwap/Solution.java) |
-| 890 | [FindAndReplacePattern](./src/main/java/com/wkodate/leetcode/LC0890_FindAndReplacePattern/Solution.java) |
-| 892 | [SurfaceAreaOf3DShapes](./src/main/java/com/wkodate/leetcode/LC0892_SurfaceAreaOf3DShapes/Solution.java) |
-| 893 | [GroupsOfSpecialEquivalentStrings](./src/main/java/com/wkodate/leetcode/LC0893_GroupsOfSpecialEquivalentStrings/Solution.java) |
-| 896 | [MonotonicArray](./src/main/java/com/wkodate/leetcode/LC0896_MonotonicArray/Solution.java) |
-| 897 | [IncreasingOrderSearchTree](./src/main/java/com/wkodate/leetcode/LC0897_IncreasingOrderSearchTree/Solution.java) |
-| 901 | [OnlineStockSpan](./src/main/java/com/wkodate/leetcode/LC0901_OnlineStockSpan/StockSpanner.java) |
-| 905 | [SortArrayByParity](./src/main/java/com/wkodate/leetcode/LC0905_SortArrayByParity/Solution.java) |
-| 908 | [SmallestRangeI](./src/main/java/com/wkodate/leetcode/LC0908_SmallestRangeI/Solution.java) |
-| 912 | [SortAnArray](./src/main/java/com/wkodate/leetcode/LC0912_SortAnArray/Solution.java) |
-| 917 | [ReverseOnlyLetters](./src/main/java/com/wkodate/leetcode/LC0917_ReverseOnlyLetters/Solution.java) |
-| 918 | [MaximumSumCircularSubarray](./src/main/java/com/wkodate/leetcode/LC0918_MaximumSumCircularSubarray/Solution.java) |
-| 921 | [MinimumAddToMakeParenthesesValid](./src/main/java/com/wkodate/leetcode/LC0921_MinimumAddToMakeParenthesesValid/Solution.java) |
-| 922 | [SortArrayByParityII](./src/main/java/com/wkodate/leetcode/LC0922_SortArrayByParityII/Solution.java) |
-| 925 | [LongPressedName](./src/main/java/com/wkodate/leetcode/LC0925_LongPressedName/Solution.java) |
-| 929 | [UniqueEmailAddresses](./src/main/java/com/wkodate/leetcode/LC0929_UniqueEmailAddresses/Solution.java) |
-| 933 | [NumberOfRecentCalls](./src/main/java/com/wkodate/leetcode/LC0933_NumberOfRecentCalls/RecentCounter.java) |
-| 937 | [ReorderDataInLogFiles](./src/main/java/com/wkodate/leetcode/LC0937_ReorderDataInLogFiles/Solution.java) |
-| 938 | [RangeSumOfBST](./src/main/java/com/wkodate/leetcode/LC0938_RangeSumOfBST/Solution.java) |
-| 941 | [ValidMountainArray](./src/main/java/com/wkodate/leetcode/LC0941_ValidMountainArray/Solution.java) |
-| 942 | [DIStringMatch](./src/main/java/com/wkodate/leetcode/LC0942_DIStringMatch/Solution.java) |
-| 944 | [DeleteColumnsToMakeSorted](./src/main/java/com/wkodate/leetcode/LC0944_DeleteColumnsToMakeSorted/Solution.java) |
-| 946 | [ValidateStackSequences](./src/main/java/com/wkodate/leetcode/LC0946_ValidateStackSequences/Solution.java) |
-| 948 | [BagOfTokens](./src/main/java/com/wkodate/leetcode/LC0948_BagOfTokens/Solution.java) |
-| 949 | [LargestTimeForGivenDigits](./src/main/java/com/wkodate/leetcode/LC0949_LargestTimeForGivenDigits/Solution.java) |
-| 953 | [VerifyingAnAlienDictionary](./src/main/java/com/wkodate/leetcode/LC0953_VerifyingAnAlienDictionary/Solution.java) |
-| 957 | [PrisonCellsAfterNDays](./src/main/java/com/wkodate/leetcode/LC0957_PrisonCellsAfterNDays/Solution.java) |
-| 961 | [NRepeatedElementInSize2NArray](./src/main/java/com/wkodate/leetcode/LC0961_NRepeatedElementInSize2NArray/Solution.java) |
-| 965 | [UnivaluedBinaryTree](./src/main/java/com/wkodate/leetcode/LC0965_UnivaluedBinaryTree/Solution.java) |
-| 967 | [NumbersWithSameConsecutiveDifferences](./src/main/java/com/wkodate/leetcode/LC0967_NumbersWithSameConsecutiveDifferences/Solution.java) |
-| 970 | [PowerfulIntegers](./src/main/java/com/wkodate/leetcode/LC0970_PowerfulIntegers/Solution.java) |
-| 973 | [KClosestPointsToOrigin](./src/main/java/com/wkodate/leetcode/LC0973_KClosestPointsToOrigin/Solution.java) |
-| 976 | [LargestPerimeterTriangle](./src/main/java/com/wkodate/leetcode/LC0976_LargestPerimeterTriangle/Solution.java) |
-| 977 | [SquaresOfASortedArray](./src/main/java/com/wkodate/leetcode/LC0977_SquaresOfASortedArray/Solution.java) |
-| 985 | [SumOfEvenNumbersAfterQueries](./src/main/java/com/wkodate/leetcode/LC0985_SumOfEvenNumbersAfterQueries/Solution.java) |
-| 986 | [IntervalListIntersections](./src/main/java/com/wkodate/leetcode/LC0986_IntervalListIntersections/Solution.java) |
-| 987 | [VerticalOrderTraversalOfABinaryTree](./src/main/java/com/wkodate/leetcode/LC0987_VerticalOrderTraversalOfABinaryTree/Solution.java) |
-| 989 | [AddToArrayFormOfInteger](./src/main/java/com/wkodate/leetcode/LC0989_AddToArrayFormOfInteger/Solution.java) |
-| 993 | [CousinsInBinaryTree](./src/main/java/com/wkodate/leetcode/LC0993_CousinsInBinaryTree/Solution.java) |
-| 994 | [RottingOranges](./src/main/java/com/wkodate/leetcode/LC0994_RottingOranges/Solution.java) |
-| 997 | [FindTheTownJudge](./src/main/java/com/wkodate/leetcode/LC0997_FindTheTownJudge/Solution.java) |
-| 1002 | [FindCommonCharacters](./src/main/java/com/wkodate/leetcode/LC1002_FindCommonCharacters/Solution.java) |
-| 1007 | [MinimumDominoRotationsForEqualRow](./src/main/java/com/wkodate/leetcode/LC1007_MinimumDominoRotationsForEqualRow/Solution.java) |
-| 1008 | [ConstructBinarySearchTreeFromPreorderTraversal](./src/main/java/com/wkodate/leetcode/LC1008_ConstructBinarySearchTreeFromPreorderTraversal/Solution.java) |
-| 1009 | [ComplementOfBase10Integer](./src/main/java/com/wkodate/leetcode/LC1009_ComplementOfBase10Integer/Solution.java) |
-| 1010 | [PairsOfSongsWithTotalDurationsDivisibleBy60](./src/main/java/com/wkodate/leetcode/LC1010_PairsOfSongsWithTotalDurationsDivisibleBy60/Solution.java) |
-| 1021 | [RemoveOutermostParentheses](./src/main/java/com/wkodate/leetcode/LC1021_RemoveOutermostParentheses/Solution.java) |
-| 1026 | [MaximumDifferenceBetweenNodeAndAncestor](./src/main/java/com/wkodate/leetcode/LC1026_MaximumDifferenceBetweenNodeAndAncestor/Solution.java) |
-| 1029 | [TwoCityScheduling](./src/main/java/com/wkodate/leetcode/LC1029_TwoCityScheduling/Solution.java) |
-| 1030 | [MatrixCellsInDistanceOrder](./src/main/java/com/wkodate/leetcode/LC1030_MatrixCellsInDistanceOrder/Solution.java) |
-| 1035 | [UncrossedLines](./src/main/java/com/wkodate/leetcode/LC1035_UncrossedLines/Solution.java) |
-| 1044 | [LongestDuplicateSubstring](./src/main/java/com/wkodate/leetcode/LC1044_LongestDuplicateSubstring/Solution.java) |
-| 1046 | [LastStoneWeight](./src/main/java/com/wkodate/leetcode/LC1046_LastStoneWeight/Solution.java) |
-| 1047 | [RemoveAllAdjacentDuplicatesInString](./src/main/java/com/wkodate/leetcode/LC1047_RemoveAllAdjacentDuplicatesInString/Solution.java) |
-| 1051 | [HeightChecker](./src/main/java/com/wkodate/leetcode/LC1051_HeightChecker/Solution.java) |
-| 1071 | [GreatestCommonDivisorOfStrings](./src/main/java/com/wkodate/leetcode/LC1071_GreatestCommonDivisorOfStrings/Solution.java) |
-| 1089 | [DuplicateZeros](./src/main/java/com/wkodate/leetcode/LC1089_DuplicateZeros/Solution.java) |
-| 1091 | [ShortestPathInBinaryMatrix](./src/main/java/com/wkodate/leetcode/LC1091_ShortestPathInBinaryMatrix/Solution.java) |
-| 1103 | [DistributeCandiesToPeople](./src/main/java/com/wkodate/leetcode/LC1103_DistributeCandiesToPeople/Solution.java) |
-| 1108 | [DefangingAnIPAddress](./src/main/java/com/wkodate/leetcode/LC1108_DefangingAnIPAddress/Solution.java) |
-| 1122 | [RelativeSortArray](./src/main/java/com/wkodate/leetcode/LC1122_RelativeSortArray/Solution.java) |
-| 1137 | [NthTribonacciNumber](./src/main/java/com/wkodate/leetcode/LC1137_NthTribonacciNumber/Solution.java) |
-| 1143 | [LongestCommonSubsequence](./src/main/java/com/wkodate/leetcode/LC1143_LongestCommonSubsequence/Solution.java) |
-| 1160 | [FindWordsThatCanBeFormedByCharacters](./src/main/java/com/wkodate/leetcode/LC1160_FindWordsThatCanBeFormedByCharacters/Solution.java) |
-| 1189 | [MaximumNumberOfBalloons](./src/main/java/com/wkodate/leetcode/LC1189_MaximumNumberOfBalloons/Solution.java) |
-| 1207 | [UniqueNumberOfOccurrences](./src/main/java/com/wkodate/leetcode/LC1207_UniqueNumberOfOccurrences/Solution.java) |
-| 1217 | [MinimumCostToMoveChipsToTheSamePosition](./src/main/java/com/wkodate/leetcode/LC1217_MinimumCostToMoveChipsToTheSamePosition/Solution.java) |
-| 1221 | [SplitAStringInBalancedStrings](./src/main/java/com/wkodate/leetcode/LC1221_SplitAStringInBalancedStrings/Solution.java) |
-| 1227 | [CountSquareSubmatricesWithAllOnes](./src/main/java/com/wkodate/leetcode/LC1227_CountSquareSubmatricesWithAllOnes/Solution.java) |
-| 1232 | [CheckIfItIsAStraightLine](./src/main/java/com/wkodate/leetcode/LC1232_CheckIfItIsAStraightLine/Solution.java) |
-| 1254 | [NumberOfClosedIslands](./src/main/java/com/wkodate/leetcode/LC1254_NumberOfClosedIslands/Solution.java) |
-| 1260 | [Shift2DGrid](./src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) |
-| 1266 | [MinimumTimeVisitingAllPoints](./src/main/java/com/wkodate/leetcode/LC1266_MinimumTimeVisitingAllPoints/Solution.java) |
-| 1281 | [SubtractTheProductAndSumOfDigitsOfAnInteger](./src/main/java/com/wkodate/leetcode/LC1281_SubtractTheProductAndSumOfDigitsOfAnInteger/Solution.java) |
-| 1282 | [GroupThePeopleGivenTheGroupSizeTheyBelongTo](./src/main/java/com/wkodate/leetcode/LC1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java) |
-| 1283 | [FindTheSmallestDivisorGivenAThreshold](./src/main/java/com/wkodate/leetcode/LC1283_FindTheSmallestDivisorGivenAThreshold/Solution.java) |
-| 1286 | [IteratorForCombination](./src/main/java/com/wkodate/leetcode/LC1286_IteratorForCombination/CombinationIterator.java) |
-| 1290 | [ConvertBinaryNumberInALinkedListToInteger](./src/main/java/com/wkodate/leetcode/LC1290_ConvertBinaryNumberInALinkedListToInteger/Solution.java) |
-| 1295 | [FindNumbersWithEvenNumberOfDigits](./src/main/java/com/wkodate/leetcode/LC1295_FindNumbersWithEvenNumberOfDigits/Solution.java) |
-| 1302 | [DeepestLeavesSum](./src/main/java/com/wkodate/leetcode/LC1302_DeepestLeavesSum/Solution.java) |
-| 1304 | [FindNUniqueIntegersSumUpToZero](./src/main/java/com/wkodate/leetcode/LC1304_FindNUniqueIntegersSumUpToZero/Solution.java) |
-| 1306 | [JumpGameIII](./src/main/java/com/wkodate/leetcode/LC1306_JumpGameIII/Solution.java) |
-| 1309 | [DecryptStringFromAlphabetToIntegerMapping](./src/main/java/com/wkodate/leetcode/LC1309_DecryptStringFromAlphabetToIntegerMapping/Solution.java) |
-| 1314 | [MatrixBlockSum](./src/main/java/com/wkodate/leetcode/LC1314_MatrixBlockSum/Solution.java) |
-| 1317 | [ConvertIntegerToTheSumOfTwoNoZeroIntegers](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |
-| 1323 | [Maximum69Number](./src/main/java/com/wkodate/leetcode/LC1323_Maximum69Number/Solution.java) |
-| 1329 | [SortTheMatrixDiagonally](./src/main/java/com/wkodate/leetcode/LC1329_SortTheMatrixDiagonally/Solution.java) |
-| 1332 | [RemovePalindromicSubsequences](./src/main/java/com/wkodate/leetcode/LC1332_RemovePalindromicSubsequences/Solution.java) |
-| 1337 | [TheKWeakestRowsInAMatrix](./src/main/java/com/wkodate/leetcode/LC1337_TheKWeakestRowsInAMatrix/Solution.java) |
-| 1342 | [NumberOfStepsToRReduceANumberToZero](./src/main/java/com/wkodate/leetcode/LC1342_NumberOfStepsToRReduceANumberToZero/Solution.java) |
-| 1344 | [AngleBetweenHandsOfAClock](./src/main/java/com/wkodate/leetcode/LC1344_AngleBetweenHandsOfAClock/Solution.java) |
-| 1347 | [MinimumNumberOfStepsToMakeTwoStringsAnagram](./src/main/java/com/wkodate/leetcode/LC1347_MinimumNumberOfStepsToMakeTwoStringsAnagram/Solution.java) |
-| 1356 | [SortIntegersByTheNumberOf1Bits](./src/main/java/com/wkodate/leetcode/LC1356_SortIntegersByTheNumberOf1Bits/Solution.java) |
-| 1365 | [HowManyNumbersAreSmallerThanTheCurrentNumber](./src/main/java/com/wkodate/leetcode/LC1365_HowManyNumbersAreSmallerThanTheCurrentNumber/Solution.java) |
-| 1370 | [IncreasingDecreasingString](./src/main/java/com/wkodate/leetcode/LC1370_IncreasingDecreasingString/Solution.java) |
-| 1374 | [GenerateAStringWithCharactersThatHaveOddCounts](./src/main/java/com/wkodate/leetcode/LC1374_GenerateAStringWithCharactersThatHaveOddCounts/Solution.java) |
-| 1379 | [FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree](./src/main/java/com/wkodate/leetcode/LC1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree/Solution.java) |
-| 1380 | [LuckyNumbersInAMatrix](./src/main/java/com/wkodate/leetcode/LC1380_LuckyNumbersInAMatrix/Solution.java) |
-| 1387 | [SortIntegersByThePowerValue](./src/main/java/com/wkodate/leetcode/LC1387_SortIntegersByThePowerValue/Solution.java) |
-| 1389 | [CreateTargetArrayInTheGivenOrder](./src/main/java/com/wkodate/leetcode/LC1389_CreateTargetArrayInTheGivenOrder/Solution.java) |
-| 1400 | [ConstructKPalindromeStrings](./src/main/java/com/wkodate/leetcode/LC1400_ConstructKPalindromeStrings/Solution.java) |
-| 1403 | [MinimumSubsequenceInNonIncreasingOrder](./src/main/java/com/wkodate/leetcode/LC1403_MinimumSubsequenceInNonIncreasingOrder/Solution.java) |
-| 1408 | [StringMatchingInAnArray](./src/main/java/com/wkodate/leetcode/LC1408_StringMatchingInAnArray/Solution.java) |
-| 1417 | [ReformatTheString](./src/main/java/com/wkodate/leetcode/LC1417_ReformatTheString/Solution.java) |
-| 1431 | [KidsWithTheGreatestNumberOfCandies](./src/main/java/com/wkodate/leetcode/LC1431_KidsWithTheGreatestNumberOfCandies/Solution.java) |
-| 1437 | [CheckIfAll1sAreAtLeastLengthKPlacesAway](./src/main/java/com/wkodate/leetcode/LC1437_CheckIfAll1sAreAtLeastLengthKPlacesAway/Solution.java) |
-| 1446 | [ConsecutiveCharacters](./src/main/java/com/wkodate/leetcode/LC1446_ConsecutiveCharacters/Solution.java) |
-| 1451 | [RearrangeWordsInASentence](./src/main/java/com/wkodate/leetcode/LC1451_RearrangeWordsInASentence/Solution.java) |
-| 1460 | [MakeTwoArraysEqualByReversingSubArrays](./src/main/java/com/wkodate/leetcode/LC1460_MakeTwoArraysEqualByReversingSubArrays/Solution.java) |
-| 1461 | [CheckIfAStringContainsAllBinaryCodesOfSizeK](./src/main/java/com/wkodate/leetcode/LC1461_CheckIfAStringContainsAllBinaryCodesOfSizeK/Solution.java) |
-| 1464 | [MaximumProductOfTwoElementsInAnArray](./src/main/java/com/wkodate/leetcode/LC1464_MaximumProductOfTwoElementsInAnArray/Solution.java) |
-| 1475 | [FinalPricesWithASpecialDiscountInAShop](./src/main/java/com/wkodate/leetcode/LC1475_FinalPricesWithASpecialDiscountInAShop/Solution.java) |
-| 1476 | [SubrectangleQueries](./src/main/java/com/wkodate/leetcode/LC1476_SubrectangleQueries/SubrectangleQueries.java) |
-| 1480 | [RunningSumOf1dArray](./src/main/java/com/wkodate/leetcode/LC1480_RunningSumOf1dArray/Solution.java) |
-| 1491 | [AverageSalaryExcludingTheMinimumAndMaximumSalary](./src/main/java/com/wkodate/leetcode/LC1491_AverageSalaryExcludingTheMinimumAndMaximumSalary/Solution.java) |
-| 1492 | [TheKthFactorOfN](./src/main/java/com/wkodate/leetcode/LC1492_TheKthFactorOfN/Solution.java) |
-| 1510 | [StoneGameIV](./src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |
-| 1512 | [NumberOfGoodPairs](./src/main/java/com/wkodate/leetcode/LC1512_NumberOfGoodPairs/Solution.java) |
-| 1523 | [CountOddNumbersInAnIntervalRange](./src/main/java/com/wkodate/leetcode/LC1523_CountOddNumbersInAnIntervalRange/Solution.java) |
-| 1525 | [NumberOfGoodWaysToSplitAString](./src/main/java/com/wkodate/leetcode/LC1525_NumberOfGoodWaysToSplitAString/Solution.java) |
-| 1539 | [KthMissingPositiveNumber](./src/main/java/com/wkodate/leetcode/LC1539_KthMissingPositiveNumber/Solution.java) |
-| 1550 | [ThreeConsecutiveOdds](./src/main/java/com/wkodate/leetcode/LC1550_ThreeConsecutiveOdds/Solution.java) |
-| 1556 | [ThousandSeparator](./src/main/java/com/wkodate/leetcode/LC1556_ThousandSeparator/Solution.java) |
-| 1561 | [MaximumNumberOfCoinsYouCanGet](./src/main/java/com/wkodate/leetcode/LC1561_MaximumNumberOfCoinsYouCanGet/Solution.java) |
-| 1572 | [MatrixDiagonalSum](./src/main/java/com/wkodate/leetcode/LC1572_MatrixDiagonalSum/Solution.java) |
-| 1588 | [SumOfAllOddLengthSubarrays](./src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |
-| 1605 | [FindValidMatrixGivenRowAndColumnSums](./src/main/java/com/wkodate/leetcode/LC1605_FindValidMatrixGivenRowAndColumnSums/Solution.java) |
-| 1624 | [LargestSubstringBetweenTwoEqualCharacters](./src/main/java/com/wkodate/leetcode/LC1624_LargestSubstringBetweenTwoEqualCharacters/Solution.java) |
-| 1640 | [CheckArrayFormationThroughConcatenation](./src/main/java/com/wkodate/leetcode/LC1640_CheckArrayFormationThroughConcatenation/Solution.java) |
-| 1646 | [GetMaximumInGeneratedArray](./src/main/java/com/wkodate/leetcode/LC1646_GetMaximumInGeneratedArray/Solution.java) |
-| 1657 | [DetermineIfTwoStringsAreClose](./src/main/java/com/wkodate/leetcode/LC1657_DetermineIfTwoStringsAreClose/Solution.java) |
-| 1662 | [CheckIfTwoStringArraysAreEquivalent](./src/main/java/com/wkodate/leetcode/LC1662_CheckIfTwoStringArraysAreEquivalent/Solution.java) |
-| 1669 | [MergeInBetweenLinkedLists](./src/main/java/com/wkodate/leetcode/LC1669_MergeInBetweenLinkedLists/Solution.java) |
-| 1672 | [RichestCustomerWealth](./src/main/java/com/wkodate/leetcode/LC1672_RichestCustomerWealth/Solution.java) |
-| 1684 | [CountTheNumberOfConsistentStrings](./src/main/java/com/wkodate/leetcode/LC1684_CountTheNumberOfConsistentStrings/Solution.java) |
-| 1694 | [ReformatPhoneNumber](./src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |
-| 1848 | [MinimumDistanceToTheTargetElement](./src/main/java/com/wkodate/leetcode/LC1848_MinimumDistanceToTheTargetElement/Solution.java) |
+| Num | Problems | Java | C++ |
+| -- | -- | -- | -- |
+| 1 | TwoSum | [solution](./src/main/java/com/wkodate/leetcode/LC0001_TwoSum/Solution.java) |  | 
+| 2 | AddTwoNumbers | [solution](./src/main/java/com/wkodate/leetcode/LC0002_AddTwoNumbers/Solution.java) |  | 
+| 3 | LongestSubstringWithoutRepeatingCharacters | [solution](./src/main/java/com/wkodate/leetcode/LC0003_LongestSubstringWithoutRepeatingCharacters/Solution.java) |  | 
+| 7 | ReverseInteger | [solution](./src/main/java/com/wkodate/leetcode/LC0007_ReverseInteger/Solution.java) |  | 
+| 8 | StringToInteger | [solution](./src/main/java/com/wkodate/leetcode/LC0008_StringToInteger/Solution.java) |  | 
+| 9 | PalindromeNumber | [solution](./src/main/java/com/wkodate/leetcode/LC0009_PalindromeNumber/Solution.java) |  | 
+| 12 | IntegerToRoman | [solution](./src/main/java/com/wkodate/leetcode/LC0012_IntegerToRoman/Solution.java) |  | 
+| 13 | RomanToInteger | [solution](./src/main/java/com/wkodate/leetcode/LC0013_RomanToInteger/Solution.java) |  | 
+| 14 | LongestCommonPrefix | [solution](./src/main/java/com/wkodate/leetcode/LC0014_LongestCommonPrefix/Solution.java) |  | 
+| 15 | 3Sum | [solution](./src/main/java/com/wkodate/leetcode/LC0015_3Sum/Solution.java) |  | 
+| 19 | RemoveNthNodeFromEndOfList | [solution](./src/main/java/com/wkodate/leetcode/LC0019_RemoveNthNodeFromEndOfList/Solution.java) |  | 
+| 20 | ValidParentheses | [solution](./src/main/java/com/wkodate/leetcode/LC0020_ValidParentheses/Solution.java) |  | 
+| 21 | MergeTwoSortedLists | [solution](./src/main/java/com/wkodate/leetcode/LC0021_MergeTwoSortedLists/Solution.java) |  | 
+| 24 | SwapNodesInPairs | [solution](./src/main/java/com/wkodate/leetcode/LC0024_SwapNodesInPairs/Solution.java) |  | 
+| 26 | RemoveDuplicatesFromSortedArray | [solution](./src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) |  | 
+| 27 | RemoveElement | [solution](./src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) |  | 
+| 28 | ImplementStrStr | [solution](./src/main/java/com/wkodate/leetcode/LC0028_ImplementStrStr/Solution.java) |  | 
+| 31 | NextPermutation | [solution](./src/main/java/com/wkodate/leetcode/LC0031_NextPermutation/Solution.java) |  | 
+| 33 | SearchInRotatedSortedArray | [solution](./src/main/java/com/wkodate/leetcode/LC0033_SearchInRotatedSortedArray/Solution.java) |  | 
+| 34 | FindFirstAndLastPositionOfElementInSortedArray | [solution](./src/main/java/com/wkodate/leetcode/LC0034_FindFirstAndLastPositionOfElementInSortedArray/Solution.java) |  | 
+| 35 | SearchInsertPosition | [solution](./src/main/java/com/wkodate/leetcode/LC0035_SearchInsertPosition/Solution.java) |  | 
+| 36 | ValidSudoku | [solution](./src/main/java/com/wkodate/leetcode/LC0036_ValidSudoku/Solution.java) |  | 
+| 38 | CountAndSay | [solution](./src/main/java/com/wkodate/leetcode/LC0038_CountAndSay/Solution.java) |  | 
+| 45 | JumpGameII | [solution](./src/main/java/com/wkodate/leetcode/LC0045_JumpGameII/Solution.java) |  | 
+| 46 | Permutation | [solution](./src/main/java/com/wkodate/leetcode/LC0046_Permutation/Solution.java) |  | 
+| 47 | PermutationsII | [solution](./src/main/java/com/wkodate/leetcode/LC0047_PermutationsII/Solution.java) |  | 
+| 49 | GroupAnagrams | [solution](./src/main/java/com/wkodate/leetcode/LC0049_GroupAnagrams/Solution.java) |  | 
+| 50 | Powxn | [solution](./src/main/java/com/wkodate/leetcode/LC0050_Powxn/Solution.java) |  | 
+| 53 | MaximumSubarray | [solution](./src/main/java/com/wkodate/leetcode/LC0053_MaximumSubarray/Solution.java) |  | 
+| 54 | SpiralMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC0054_SpiralMatrix/Solution.java) |  | 
+| 55 | JumpGame | [solution](./src/main/java/com/wkodate/leetcode/LC0055_JumpGame/Solution.java) |  | 
+| 56 | MergeIntervals | [solution](./src/main/java/com/wkodate/leetcode/LC0056_MergeIntervals/Solution.java) |  | 
+| 58 | LengthOfLastWord | [solution](./src/main/java/com/wkodate/leetcode/LC0058_LengthOfLastWord/Solution.java) |  | 
+| 59 | SpiralMatrixII | [solution](./src/main/java/com/wkodate/leetcode/LC0059_SpiralMatrixII/Solution.java) |  | 
+| 60 | PermutationSequence | [solution](./src/main/java/com/wkodate/leetcode/LC0060_PermutationSequence/Solution.java) |  | 
+| 61 | RotateList | [solution](./src/main/java/com/wkodate/leetcode/LC0061_RotateList/Solution.java) |  | 
+| 62 | UniquePaths | [solution](./src/main/java/com/wkodate/leetcode/LC0062_UniquePaths/Solution.java) |  | 
+| 64 | MinimumPathSum | [solution](./src/main/java/com/wkodate/leetcode/LC0064_MinimumPathSum/Solution.java) |  | 
+| 66 | PlusOne | [solution](./src/main/java/com/wkodate/leetcode/LC0066_PlusOne/Solution.java) |  | 
+| 67 | AddBinary | [solution](./src/main/java/com/wkodate/leetcode/LC0067_AddBinary/Solution.java) |  | 
+| 69 | Sqrtx | [solution](./src/main/java/com/wkodate/leetcode/LC0069_Sqrtx/Solution.java) |  | 
+| 70 | ClimbingStairs | [solution](./src/main/java/com/wkodate/leetcode/LC0070_ClimbingStairs/Solution.java) |  | 
+| 72 | EditDistance | [solution](./src/main/java/com/wkodate/leetcode/LC0072_EditDistance/Solution.java) |  | 
+| 74 | SearchA2DMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC0074_SearchA2DMatrix/Solution.java) |  | 
+| 75 | SortColors | [solution](./src/main/java/com/wkodate/leetcode/LC0075_SortColors/Solution.java) |  | 
+| 78 | Subsets | [solution](./src/main/java/com/wkodate/leetcode/LC0078_Subsets/Solution.java) |  | 
+| 79 | WordSearch | [solution](./src/main/java/com/wkodate/leetcode/LC0079_WordSearch/Solution.java) |  | 
+| 80 | RemoveDuplicatesFromSortedArrayII | [solution](./src/main/java/com/wkodate/leetcode/LC0080_RemoveDuplicatesFromSortedArrayII/Solution.java) |  | 
+| 83 | RemoveDuplicatesFromSortedList | [solution](./src/main/java/com/wkodate/leetcode/LC0083_RemoveDuplicatesFromSortedList/Solution.java) |  | 
+| 88 | MergeSortedArray | [solution](./src/main/java/com/wkodate/leetcode/LC0088_MergeSortedArray/Solution.java) |  | 
+| 94 | BinaryTreeInorderTraversal | [solution](./src/main/java/com/wkodate/leetcode/LC0094_BinaryTreeInorderTraversal/Solution.java) |  | 
+| 96 | UniqueBinarySearchTrees | [solution](./src/main/java/com/wkodate/leetcode/LC0096_UniqueBinarySearchTrees/Solution.java) |  | 
+| 98 | ValidateBinarySearchTree | [solution](./src/main/java/com/wkodate/leetcode/LC0098_ValidateBinarySearchTree/Solution.java) |  | 
+| 100 | SameTree | [solution](./src/main/java/com/wkodate/leetcode/LC0100_SameTree/Solution.java) |  | 
+| 101 | SymmetricTree | [solution](./src/main/java/com/wkodate/leetcode/LC0101_SymmetricTree/Solution.java) |  | 
+| 102 | BinaryTreeLevelOrderTraversal | [solution](./src/main/java/com/wkodate/leetcode/LC0102_BinaryTreeLevelOrderTraversal/Solution.java) |  | 
+| 103 | BinaryTreeZigzagLevelOrderTraversal | [solution](./src/main/java/com/wkodate/leetcode/LC0103_BinaryTreeZigzagLevelOrderTraversal/Solution.java) |  | 
+| 104 | MaximumDepthOfBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0104_MaximumDepthOfBinaryTree/Solution.java) |  | 
+| 106 | ConstructBinaryTreeFromInorderAndPostorderTraversal | [solution](./src/main/java/com/wkodate/leetcode/LC0106_ConstructBinaryTreeFromInorderAndPostorderTraversal/Solution.java) |  | 
+| 107 | BinaryTreeLevelOrderTraversalII | [solution](./src/main/java/com/wkodate/leetcode/LC0107_BinaryTreeLevelOrderTraversalII/Solution.java) |  | 
+| 108 | ConvertSortedArrayToBinarySearchTree | [solution](./src/main/java/com/wkodate/leetcode/LC0108_ConvertSortedArrayToBinarySearchTree/Solution.java) |  | 
+| 111 | MinimumDepthOfBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0111_MinimumDepthOfBinaryTree/Solution.java) |  | 
+| 112 | PathSum | [solution](./src/main/java/com/wkodate/leetcode/LC0112_PathSum/Solution.java) |  | 
+| 116 | PopulatingNextRightPointersInEachNode | [solution](./src/main/java/com/wkodate/leetcode/LC0116_PopulatingNextRightPointersInEachNode/Solution.java) |  | 
+| 118 | PascalsTriangle | [solution](./src/main/java/com/wkodate/leetcode/LC0118_PascalsTriangle/Solution.java) |  | 
+| 119 | PascalsTriangleII | [solution](./src/main/java/com/wkodate/leetcode/LC0119_PascalsTriangleII/Solution.java) |  | 
+| 121 | BestTimeToBuyAndSellStock | [solution](./src/main/java/com/wkodate/leetcode/LC0121_BestTimeToBuyAndSellStock/Solution.java) |  | 
+| 122 | BestTimeToBuyAndSellStockII | [solution](./src/main/java/com/wkodate/leetcode/LC0122_BestTimeToBuyAndSellStockII/Solution.java) |  | 
+| 123 | BestTimeToBuyAndSellStockIII | [solution](./src/main/java/com/wkodate/leetcode/LC0123_BestTimeToBuyAndSellStockIII/Solution.java) |  | 
+| 124 | BinaryTreeMaximumPathSum | [solution](./src/main/java/com/wkodate/leetcode/LC0124_BinaryTreeMaximumPathSum/Solution.java) |  | 
+| 125 | ValidPalindrome | [solution](./src/main/java/com/wkodate/leetcode/LC0125_ValidPalindrome/Solution.java) |  | 
+| 129 | SumRootToLeafNumbers | [solution](./src/main/java/com/wkodate/leetcode/LC0129_SumRootToLeafNumbers/Solution.java) |  | 
+| 130 | SurroundedRegions | [solution](./src/main/java/com/wkodate/leetcode/LC0130_SurroundedRegions/Solution.java) |  | 
+| 133 | CloneGraph | [solution](./src/main/java/com/wkodate/leetcode/LC0133_CloneGraph/Solution.java) |  | 
+| 136 | SingleNumber | [solution](./src/main/java/com/wkodate/leetcode/LC0136_SingleNumber/Solution.java) |  | 
+| 137 | SingleNumberII | [solution](./src/main/java/com/wkodate/leetcode/LC0137_SingleNumberII/Solution.java) |  | 
+| 138 | CopyListWithRandomPointer | [solution](./src/main/java/com/wkodate/leetcode/LC0138_CopyListWithRandomPointer/Solution.java) |  | 
+| 140 | WordBreakII | [solution](./src/main/java/com/wkodate/leetcode/LC0140_WordBreakII/Solution.java) |  | 
+| 141 | LinkedListCycle | [solution](./src/main/java/com/wkodate/leetcode/LC0141_LinkedListCycle/Solution.java) |  | 
+| 142 | LinkedListCycleII | [solution](./src/main/java/com/wkodate/leetcode/LC0142_LinkedListCycleII/Solution.java) |  | 
+| 143 | ReorderList | [solution](./src/main/java/com/wkodate/leetcode/LC0143_ReorderList/Solution.java) |  | 
+| 146 | LRUCache | [solution](./src/main/java/com/wkodate/leetcode/LC0146_LRUCache/LRUCache.java) |  | 
+| 150 | EvaluateReversePolishNotation | [solution](./src/main/java/com/wkodate/leetcode/LC0150_EvaluateReversePolishNotation/Solution.java) |  | 
+| 151 | ReverseWordsInAString | [solution](./src/main/java/com/wkodate/leetcode/LC0151_ReverseWordsInAString/Solution.java) |  | 
+| 153 | FindMinimumInRotatedSortedArray | [solution](./src/main/java/com/wkodate/leetcode/LC0153_FindMinimumInRotatedSortedArray/Solution.java) |  | 
+| 154 | FindMinimumInRotatedSortedArrayII | [solution](./src/main/java/com/wkodate/leetcode/LC0154_FindMinimumInRotatedSortedArrayII/Solution.java) |  | 
+| 155 | MinStack | [solution](./src/main/java/com/wkodate/leetcode/LC0155_MinStack/MinStack2.java) |  | 
+| 160 | IntersectionOfTwoLinkedLists | [solution](./src/main/java/com/wkodate/leetcode/LC0160_IntersectionOfTwoLinkedLists/Solution.java) |  | 
+| 162 | FindPeakElement | [solution](./src/main/java/com/wkodate/leetcode/LC0162_FindPeakElement/Solution.java) |  | 
+| 167 | TwoSumII | [solution](./src/main/java/com/wkodate/leetcode/LC0167_TwoSumII/Solution.java) |  | 
+| 169 | MajorityElement | [solution](./src/main/java/com/wkodate/leetcode/LC0169_MajorityElement/Solution.java) |  | 
+| 171 | ExcelSheetColumnNumber | [solution](./src/main/java/com/wkodate/leetcode/LC0171_ExcelSheetColumnNumber/Solution.java) |  | 
+| 172 | FactorialTrailingZeroes | [solution](./src/main/java/com/wkodate/leetcode/LC0172_FactorialTrailingZeroes/Solution.java) |  | 
+| 174 | DungeonGame | [solution](./src/main/java/com/wkodate/leetcode/LC0174_DungeonGame/Solution.java) |  | 
+| 187 | RepeatedDNASequences | [solution](./src/main/java/com/wkodate/leetcode/LC0187_RepeatedDNASequences/Solution.java) |  | 
+| 189 | RotateArray | [solution](./src/main/java/com/wkodate/leetcode/LC0189_RotateArray/Solution.java) |  | 
+| 190 | ReverseBits | [solution](./src/main/java/com/wkodate/leetcode/LC0190_ReverseBits/Solution.java) |  | 
+| 191 | NumberOf1Bits | [solution](./src/main/java/com/wkodate/leetcode/LC0191_NumberOf1Bits/Solution.java) |  | 
+| 198 | HouseRobber | [solution](./src/main/java/com/wkodate/leetcode/LC0198_HouseRobber/Solution.java) |  | 
+| 200 | NumberOfIslands | [solution](./src/main/java/com/wkodate/leetcode/LC0200_NumberOfIslands/Solution.java) |  | 
+| 201 | BitwiseANDOfNumbersRange | [solution](./src/main/java/com/wkodate/leetcode/LC0201_BitwiseANDOfNumbersRange/Solution.java) |  | 
+| 202 | HappyNumber | [solution](./src/main/java/com/wkodate/leetcode/LC0202_HappyNumber/Solution.java) |  | 
+| 203 | RemoveLinkedListElements | [solution](./src/main/java/com/wkodate/leetcode/LC0203_RemoveLinkedListElements/Solution.java) |  | 
+| 204 | CountPrimes | [solution](./src/main/java/com/wkodate/leetcode/LC0204_CountPrimes/Solution.java) |  | 
+| 205 | IsomorphicStrings | [solution](./src/main/java/com/wkodate/leetcode/LC0205_IsomorphicStrings/Solution.java) |  | 
+| 206 | ReverseLinkedList | [solution](./src/main/java/com/wkodate/leetcode/LC0206_ReverseLinkedList/Solution.java) |  | 
+| 207 | CourseSchedule | [solution](./src/main/java/com/wkodate/leetcode/LC0207_CourseSchedule/Solution.java) |  | 
+| 208 | ImplementTriePrefixTree | [solution](./src/main/java/com/wkodate/leetcode/LC0208_ImplementTriePrefixTree/Trie.java) |  | 
+| 209 | MinimumSizeSubarraySum | [solution](./src/main/java/com/wkodate/leetcode/LC0209_MinimumSizeSubarraySum/Solution.java) |  | 
+| 210 | CourseScheduleII | [solution](./src/main/java/com/wkodate/leetcode/LC0210_CourseScheduleII/Solution.java) |  | 
+| 211 | AddAndSearchWord_DataStructureDesign | [solution](./src/main/java/com/wkodate/leetcode/LC0211_AddAndSearchWord_DataStructureDesign/WordDictionary.java) |  | 
+| 212 | WordSearchII | [solution](./src/main/java/com/wkodate/leetcode/LC0212_WordSearchII/Solution.java) |  | 
+| 215 | KthLargestElementInAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC0215_KthLargestElementInAnArray/Solution.java) |  | 
+| 217 | ContainsDuplicate | [solution](./src/main/java/com/wkodate/leetcode/LC0217_ContainsDuplicate/Solution.java) |  | 
+| 219 | ContainsDuplicateII | [solution](./src/main/java/com/wkodate/leetcode/LC0219_ContainsDuplicateII/Solution.java) |  | 
+| 221 | MaximalSquare | [solution](./src/main/java/com/wkodate/leetcode/LC0221_MaximalSquare/Solution.java) |  | 
+| 222 | CountCompleteTreeNodes | [solution](./src/main/java/com/wkodate/leetcode/LC0222_CountCompleteTreeNodes/Solution.java) |  | 
+| 225 | ImplementStackUsingQueues | [solution](./src/main/java/com/wkodate/leetcode/LC0225_ImplementStackUsingQueues/MyStack.java) |  | 
+| 226 | InvertBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0226_InvertBinaryTree/Solution.java) |  | 
+| 230 | KthSmallestElementInABST | [solution](./src/main/java/com/wkodate/leetcode/LC0230_KthSmallestElementInABST/Solution.java) |  | 
+| 231 | PowerOfTwo | [solution](./src/main/java/com/wkodate/leetcode/LC0231_PowerOfTwo/Solution.java) |  | 
+| 232 | ImplementQueueUsingStacks | [solution](./src/main/java/com/wkodate/leetcode/LC0232_ImplementQueueUsingStacks/MyQueue.java) |  | 
+| 234 | PalindromeLinkedList | [solution](./src/main/java/com/wkodate/leetcode/LC0234_PalindromeLinkedList/Solution.java) |  | 
+| 237 | DeleteNodeInALinkedList | [solution](./src/main/java/com/wkodate/leetcode/LC0237_DeleteNodeInALinkedList/Solution.java) |  | 
+| 238 | ProductOfArrayExceptSelf | [solution](./src/main/java/com/wkodate/leetcode/LC0238_ProductOfArrayExceptSelf/Solution.java) |  | 
+| 242 | ValidAnagram | [solution](./src/main/java/com/wkodate/leetcode/LC0242_ValidAnagram/Solution.java) |  | 
+| 257 | BinaryTreePaths | [solution](./src/main/java/com/wkodate/leetcode/LC0257_BinaryTreePaths/Solution.java) |  | 
+| 258 | AddDigits | [solution](./src/main/java/com/wkodate/leetcode/LC0258_AddDigits/Solution.java) |  | 
+| 260 | SingleNumberIII | [solution](./src/main/java/com/wkodate/leetcode/LC0260_SingleNumberIII/Solution.java) |  | 
+| 264 | UglyNumberII | [solution](./src/main/java/com/wkodate/leetcode/LC0264_UglyNumberII/Solution.java) |  | 
+| 268 | MissingNumber | [solution](./src/main/java/com/wkodate/leetcode/LC0268_MissingNumber/Solution.java) |  | 
+| 274 | HIndex | [solution](./src/main/java/com/wkodate/leetcode/LC0274_HIndex/Solution.java) |  | 
+| 275 | HIndexII | [solution](./src/main/java/com/wkodate/leetcode/LC0275_HIndexII/Solution.java) |  | 
+| 278 | FirstBadVersion | [solution](./src/main/java/com/wkodate/leetcode/LC0278_FirstBadVersion/Solution.java) |  | 
+| 279 | PerfectSquares | [solution](./src/main/java/com/wkodate/leetcode/LC0279_PerfectSquares/Solution.java) |  | 
+| 283 | MoveZeroes | [solution](./src/main/java/com/wkodate/leetcode/LC0283_MoveZeroes/Solution.java) |  | 
+| 287 | FindTheDuplicateNumber | [solution](./src/main/java/com/wkodate/leetcode/LC0287_FindTheDuplicateNumber/Solution.java) |  | 
+| 289 | GameOfLife | [solution](./src/main/java/com/wkodate/leetcode/LC0289_GameOfLife/Solution.java) |  | 
+| 292 | NimGame | [solution](./src/main/java/com/wkodate/leetcode/LC0292_NimGame/Solution.java) |  | 
+| 300 | LongestIncreasingSubsequence | [solution](./src/main/java/com/wkodate/leetcode/LC0300_LongestIncreasingSubsequence/Solution.java) |  | 
+| 303 | RangeSumQueryImmutable | [solution](./src/main/java/com/wkodate/leetcode/LC0303_RangeSumQueryImmutable/NumArray.java) |  | 
+| 309 | BestTimeToBuyAndSellStockWithCooldown | [solution](./src/main/java/com/wkodate/leetcode/LC0309_BestTimeToBuyAndSellStockWithCooldown/Solution.java) |  | 
+| 322 | CoinChange | [solution](./src/main/java/com/wkodate/leetcode/LC0322_CoinChange/Solution.java) |  | 
+| 326 | PowerOfThree | [solution](./src/main/java/com/wkodate/leetcode/LC0326_PowerOfThree/Solution.java) |  | 
+| 328 | OddEvenLinkedList | [solution](./src/main/java/com/wkodate/leetcode/LC0328_OddEvenLinkedList/Solution.java) |  | 
+| 332 | ReconstructItinerary | [solution](./src/main/java/com/wkodate/leetcode/LC0332_ReconstructItinerary/Solution.java) |  | 
+| 338 | CountingBits | [solution](./src/main/java/com/wkodate/leetcode/LC0338_CountingBits/Solution.java) |  | 
+| 342 | PowerOfFour | [solution](./src/main/java/com/wkodate/leetcode/LC0342_PowerOfFour/Solution.java) |  | 
+| 344 | ReverseString | [solution](./src/main/java/com/wkodate/leetcode/LC0344_ReverseString/Solution.java) |  | 
+| 345 | ReverseVowelsOfAString | [solution](./src/main/java/com/wkodate/leetcode/LC0345_ReverseVowelsOfAString/Solution.java) |  | 
+| 347 | TopKFrequentElements | [solution](./src/main/java/com/wkodate/leetcode/LC0347_TopKFrequentElements/Solution.java) |  | 
+| 349 | IntersectionOfTwoArrays | [solution](./src/main/java/com/wkodate/leetcode/LC0349_IntersectionOfTwoArrays/Solution.java) |  | 
+| 350 | IntersectionOfTwoArraysII | [solution](./src/main/java/com/wkodate/leetcode/LC0350_IntersectionOfTwoArraysII/Solution.java) |  | 
+| 357 | ComplexNumberMultiplication | [solution](./src/main/java/com/wkodate/leetcode/LC0357_ComplexNumberMultiplication/Solution.java) |  | 
+| 367 | ValidPerfectSquare | [solution](./src/main/java/com/wkodate/leetcode/LC0367_ValidPerfectSquare/Solution.java) |  | 
+| 368 | LargestDivisibleSubset | [solution](./src/main/java/com/wkodate/leetcode/LC0368_LargestDivisibleSubset/Solution.java) |  | 
+| 371 | SumOfTwoIntegers | [solution](./src/main/java/com/wkodate/leetcode/LC0371_SumOfTwoIntegers/Solution.java) |  | 
+| 374 | GuessNumberHigherOrLower | [solution](./src/main/java/com/wkodate/leetcode/LC0374_GuessNumberHigherOrLower/Solution.java) |  | 
+| 380 | InsertDeleteGetRandomO1 | [solution](./src/main/java/com/wkodate/leetcode/LC0380_InsertDeleteGetRandomO1/RandomizedSet.java) |  | 
+| 382 | LinkedListRandomNode | [solution](./src/main/java/com/wkodate/leetcode/LC0382_LinkedListRandomNode/Solution.java) |  | 
+| 383 | RansomNote | [solution](./src/main/java/com/wkodate/leetcode/LC0383_RansomNote/Solution.java) |  | 
+| 384 | ShuffleAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC0384_ShuffleAnArray/Solution.java) |  | 
+| 387 | FirstUniqueCharacterInAString | [solution](./src/main/java/com/wkodate/leetcode/LC0387_FirstUniqueCharacterInAString/Solution.java) |  | 
+| 389 | FindTheDifference | [solution](./src/main/java/com/wkodate/leetcode/LC0389_FindTheDifference/Solution.java) |  | 
+| 392 | IsSubsequence | [solution](./src/main/java/com/wkodate/leetcode/LC0392_IsSubsequence/Solution.java) |  | 
+| 394 | DecodeString | [solution](./src/main/java/com/wkodate/leetcode/LC0394_DecodeString/Solution.java) |  | 
+| 402 | RemoveKDigits | [solution](./src/main/java/com/wkodate/leetcode/LC0402_RemoveKDigits/Solution.java) |  | 
+| 406 | QueueReconstructionByHeight | [solution](./src/main/java/com/wkodate/leetcode/LC0406_QueueReconstructionByHeight/Solution.java) |  | 
+| 409 | LongestPalindrome | [solution](./src/main/java/com/wkodate/leetcode/LC0409_LongestPalindrome/Solution.java) |  | 
+| 412 | FizzBuzz | [solution](./src/main/java/com/wkodate/leetcode/LC0412_FizzBuzz/Solution.java) |  | 
+| 430 | FlattenAMultilevelDoublyLinkedList | [solution](./src/main/java/com/wkodate/leetcode/LC0430_FlattenAMultilevelDoublyLinkedList/Solution.java) |  | 
+| 434 | NumberOfSegmentsInAString | [solution](./src/main/java/com/wkodate/leetcode/LC0434_NumberOfSegmentsInAString/Solution.java) |  | 
+| 435 | NonOverlappingIntervals | [solution](./src/main/java/com/wkodate/leetcode/LC0435_NonOverlappingIntervals/Solution.java) |  | 
+| 437 | PathSumIII | [solution](./src/main/java/com/wkodate/leetcode/LC0437_PathSumIII/Solution.java) |  | 
+| 438 | FindAllAnagramsInAString | [solution](./src/main/java/com/wkodate/leetcode/LC0438_FindAllAnagramsInAString/Solution.java) |  | 
+| 441 | ArrangingCoins | [solution](./src/main/java/com/wkodate/leetcode/LC0441_ArrangingCoins/Solution.java) |  | 
+| 442 | FindAllDuplicatesInAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC0442_FindAllDuplicatesInAnArray/Solution.java) |  | 
+| 443 | StringCompression | [solution](./src/main/java/com/wkodate/leetcode/LC0443_StringCompression/Solution.java) |  | 
+| 445 | AddTwoNumbersII | [solution](./src/main/java/com/wkodate/leetcode/LC0445_AddTwoNumbersII/Solution.java) |  | 
+| 448 | FindAllNumbersDisappearedInAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC0448_FindAllNumbersDisappearedInAnArray/Solution.java) |  | 
+| 451 | SortCharactersByFrequency | [solution](./src/main/java/com/wkodate/leetcode/LC0451_SortCharactersByFrequency/Solution.java) |  | 
+| 453 | MinimumMovesToEqualArrayElements | [solution](./src/main/java/com/wkodate/leetcode/LC0453_MinimumMovesToEqualArrayElements/Solution.java) |  | 
+| 454 | 4SumII | [solution](./src/main/java/com/wkodate/leetcode/LC0454_4SumII/Solution.java) |  | 
+| 456 | 132Pattern | [solution](./src/main/java/com/wkodate/leetcode/LC0456_132Pattern/Solution.java) |  | 
+| 461 | HammingDistance | [solution](./src/main/java/com/wkodate/leetcode/LC0461_HammingDistance/Solution.java) |  | 
+| 463 | IslandPerimeter | [solution](./src/main/java/com/wkodate/leetcode/LC0463_IslandPerimeter/Solution.java) |  | 
+| 468 | ValidateIPAddress | [solution](./src/main/java/com/wkodate/leetcode/LC0468_ValidateIPAddress/Solution.java) |  | 
+| 476 | NumberComplement | [solution](./src/main/java/com/wkodate/leetcode/LC0476_NumberComplement/Solution.java) |  | 
+| 485 | MaxConsecutiveOnes | [solution](./src/main/java/com/wkodate/leetcode/LC0485_MaxConsecutiveOnes/Solution.java) |  | 
+| 494 | TargetSum | [solution](./src/main/java/com/wkodate/leetcode/LC0494_TargetSum/Solution.java) |  | 
+| 496 | NextGreaterElementI | [solution](./src/main/java/com/wkodate/leetcode/LC0496_NextGreaterElementI/Solution.java) |  | 
+| 497 | RandomPointInNonOverlappingRectangles | [solution](./src/main/java/com/wkodate/leetcode/LC0497_RandomPointInNonOverlappingRectangles/Solution.java) |  | 
+| 498 | DiagonalTraverse | [solution](./src/main/java/com/wkodate/leetcode/LC0498_DiagonalTraverse/Solution.java) |  | 
+| 509 | FibonacciNumber | [solution](./src/main/java/com/wkodate/leetcode/LC0509_FibonacciNumber/Solution.java) |  | 
+| 518 | CoinChange2 | [solution](./src/main/java/com/wkodate/leetcode/LC0518_CoinChange2/Solution.java) |  | 
+| 520 | DetectCapital | [solution](./src/main/java/com/wkodate/leetcode/LC0520_DetectCapital/Solution.java) |  | 
+| 521 | LongestUncommonSubsequenceI | [solution](./src/main/java/com/wkodate/leetcode/LC0521_LongestUncommonSubsequenceI/Solution.java) |  | 
+| 525 | ContiguousArray | [solution](./src/main/java/com/wkodate/leetcode/LC0525_ContiguousArray/Solution.java) |  | 
+| 526 | BeautifulArrangement | [solution](./src/main/java/com/wkodate/leetcode/LC0526_BeautifulArrangement/Solution.java) |  | 
+| 528 | RandomPickWithWeight | [solution](./src/main/java/com/wkodate/leetcode/LC0528_RandomPickWithWeight/Solution.java) |  | 
+| 535 | EncodeAndDecodeTinyURL | [solution](./src/main/java/com/wkodate/leetcode/LC0535_EncodeAndDecodeTinyURL/Codec.java) |  | 
+| 538 | ConvertBSTToGreaterTree | [solution](./src/main/java/com/wkodate/leetcode/LC0538_ConvertBSTToGreaterTree/Solution.java) |  | 
+| 540 | SingleElementInASortedArray | [solution](./src/main/java/com/wkodate/leetcode/LC0540_SingleElementInASortedArray/Solution.java) |  | 
+| 541 | ReverseStringII | [solution](./src/main/java/com/wkodate/leetcode/LC0541_ReverseStringII/Solution.java) |  | 
+| 542 | 01Matrix | [solution](./src/main/java/com/wkodate/leetcode/LC0542_01Matrix/Solution.java) |  | 
+| 543 | DiameterOfBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0543_DiameterOfBinaryTree/Solution.java) |  | 
+| 551 | StudentAttendanceRecordI | [solution](./src/main/java/com/wkodate/leetcode/LC0551_StudentAttendanceRecordI/Solution.java) |  | 
+| 557 | ReverseWordsInAStringIII | [solution](./src/main/java/com/wkodate/leetcode/LC0557_ReverseWordsInAStringIII/Solution.java) |  | 
+| 559 | MaximumDepthOfNAryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0559_MaximumDepthOfNAryTree/Solution.java) |  | 
+| 560 | SubarraySumEqualsK | [solution](./src/main/java/com/wkodate/leetcode/LC0560_SubarraySumEqualsK/Solution.java) |  | 
+| 561 | ArrayPartitionI | [solution](./src/main/java/com/wkodate/leetcode/LC0561_ArrayPartitionI/Solution.java) |  | 
+| 563 | BinaryTreeTilt | [solution](./src/main/java/com/wkodate/leetcode/LC0563_BinaryTreeTilt/Solution.java) |  | 
+| 566 | ReshapeTheMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC0566_ReshapeTheMatrix/Solution.java) |  | 
+| 567 | PermutationInString | [solution](./src/main/java/com/wkodate/leetcode/LC0567_PermutationInString/Solution.java) |  | 
+| 572 | SubtreeOfAnotherTree | [solution](./src/main/java/com/wkodate/leetcode/LC0572_SubtreeOfAnotherTree/Solution.java) |  | 
+| 575 | DistributeCandies | [solution](./src/main/java/com/wkodate/leetcode/LC0575_DistributeCandies/Solution.java) |  | 
+| 581 | ShortestUnsortedContinuousSubarray | [solution](./src/main/java/com/wkodate/leetcode/LC0581_ShortestUnsortedContinuousSubarray/Solution.java) |  | 
+| 589 | NAryTreePreorderTraversal | [solution](./src/main/java/com/wkodate/leetcode/LC0589_NAryTreePreorderTraversal/Solution.java) |  | 
+| 590 | NAryTreePostorderTraversal | [solution](./src/main/java/com/wkodate/leetcode/LC0590_NAryTreePostorderTraversal/Solution.java) |  | 
+| 598 | RangeAdditionII | [solution](./src/main/java/com/wkodate/leetcode/LC0598_RangeAdditionII/Solution.java) |  | 
+| 599 | MinimumIndexSumOfTwoLists | [solution](./src/main/java/com/wkodate/leetcode/LC0599_MinimumIndexSumOfTwoLists/Solution.java) |  | 
+| 605 | CanPlaceFlowers | [solution](./src/main/java/com/wkodate/leetcode/LC0605_CanPlaceFlowers/Solution.java) |  | 
+| 606 | ConstructStringFromBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0606_ConstructStringFromBinaryTree/Solution.java) |  | 
+| 617 | MergeTwoBinaryTrees | [solution](./src/main/java/com/wkodate/leetcode/LC0617_MergeTwoBinaryTrees/Solution.java) |  | 
+| 621 | TaskScheduler | [solution](./src/main/java/com/wkodate/leetcode/LC0621_TaskScheduler/Solution.java) |  | 
+| 622 | DesignCircularQueue | [solution](./src/main/java/com/wkodate/leetcode/LC0622_DesignCircularQueue/MyCircularQueue.java) |  | 
+| 628 | MaximumProductOfThreeNumbers | [solution](./src/main/java/com/wkodate/leetcode/LC0628_MaximumProductOfThreeNumbers/Solution.java) |  | 
+| 633 | SumOfSquareNumbers | [solution](./src/main/java/com/wkodate/leetcode/LC0633_SumOfSquareNumbers/Solution.java) |  | 
+| 637 | AverageOfLevelsInBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0637_AverageOfLevelsInBinaryTree/Solution.java) |  | 
+| 643 | MaximumAverageSubarrayI | [solution](./src/main/java/com/wkodate/leetcode/LC0643_MaximumAverageSubarrayI/Solution.java) |  | 
+| 645 | SetMismatch | [solution](./src/main/java/com/wkodate/leetcode/LC0645_SetMismatch/Solution.java) |  | 
+| 652 | FindDuplicateSubtrees | [solution](./src/main/java/com/wkodate/leetcode/LC0652_FindDuplicateSubtrees/Solution.java) |  | 
+| 653 | TwoSumIV | [solution](./src/main/java/com/wkodate/leetcode/LC0653_TwoSumIV/Solution.java) |  | 
+| 657 | RobotReturnToOrigin | [solution](./src/main/java/com/wkodate/leetcode/LC0657_RobotReturnToOrigin/Solution.java) |  | 
+| 658 | FindKClosestElements | [solution](./src/main/java/com/wkodate/leetcode/LC0658_FindKClosestElements/Solution.java) |  | 
+| 661 | ImageSmoother | [solution](./src/main/java/com/wkodate/leetcode/LC0661_ImageSmoother/Solution.java) |  | 
+| 662 | MaximumWidthOfBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0662_MaximumWidthOfBinaryTree/Solution.java) |  | 
+| 665 | NonDecreasingArray | [solution](./src/main/java/com/wkodate/leetcode/LC0665_NonDecreasingArray/Solution.java) |  | 
+| 669 | TrimABinarySearchTree | [solution](./src/main/java/com/wkodate/leetcode/LC0669_TrimABinarySearchTree/Solution.java) |  | 
+| 673 | NumberOfLongestIncreasingSubsequence | [solution](./src/main/java/com/wkodate/leetcode/LC0673_NumberOfLongestIncreasingSubsequence/Solution.java) |  | 
+| 674 | LongestContinuousIncreasingSubsequence | [solution](./src/main/java/com/wkodate/leetcode/LC0674_LongestContinuousIncreasingSubsequence/Solution.java) |  | 
+| 678 | ValidParenthesisString | [solution](./src/main/java/com/wkodate/leetcode/LC0678_ValidParenthesisString/Solution.java) |  | 
+| 682 | BaseballGame | [solution](./src/main/java/com/wkodate/leetcode/LC0682_BaseballGame/Solution.java) |  | 
+| 686 | RepeatedStringMatch | [solution](./src/main/java/com/wkodate/leetcode/LC0686_RepeatedStringMatch/Solution.java) |  | 
+| 690 | EmployeeImportance | [solution](./src/main/java/com/wkodate/leetcode/LC0690_EmployeeImportance/Solution.java) |  | 
+| 693 | BinaryNumberWithAlternatingBits | [solution](./src/main/java/com/wkodate/leetcode/LC0693_BinaryNumberWithAlternatingBits/Solution.java) |  | 
+| 695 | MaxAreaofIsland | [solution](./src/main/java/com/wkodate/leetcode/LC0695_MaxAreaofIsland/Solution.java) |  | 
+| 696 | CountBinarySubstrings | [solution](./src/main/java/com/wkodate/leetcode/LC0696_CountBinarySubstrings/Solution.java) |  | 
+| 697 | DegreeOfAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC0697_DegreeOfAnArray/Solution.java) |  | 
+| 700 | SearchInABinarySearchTree | [solution](./src/main/java/com/wkodate/leetcode/LC0700_SearchInABinarySearchTree/Solution.java) |  | 
+| 703 | KthLargestElementInAStream | [solution](./src/main/java/com/wkodate/leetcode/LC0703_KthLargestElementInAStream/KthLargest2.java) |  | 
+| 704 | BinarySearch | [solution](./src/main/java/com/wkodate/leetcode/LC0704_BinarySearch/Solution.java) |  | 
+| 705 | DesignHashSet | [solution](./src/main/java/com/wkodate/leetcode/LC0705_DesignHashSet/MyHashSet2.java) |  | 
+| 706 | DesignHashMap | [solution](./src/main/java/com/wkodate/leetcode/LC0706_DesignHashMap/MyHashMap.java) |  | 
+| 707 | DesignLinkedList | [solution](./src/main/java/com/wkodate/leetcode/LC0707_DesignLinkedList/MyLinkedList.java) |  | 
+| 709 | ToLowerCase | [solution](./src/main/java/com/wkodate/leetcode/LC0709_ToLowerCase/Solution.java) |  | 
+| 717 | 1BitAnd2BitCharacters | [solution](./src/main/java/com/wkodate/leetcode/LC0717_1BitAnd2BitCharacters/Solution.java) |  | 
+| 720 | LongestWordInDictionary | [solution](./src/main/java/com/wkodate/leetcode/LC0720_LongestWordInDictionary/Solution.java) |  | 
+| 724 | FindPivotIndex | [solution](./src/main/java/com/wkodate/leetcode/LC0724_FindPivotIndex/Solution.java) |  | 
+| 728 | SelfDividingNumbers | [solution](./src/main/java/com/wkodate/leetcode/LC0728_SelfDividingNumbers/Solution.java) |  | 
+| 733 | FloodFill | [solution](./src/main/java/com/wkodate/leetcode/LC0733_FloodFill/Solution.java) |  | 
+| 735 | AsteroidCollision | [solution](./src/main/java/com/wkodate/leetcode/LC0735_AsteroidCollision/Solution.java) |  | 
+| 739 | DailyTemperatures | [solution](./src/main/java/com/wkodate/leetcode/LC0739_DailyTemperatures/Solution.java) |  | 
+| 744 | FindSmallestLetterGreaterThanTarget | [solution](./src/main/java/com/wkodate/leetcode/LC0744_FindSmallestLetterGreaterThanTarget/Solution.java) |  | 
+| 746 | MinCostClimbingStairs | [solution](./src/main/java/com/wkodate/leetcode/LC0746_MinCostClimbingStairs/Solution.java) |  | 
+| 747 | LargestNumberAtLeastTwiceOfOthers | [solution](./src/main/java/com/wkodate/leetcode/LC0747_LargestNumberAtLeastTwiceOfOthers/Solution.java) |  | 
+| 748 | ShortestCompletingWord | [solution](./src/main/java/com/wkodate/leetcode/LC0748_ShortestCompletingWord/Solution.java) |  | 
+| 752 | OpenTheLock | [solution](./src/main/java/com/wkodate/leetcode/LC0752_OpenTheLock/Solution.java) |  | 
+| 762 | PrimeNumberOfSetBitsInBinaryRepresentation | [solution](./src/main/java/com/wkodate/leetcode/LC0762_PrimeNumberOfSetBitsInBinaryRepresentation/Solution.java) |  | 
+| 763 | PartitionLabels | [solution](./src/main/java/com/wkodate/leetcode/LC0763_PartitionLabels/Solution.java) |  | 
+| 766 | ToeplitzMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC0766_ToeplitzMatrix/Solution.java) |  | 
+| 771 | JewelsAndStones | [solution](./src/main/java/com/wkodate/leetcode/LC0771_JewelsAndStones/Solution.java) |  | 
+| 783 | MinimumDistanceBetweenBSTNodes | [solution](./src/main/java/com/wkodate/leetcode/LC0783_MinimumDistanceBetweenBSTNodes/Solution.java) |  | 
+| 784 | LetterCasePermutation | [solution](./src/main/java/com/wkodate/leetcode/LC0784_LetterCasePermutation/Solution.java) |  | 
+| 787 | CheapestFlightsWithinKStops | [solution](./src/main/java/com/wkodate/leetcode/LC0787_CheapestFlightsWithinKStops/Solution.java) |  | 
+| 788 | RotatedDigits | [solution](./src/main/java/com/wkodate/leetcode/LC0788_RotatedDigits/Solution.java) |  | 
+| 791 | CustomSortString | [solution](./src/main/java/com/wkodate/leetcode/LC0791_CustomSortString/Solution.java) |  | 
+| 796 | RotateString | [solution](./src/main/java/com/wkodate/leetcode/LC0796_RotateString/Solution.java) |  | 
+| 797 | AllPathsFromSourceToTarget | [solution](./src/main/java/com/wkodate/leetcode/LC0797_AllPathsFromSourceToTarget/Solution.java) |  | 
+| 804 | UniqueMorseCodeWords | [solution](./src/main/java/com/wkodate/leetcode/LC0804_UniqueMorseCodeWords/Solution.java) |  | 
+| 806 | NumberOfLinesToWriteString | [solution](./src/main/java/com/wkodate/leetcode/LC0806_NumberOfLinesToWriteString/Solution.java) |  | 
+| 807 | MaxIncreaseToKeepCitySkyline | [solution](./src/main/java/com/wkodate/leetcode/LC0807_MaxIncreaseToKeepCitySkyline/Solution.java) |  | 
+| 811 | SubdomainVisitCount | [solution](./src/main/java/com/wkodate/leetcode/LC0811_SubdomainVisitCount/Solution.java) |  | 
+| 812 | LargestTriangleArea | [solution](./src/main/java/com/wkodate/leetcode/LC0812_LargestTriangleArea/Solution.java) |  | 
+| 813 | LargestSumOfAverages | [solution](./src/main/java/com/wkodate/leetcode/LC0813_LargestSumOfAverages/Solution.java) |  | 
+| 819 | MostCommonWord | [solution](./src/main/java/com/wkodate/leetcode/LC0819_MostCommonWord/Solution.java) |  | 
+| 821 | ShortestDistanceToACharacter | [solution](./src/main/java/com/wkodate/leetcode/LC0821_ShortestDistanceToACharacter/Solution.java) |  | 
+| 824 | GoatLatin | [solution](./src/main/java/com/wkodate/leetcode/LC0824_GoatLatin/Solution.java) |  | 
+| 830 | PositionsOfLargeGroups | [solution](./src/main/java/com/wkodate/leetcode/LC0830_PositionsOfLargeGroups/Solution.java) |  | 
+| 832 | FlippingAnImage | [solution](./src/main/java/com/wkodate/leetcode/LC0832_FlippingAnImage/Solution.java) |  | 
+| 836 | RectangleOverlap | [solution](./src/main/java/com/wkodate/leetcode/LC0836_RectangleOverlap/Solution.java) |  | 
+| 840 | MagicSquaresInGrid | [solution](./src/main/java/com/wkodate/leetcode/LC0840_MagicSquaresInGrid/Solution.java) |  | 
+| 841 | KeysAndRooms | [solution](./src/main/java/com/wkodate/leetcode/LC0841_KeysAndRooms/Solution.java) |  | 
+| 844 | BackspaceStringCompare | [solution](./src/main/java/com/wkodate/leetcode/LC0844_BackspaceStringCompare/Solution.java) |  | 
+| 849 | MaximizeDistanceToClosestPerson | [solution](./src/main/java/com/wkodate/leetcode/LC0849_MaximizeDistanceToClosestPerson/Solution.java) |  | 
+| 852 | PeakIndexInAMountainArray | [solution](./src/main/java/com/wkodate/leetcode/LC0852_PeakIndexInAMountainArray/Solution.java) |  | 
+| 860 | LemonadeChange | [solution](./src/main/java/com/wkodate/leetcode/LC0860_LemonadeChange/Solution.java) |  | 
+| 865 | SmallestSubtreeWithAllTheDeepestNodes | [solution](./src/main/java/com/wkodate/leetcode/LC0865_SmallestSubtreeWithAllTheDeepestNodes/Solution.java) |  | 
+| 867 | TransposeMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC0867_TransposeMatrix/Solution.java) |  | 
+| 868 | BinaryGap | [solution](./src/main/java/com/wkodate/leetcode/LC0868_BinaryGap/Solution.java) |  | 
+| 872 | LeafSimilarTrees | [solution](./src/main/java/com/wkodate/leetcode/LC0872_LeafSimilarTrees/Solution.java) |  | 
+| 876 | MiddleOfTheLinkedList | [solution](./src/main/java/com/wkodate/leetcode/LC0876_MiddleOfTheLinkedList/Solution.java) |  | 
+| 881 | BoatsToSavePeople | [solution](./src/main/java/com/wkodate/leetcode/LC0881_BoatsToSavePeople/Solution.java) |  | 
+| 883 | ProjectionAreaOf3DShapes | [solution](./src/main/java/com/wkodate/leetcode/LC0883_ProjectionAreaOf3DShapes/Solution.java) |  | 
+| 884 | UncommonWordsFromTwoSentences | [solution](./src/main/java/com/wkodate/leetcode/LC0884_UncommonWordsFromTwoSentences/Solution.java) |  | 
+| 886 | PossibleBipartition | [solution](./src/main/java/com/wkodate/leetcode/LC0886_PossibleBipartition/Solution.java) |  | 
+| 888 | FairCandySwap | [solution](./src/main/java/com/wkodate/leetcode/LC0888_FairCandySwap/Solution.java) |  | 
+| 890 | FindAndReplacePattern | [solution](./src/main/java/com/wkodate/leetcode/LC0890_FindAndReplacePattern/Solution.java) |  | 
+| 892 | SurfaceAreaOf3DShapes | [solution](./src/main/java/com/wkodate/leetcode/LC0892_SurfaceAreaOf3DShapes/Solution.java) |  | 
+| 893 | GroupsOfSpecialEquivalentStrings | [solution](./src/main/java/com/wkodate/leetcode/LC0893_GroupsOfSpecialEquivalentStrings/Solution.java) |  | 
+| 896 | MonotonicArray | [solution](./src/main/java/com/wkodate/leetcode/LC0896_MonotonicArray/Solution.java) |  | 
+| 897 | IncreasingOrderSearchTree | [solution](./src/main/java/com/wkodate/leetcode/LC0897_IncreasingOrderSearchTree/Solution.java) |  | 
+| 901 | OnlineStockSpan | [solution](./src/main/java/com/wkodate/leetcode/LC0901_OnlineStockSpan/StockSpanner.java) |  | 
+| 905 | SortArrayByParity | [solution](./src/main/java/com/wkodate/leetcode/LC0905_SortArrayByParity/Solution.java) |  | 
+| 908 | SmallestRangeI | [solution](./src/main/java/com/wkodate/leetcode/LC0908_SmallestRangeI/Solution.java) |  | 
+| 912 | SortAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC0912_SortAnArray/Solution.java) |  | 
+| 917 | ReverseOnlyLetters | [solution](./src/main/java/com/wkodate/leetcode/LC0917_ReverseOnlyLetters/Solution.java) |  | 
+| 918 | MaximumSumCircularSubarray | [solution](./src/main/java/com/wkodate/leetcode/LC0918_MaximumSumCircularSubarray/Solution.java) |  | 
+| 921 | MinimumAddToMakeParenthesesValid | [solution](./src/main/java/com/wkodate/leetcode/LC0921_MinimumAddToMakeParenthesesValid/Solution.java) |  | 
+| 922 | SortArrayByParityII | [solution](./src/main/java/com/wkodate/leetcode/LC0922_SortArrayByParityII/Solution.java) |  | 
+| 925 | LongPressedName | [solution](./src/main/java/com/wkodate/leetcode/LC0925_LongPressedName/Solution.java) |  | 
+| 929 | UniqueEmailAddresses | [solution](./src/main/java/com/wkodate/leetcode/LC0929_UniqueEmailAddresses/Solution.java) |  | 
+| 933 | NumberOfRecentCalls | [solution](./src/main/java/com/wkodate/leetcode/LC0933_NumberOfRecentCalls/RecentCounter.java) |  | 
+| 937 | ReorderDataInLogFiles | [solution](./src/main/java/com/wkodate/leetcode/LC0937_ReorderDataInLogFiles/Solution.java) |  | 
+| 938 | RangeSumOfBST | [solution](./src/main/java/com/wkodate/leetcode/LC0938_RangeSumOfBST/Solution.java) |  | 
+| 941 | ValidMountainArray | [solution](./src/main/java/com/wkodate/leetcode/LC0941_ValidMountainArray/Solution.java) |  | 
+| 942 | DIStringMatch | [solution](./src/main/java/com/wkodate/leetcode/LC0942_DIStringMatch/Solution.java) |  | 
+| 944 | DeleteColumnsToMakeSorted | [solution](./src/main/java/com/wkodate/leetcode/LC0944_DeleteColumnsToMakeSorted/Solution.java) |  | 
+| 946 | ValidateStackSequences | [solution](./src/main/java/com/wkodate/leetcode/LC0946_ValidateStackSequences/Solution.java) |  | 
+| 948 | BagOfTokens | [solution](./src/main/java/com/wkodate/leetcode/LC0948_BagOfTokens/Solution.java) |  | 
+| 949 | LargestTimeForGivenDigits | [solution](./src/main/java/com/wkodate/leetcode/LC0949_LargestTimeForGivenDigits/Solution.java) |  | 
+| 953 | VerifyingAnAlienDictionary | [solution](./src/main/java/com/wkodate/leetcode/LC0953_VerifyingAnAlienDictionary/Solution.java) |  | 
+| 957 | PrisonCellsAfterNDays | [solution](./src/main/java/com/wkodate/leetcode/LC0957_PrisonCellsAfterNDays/Solution.java) |  | 
+| 961 | NRepeatedElementInSize2NArray | [solution](./src/main/java/com/wkodate/leetcode/LC0961_NRepeatedElementInSize2NArray/Solution.java) |  | 
+| 965 | UnivaluedBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0965_UnivaluedBinaryTree/Solution.java) |  | 
+| 967 | NumbersWithSameConsecutiveDifferences | [solution](./src/main/java/com/wkodate/leetcode/LC0967_NumbersWithSameConsecutiveDifferences/Solution.java) |  | 
+| 970 | PowerfulIntegers | [solution](./src/main/java/com/wkodate/leetcode/LC0970_PowerfulIntegers/Solution.java) |  | 
+| 973 | KClosestPointsToOrigin | [solution](./src/main/java/com/wkodate/leetcode/LC0973_KClosestPointsToOrigin/Solution.java) |  | 
+| 976 | LargestPerimeterTriangle | [solution](./src/main/java/com/wkodate/leetcode/LC0976_LargestPerimeterTriangle/Solution.java) |  | 
+| 977 | SquaresOfASortedArray | [solution](./src/main/java/com/wkodate/leetcode/LC0977_SquaresOfASortedArray/Solution.java) |  | 
+| 985 | SumOfEvenNumbersAfterQueries | [solution](./src/main/java/com/wkodate/leetcode/LC0985_SumOfEvenNumbersAfterQueries/Solution.java) |  | 
+| 986 | IntervalListIntersections | [solution](./src/main/java/com/wkodate/leetcode/LC0986_IntervalListIntersections/Solution.java) |  | 
+| 987 | VerticalOrderTraversalOfABinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0987_VerticalOrderTraversalOfABinaryTree/Solution.java) |  | 
+| 989 | AddToArrayFormOfInteger | [solution](./src/main/java/com/wkodate/leetcode/LC0989_AddToArrayFormOfInteger/Solution.java) |  | 
+| 993 | CousinsInBinaryTree | [solution](./src/main/java/com/wkodate/leetcode/LC0993_CousinsInBinaryTree/Solution.java) |  | 
+| 994 | RottingOranges | [solution](./src/main/java/com/wkodate/leetcode/LC0994_RottingOranges/Solution.java) |  | 
+| 997 | FindTheTownJudge | [solution](./src/main/java/com/wkodate/leetcode/LC0997_FindTheTownJudge/Solution.java) |  | 
+| 1002 | FindCommonCharacters | [solution](./src/main/java/com/wkodate/leetcode/LC1002_FindCommonCharacters/Solution.java) |  | 
+| 1007 | MinimumDominoRotationsForEqualRow | [solution](./src/main/java/com/wkodate/leetcode/LC1007_MinimumDominoRotationsForEqualRow/Solution.java) |  | 
+| 1008 | ConstructBinarySearchTreeFromPreorderTraversal | [solution](./src/main/java/com/wkodate/leetcode/LC1008_ConstructBinarySearchTreeFromPreorderTraversal/Solution.java) |  | 
+| 1009 | ComplementOfBase10Integer | [solution](./src/main/java/com/wkodate/leetcode/LC1009_ComplementOfBase10Integer/Solution.java) |  | 
+| 1010 | PairsOfSongsWithTotalDurationsDivisibleBy60 | [solution](./src/main/java/com/wkodate/leetcode/LC1010_PairsOfSongsWithTotalDurationsDivisibleBy60/Solution.java) |  | 
+| 1021 | RemoveOutermostParentheses | [solution](./src/main/java/com/wkodate/leetcode/LC1021_RemoveOutermostParentheses/Solution.java) |  | 
+| 1026 | MaximumDifferenceBetweenNodeAndAncestor | [solution](./src/main/java/com/wkodate/leetcode/LC1026_MaximumDifferenceBetweenNodeAndAncestor/Solution.java) |  | 
+| 1029 | TwoCityScheduling | [solution](./src/main/java/com/wkodate/leetcode/LC1029_TwoCityScheduling/Solution.java) |  | 
+| 1030 | MatrixCellsInDistanceOrder | [solution](./src/main/java/com/wkodate/leetcode/LC1030_MatrixCellsInDistanceOrder/Solution.java) |  | 
+| 1035 | UncrossedLines | [solution](./src/main/java/com/wkodate/leetcode/LC1035_UncrossedLines/Solution.java) |  | 
+| 1044 | LongestDuplicateSubstring | [solution](./src/main/java/com/wkodate/leetcode/LC1044_LongestDuplicateSubstring/Solution.java) |  | 
+| 1046 | LastStoneWeight | [solution](./src/main/java/com/wkodate/leetcode/LC1046_LastStoneWeight/Solution.java) |  | 
+| 1047 | RemoveAllAdjacentDuplicatesInString | [solution](./src/main/java/com/wkodate/leetcode/LC1047_RemoveAllAdjacentDuplicatesInString/Solution.java) |  | 
+| 1051 | HeightChecker | [solution](./src/main/java/com/wkodate/leetcode/LC1051_HeightChecker/Solution.java) |  | 
+| 1071 | GreatestCommonDivisorOfStrings | [solution](./src/main/java/com/wkodate/leetcode/LC1071_GreatestCommonDivisorOfStrings/Solution.java) |  | 
+| 1089 | DuplicateZeros | [solution](./src/main/java/com/wkodate/leetcode/LC1089_DuplicateZeros/Solution.java) |  | 
+| 1091 | ShortestPathInBinaryMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC1091_ShortestPathInBinaryMatrix/Solution.java) |  | 
+| 1103 | DistributeCandiesToPeople | [solution](./src/main/java/com/wkodate/leetcode/LC1103_DistributeCandiesToPeople/Solution.java) |  | 
+| 1108 | DefangingAnIPAddress | [solution](./src/main/java/com/wkodate/leetcode/LC1108_DefangingAnIPAddress/Solution.java) |  | 
+| 1122 | RelativeSortArray | [solution](./src/main/java/com/wkodate/leetcode/LC1122_RelativeSortArray/Solution.java) |  | 
+| 1137 | NthTribonacciNumber | [solution](./src/main/java/com/wkodate/leetcode/LC1137_NthTribonacciNumber/Solution.java) |  | 
+| 1143 | LongestCommonSubsequence | [solution](./src/main/java/com/wkodate/leetcode/LC1143_LongestCommonSubsequence/Solution.java) | [solution](./cpp/lc1143_longest_common_subsequence.cpp) | 
+| 1160 | FindWordsThatCanBeFormedByCharacters | [solution](./src/main/java/com/wkodate/leetcode/LC1160_FindWordsThatCanBeFormedByCharacters/Solution.java) |  | 
+| 1189 | MaximumNumberOfBalloons | [solution](./src/main/java/com/wkodate/leetcode/LC1189_MaximumNumberOfBalloons/Solution.java) |  | 
+| 1207 | UniqueNumberOfOccurrences | [solution](./src/main/java/com/wkodate/leetcode/LC1207_UniqueNumberOfOccurrences/Solution.java) |  | 
+| 1217 | MinimumCostToMoveChipsToTheSamePosition | [solution](./src/main/java/com/wkodate/leetcode/LC1217_MinimumCostToMoveChipsToTheSamePosition/Solution.java) |  | 
+| 1221 | SplitAStringInBalancedStrings | [solution](./src/main/java/com/wkodate/leetcode/LC1221_SplitAStringInBalancedStrings/Solution.java) |  | 
+| 1227 | CountSquareSubmatricesWithAllOnes | [solution](./src/main/java/com/wkodate/leetcode/LC1227_CountSquareSubmatricesWithAllOnes/Solution.java) |  | 
+| 1232 | CheckIfItIsAStraightLine | [solution](./src/main/java/com/wkodate/leetcode/LC1232_CheckIfItIsAStraightLine/Solution.java) |  | 
+| 1254 | NumberOfClosedIslands | [solution](./src/main/java/com/wkodate/leetcode/LC1254_NumberOfClosedIslands/Solution.java) |  | 
+| 1260 | Shift2DGrid | [solution](./src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) |  | 
+| 1266 | MinimumTimeVisitingAllPoints | [solution](./src/main/java/com/wkodate/leetcode/LC1266_MinimumTimeVisitingAllPoints/Solution.java) |  | 
+| 1281 | SubtractTheProductAndSumOfDigitsOfAnInteger | [solution](./src/main/java/com/wkodate/leetcode/LC1281_SubtractTheProductAndSumOfDigitsOfAnInteger/Solution.java) |  | 
+| 1282 | GroupThePeopleGivenTheGroupSizeTheyBelongTo | [solution](./src/main/java/com/wkodate/leetcode/LC1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java) |  | 
+| 1283 | FindTheSmallestDivisorGivenAThreshold | [solution](./src/main/java/com/wkodate/leetcode/LC1283_FindTheSmallestDivisorGivenAThreshold/Solution.java) |  | 
+| 1286 | IteratorForCombination | [solution](./src/main/java/com/wkodate/leetcode/LC1286_IteratorForCombination/CombinationIterator.java) |  | 
+| 1290 | ConvertBinaryNumberInALinkedListToInteger | [solution](./src/main/java/com/wkodate/leetcode/LC1290_ConvertBinaryNumberInALinkedListToInteger/Solution.java) |  | 
+| 1295 | FindNumbersWithEvenNumberOfDigits | [solution](./src/main/java/com/wkodate/leetcode/LC1295_FindNumbersWithEvenNumberOfDigits/Solution.java) |  | 
+| 1302 | DeepestLeavesSum | [solution](./src/main/java/com/wkodate/leetcode/LC1302_DeepestLeavesSum/Solution.java) |  | 
+| 1304 | FindNUniqueIntegersSumUpToZero | [solution](./src/main/java/com/wkodate/leetcode/LC1304_FindNUniqueIntegersSumUpToZero/Solution.java) |  | 
+| 1306 | JumpGameIII | [solution](./src/main/java/com/wkodate/leetcode/LC1306_JumpGameIII/Solution.java) |  | 
+| 1309 | DecryptStringFromAlphabetToIntegerMapping | [solution](./src/main/java/com/wkodate/leetcode/LC1309_DecryptStringFromAlphabetToIntegerMapping/Solution.java) |  | 
+| 1314 | MatrixBlockSum | [solution](./src/main/java/com/wkodate/leetcode/LC1314_MatrixBlockSum/Solution.java) |  | 
+| 1317 | ConvertIntegerToTheSumOfTwoNoZeroIntegers | [solution](./src/main/java/com/wkodate/leetcode/LC1317_ConvertIntegerToTheSumOfTwoNoZeroIntegers/Solution.java) |  | 
+| 1323 | Maximum69Number | [solution](./src/main/java/com/wkodate/leetcode/LC1323_Maximum69Number/Solution.java) |  | 
+| 1329 | SortTheMatrixDiagonally | [solution](./src/main/java/com/wkodate/leetcode/LC1329_SortTheMatrixDiagonally/Solution.java) |  | 
+| 1332 | RemovePalindromicSubsequences | [solution](./src/main/java/com/wkodate/leetcode/LC1332_RemovePalindromicSubsequences/Solution.java) |  | 
+| 1337 | TheKWeakestRowsInAMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC1337_TheKWeakestRowsInAMatrix/Solution.java) |  | 
+| 1342 | NumberOfStepsToRReduceANumberToZero | [solution](./src/main/java/com/wkodate/leetcode/LC1342_NumberOfStepsToRReduceANumberToZero/Solution.java) |  | 
+| 1344 | AngleBetweenHandsOfAClock | [solution](./src/main/java/com/wkodate/leetcode/LC1344_AngleBetweenHandsOfAClock/Solution.java) |  | 
+| 1347 | MinimumNumberOfStepsToMakeTwoStringsAnagram | [solution](./src/main/java/com/wkodate/leetcode/LC1347_MinimumNumberOfStepsToMakeTwoStringsAnagram/Solution.java) |  | 
+| 1356 | SortIntegersByTheNumberOf1Bits | [solution](./src/main/java/com/wkodate/leetcode/LC1356_SortIntegersByTheNumberOf1Bits/Solution.java) |  | 
+| 1365 | HowManyNumbersAreSmallerThanTheCurrentNumber | [solution](./src/main/java/com/wkodate/leetcode/LC1365_HowManyNumbersAreSmallerThanTheCurrentNumber/Solution.java) |  | 
+| 1370 | IncreasingDecreasingString | [solution](./src/main/java/com/wkodate/leetcode/LC1370_IncreasingDecreasingString/Solution.java) |  | 
+| 1374 | GenerateAStringWithCharactersThatHaveOddCounts | [solution](./src/main/java/com/wkodate/leetcode/LC1374_GenerateAStringWithCharactersThatHaveOddCounts/Solution.java) |  | 
+| 1379 | FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree | [solution](./src/main/java/com/wkodate/leetcode/LC1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree/Solution.java) |  | 
+| 1380 | LuckyNumbersInAMatrix | [solution](./src/main/java/com/wkodate/leetcode/LC1380_LuckyNumbersInAMatrix/Solution.java) |  | 
+| 1387 | SortIntegersByThePowerValue | [solution](./src/main/java/com/wkodate/leetcode/LC1387_SortIntegersByThePowerValue/Solution.java) |  | 
+| 1389 | CreateTargetArrayInTheGivenOrder | [solution](./src/main/java/com/wkodate/leetcode/LC1389_CreateTargetArrayInTheGivenOrder/Solution.java) |  | 
+| 1400 | ConstructKPalindromeStrings | [solution](./src/main/java/com/wkodate/leetcode/LC1400_ConstructKPalindromeStrings/Solution.java) |  | 
+| 1403 | MinimumSubsequenceInNonIncreasingOrder | [solution](./src/main/java/com/wkodate/leetcode/LC1403_MinimumSubsequenceInNonIncreasingOrder/Solution.java) |  | 
+| 1408 | StringMatchingInAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC1408_StringMatchingInAnArray/Solution.java) |  | 
+| 1417 | ReformatTheString | [solution](./src/main/java/com/wkodate/leetcode/LC1417_ReformatTheString/Solution.java) |  | 
+| 1431 | KidsWithTheGreatestNumberOfCandies | [solution](./src/main/java/com/wkodate/leetcode/LC1431_KidsWithTheGreatestNumberOfCandies/Solution.java) |  | 
+| 1437 | CheckIfAll1sAreAtLeastLengthKPlacesAway | [solution](./src/main/java/com/wkodate/leetcode/LC1437_CheckIfAll1sAreAtLeastLengthKPlacesAway/Solution.java) |  | 
+| 1446 | ConsecutiveCharacters | [solution](./src/main/java/com/wkodate/leetcode/LC1446_ConsecutiveCharacters/Solution.java) |  | 
+| 1451 | RearrangeWordsInASentence | [solution](./src/main/java/com/wkodate/leetcode/LC1451_RearrangeWordsInASentence/Solution.java) |  | 
+| 1460 | MakeTwoArraysEqualByReversingSubArrays | [solution](./src/main/java/com/wkodate/leetcode/LC1460_MakeTwoArraysEqualByReversingSubArrays/Solution.java) |  | 
+| 1461 | CheckIfAStringContainsAllBinaryCodesOfSizeK | [solution](./src/main/java/com/wkodate/leetcode/LC1461_CheckIfAStringContainsAllBinaryCodesOfSizeK/Solution.java) |  | 
+| 1464 | MaximumProductOfTwoElementsInAnArray | [solution](./src/main/java/com/wkodate/leetcode/LC1464_MaximumProductOfTwoElementsInAnArray/Solution.java) |  | 
+| 1475 | FinalPricesWithASpecialDiscountInAShop | [solution](./src/main/java/com/wkodate/leetcode/LC1475_FinalPricesWithASpecialDiscountInAShop/Solution.java) |  | 
+| 1476 | SubrectangleQueries | [solution](./src/main/java/com/wkodate/leetcode/LC1476_SubrectangleQueries/SubrectangleQueries.java) |  | 
+| 1480 | RunningSumOf1dArray | [solution](./src/main/java/com/wkodate/leetcode/LC1480_RunningSumOf1dArray/Solution.java) |  | 
+| 1491 | AverageSalaryExcludingTheMinimumAndMaximumSalary | [solution](./src/main/java/com/wkodate/leetcode/LC1491_AverageSalaryExcludingTheMinimumAndMaximumSalary/Solution.java) |  | 
+| 1492 | TheKthFactorOfN | [solution](./src/main/java/com/wkodate/leetcode/LC1492_TheKthFactorOfN/Solution.java) |  | 
+| 1510 | StoneGameIV | [solution](./src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |  | 
+| 1512 | NumberOfGoodPairs | [solution](./src/main/java/com/wkodate/leetcode/LC1512_NumberOfGoodPairs/Solution.java) |  | 
+| 1523 | CountOddNumbersInAnIntervalRange | [solution](./src/main/java/com/wkodate/leetcode/LC1523_CountOddNumbersInAnIntervalRange/Solution.java) |  | 
+| 1525 | NumberOfGoodWaysToSplitAString | [solution](./src/main/java/com/wkodate/leetcode/LC1525_NumberOfGoodWaysToSplitAString/Solution.java) |  | 
+| 1539 | KthMissingPositiveNumber | [solution](./src/main/java/com/wkodate/leetcode/LC1539_KthMissingPositiveNumber/Solution.java) |  | 
+| 1550 | ThreeConsecutiveOdds | [solution](./src/main/java/com/wkodate/leetcode/LC1550_ThreeConsecutiveOdds/Solution.java) |  | 
+| 1556 | ThousandSeparator | [solution](./src/main/java/com/wkodate/leetcode/LC1556_ThousandSeparator/Solution.java) |  | 
+| 1561 | MaximumNumberOfCoinsYouCanGet | [solution](./src/main/java/com/wkodate/leetcode/LC1561_MaximumNumberOfCoinsYouCanGet/Solution.java) |  | 
+| 1572 | MatrixDiagonalSum | [solution](./src/main/java/com/wkodate/leetcode/LC1572_MatrixDiagonalSum/Solution.java) |  | 
+| 1588 | SumOfAllOddLengthSubarrays | [solution](./src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |  | 
+| 1605 | FindValidMatrixGivenRowAndColumnSums | [solution](./src/main/java/com/wkodate/leetcode/LC1605_FindValidMatrixGivenRowAndColumnSums/Solution.java) |  | 
+| 1624 | LargestSubstringBetweenTwoEqualCharacters | [solution](./src/main/java/com/wkodate/leetcode/LC1624_LargestSubstringBetweenTwoEqualCharacters/Solution.java) |  | 
+| 1640 | CheckArrayFormationThroughConcatenation | [solution](./src/main/java/com/wkodate/leetcode/LC1640_CheckArrayFormationThroughConcatenation/Solution.java) |  | 
+| 1646 | GetMaximumInGeneratedArray | [solution](./src/main/java/com/wkodate/leetcode/LC1646_GetMaximumInGeneratedArray/Solution.java) |  | 
+| 1657 | DetermineIfTwoStringsAreClose | [solution](./src/main/java/com/wkodate/leetcode/LC1657_DetermineIfTwoStringsAreClose/Solution.java) |  | 
+| 1662 | CheckIfTwoStringArraysAreEquivalent | [solution](./src/main/java/com/wkodate/leetcode/LC1662_CheckIfTwoStringArraysAreEquivalent/Solution.java) |  | 
+| 1669 | MergeInBetweenLinkedLists | [solution](./src/main/java/com/wkodate/leetcode/LC1669_MergeInBetweenLinkedLists/Solution.java) |  | 
+| 1672 | RichestCustomerWealth | [solution](./src/main/java/com/wkodate/leetcode/LC1672_RichestCustomerWealth/Solution.java) |  | 
+| 1684 | CountTheNumberOfConsistentStrings | [solution](./src/main/java/com/wkodate/leetcode/LC1684_CountTheNumberOfConsistentStrings/Solution.java) |  | 
+| 1694 | ReformatPhoneNumber | [solution](./src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |  | 
+| 1848 | MinimumDistanceToTheTargetElement | [solution](./src/main/java/com/wkodate/leetcode/LC1848_MinimumDistanceToTheTargetElement/Solution.java) |  | 
