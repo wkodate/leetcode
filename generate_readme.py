@@ -1,37 +1,61 @@
 import glob
+import re
 
-# Java
-java_files = glob.glob("./src/main/java/com/wkodate/leetcode/*")
-java_dict = {}
-for file in java_files:
-    package = file.split("./src/main/java/com/wkodate/leetcode/")[1]
-    if not package.startswith("LC"):
-        continue
-    num = package.split("_")[0].split("LC")[1]
-    title = package.split("_", 1)[1]
-    java_dict[int(num)] = title
+title_dict = {}
 
-# C++
-cpp_files = glob.glob("./cpp/*.cpp")
-cpp_dict = {}
-for file in cpp_files:
-    package = file.split("./cpp/")[1]
-    if not package.startswith("lc"):
-        continue
-    num = package.split("_")[0].split("lc")[1]
-    cpp_dict[int(num)] = file
+def convert_snake_case_to_camel_case(word):
+    return ''.join(x.capitalize() or '_' for x in word.split('_'))
 
-sorted = sorted(java_dict.items(), key=lambda x:x[0])
-s = "LeetCode\n===\n\n| Num | Problems | Java | C++ |\n| -- | -- | -- | -- |\n"
-for k, v in sorted:
-    if k == 0:
-        continue
-    java_filepath = glob.glob("./src/main/java/com/wkodate/leetcode/LC" + str(k).zfill(4) + "_" + v + "/*")
-    cpp_filepath = ""
-    if k in cpp_dict:
-        cpp_filepath = "[solution]({})".format(cpp_dict.get(k))
-    s += "| {} | {} | [solution]({}) | {} | \n".format(str(k), v, java_filepath[0], cpp_filepath)
+def gather_java_file_path():
+    java_dict = {}
+    java_file_root_path ="./src/main/java/com/wkodate/leetcode"
+    java_files = glob.glob("{}/*".format(java_file_root_path))
+    for file in java_files:
+        package = file.split("{}/".format(java_file_root_path))[1]
+        if not package.startswith("LC"):
+            continue
+        num = package.split("_")[0].split("LC")[1]
+        title = package.split("_", 1)[1]
+        title_dict[int(num)] = title
+        java_filepath = glob.glob("{}/LC{}_{}/*".format(java_file_root_path, str(num).zfill(4), title))
+        java_dict[int(num)] = java_filepath[0]
+    return java_dict
 
-with open('./README.md', mode='w') as f:
-    f.write(s)
-f.close
+def gather_cpp_file_path():
+    cpp_dict = {}
+    cpp_file_root_path ="./cpp"
+    cpp_files = glob.glob("{}/*.cpp".format(cpp_file_root_path))
+    for file in cpp_files:
+        package = file.split("{}/".format(cpp_file_root_path))[1]
+        if not package.startswith("lc"):
+            continue
+        num = package.split("_")[0].split("lc")[1]
+        title = package.split("_", 1)[1].split(".cpp")[0]
+        cpp_dict[int(num)] = file
+        if num not in title_dict: 
+            title = convert_snake_case_to_camel_case(title)
+            title_dict[int(num)] = title
+    return cpp_dict
+
+def update_readme(java_links, cpp_links):
+    s = "LeetCode\n===\n\n| Num | Problems | Java | C++ |\n| -- | -- | -- | -- |\n"
+    for k, v in sorted:
+        if k == 0:
+            continue
+        java_filepath = ""
+        cpp_filepath = ""
+        if k in java_links:
+            java_filepath = "[solution]({})".format(java_links.get(k))
+        if k in cpp_links:
+            cpp_filepath = "[solution]({})".format(cpp_links.get(k))
+        s += "| {} | {} | {} | {} | \n".format(str(k), v, java_filepath, cpp_filepath)
+    
+    with open('./README.md', mode='w') as f:
+        f.write(s)
+    f.close
+
+
+java_links = gather_java_file_path()
+cpp_links = gather_cpp_file_path()
+sorted = sorted(title_dict.items(), key=lambda x:x[0])
+update_readme(java_links, cpp_links)
