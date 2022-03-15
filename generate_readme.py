@@ -8,7 +8,7 @@ def convert_snake_case_to_camel_case(word):
 
 def gather_java_file_path():
     java_dict = {}
-    java_file_root_path ="./src/main/java/com/wkodate/leetcode"
+    java_file_root_path ="./java/src/main/java/com/wkodate/leetcode"
     java_files = glob.glob("{}/*".format(java_file_root_path))
     for file in java_files:
         package = file.split("{}/".format(java_file_root_path))[1]
@@ -48,7 +48,7 @@ def update_readme(java_links, cpp_links):
             java_filepath = "[solution]({})".format(java_links.get(k))
         if k in cpp_links:
             cpp_filepath = "[solution]({})".format(cpp_links.get(k))
-        s += "| {} | {} | {} | {} | \n".format(str(k), v, java_filepath, cpp_filepath)
+        s += "| {} | {} | {} | {} |\n".format(str(k), v, java_filepath, cpp_filepath)
     
     with open('./README.md', mode='w') as f:
         f.write(s)
