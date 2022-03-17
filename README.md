@@ -446,3 +446,4 @@ LeetCode
 | 1684 | CountTheNumberOfConsistentStrings | [solution](./java/src/main/java/com/wkodate/leetcode/LC1684_CountTheNumberOfConsistentStrings/Solution.java) |  |
 | 1694 | ReformatPhoneNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |  |
 | 1848 | MinimumDistanceToTheTargetElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC1848_MinimumDistanceToTheTargetElement/Solution.java) |  |
+| 1925 | CountSquareSumTriples |  | [solution](./cpp/lc1925_count_square_sum_triples.cpp) |
