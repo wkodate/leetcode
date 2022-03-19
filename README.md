@@ -409,6 +409,7 @@ LeetCode
 | 1380 | LuckyNumbersInAMatrix | [solution](./java/src/main/java/com/wkodate/leetcode/LC1380_LuckyNumbersInAMatrix/Solution.java) |  |
 | 1387 | SortIntegersByThePowerValue | [solution](./java/src/main/java/com/wkodate/leetcode/LC1387_SortIntegersByThePowerValue/Solution.java) |  |
 | 1389 | CreateTargetArrayInTheGivenOrder | [solution](./java/src/main/java/com/wkodate/leetcode/LC1389_CreateTargetArrayInTheGivenOrder/Solution.java) |  |
+| 1394 | FindLuckyIntegerInAnArray |  | [solution](./cpp/lc1394_find_lucky_integer_in_an_array.cpp) |
 | 1400 | ConstructKPalindromeStrings | [solution](./java/src/main/java/com/wkodate/leetcode/LC1400_ConstructKPalindromeStrings/Solution.java) |  |
 | 1403 | MinimumSubsequenceInNonIncreasingOrder | [solution](./java/src/main/java/com/wkodate/leetcode/LC1403_MinimumSubsequenceInNonIncreasingOrder/Solution.java) |  |
 | 1408 | StringMatchingInAnArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC1408_StringMatchingInAnArray/Solution.java) |  |
@@ -434,6 +435,7 @@ LeetCode
 | 1556 | ThousandSeparator | [solution](./java/src/main/java/com/wkodate/leetcode/LC1556_ThousandSeparator/Solution.java) |  |
 | 1561 | MaximumNumberOfCoinsYouCanGet | [solution](./java/src/main/java/com/wkodate/leetcode/LC1561_MaximumNumberOfCoinsYouCanGet/Solution.java) |  |
 | 1572 | MatrixDiagonalSum | [solution](./java/src/main/java/com/wkodate/leetcode/LC1572_MatrixDiagonalSum/Solution.java) |  |
+| 1582 | SpecialPositionsInABinaryMatrix |  | [solution](./cpp/lc1582_special_positions_in_a_binary_matrix.cpp) |
 | 1588 | SumOfAllOddLengthSubarrays | [solution](./java/src/main/java/com/wkodate/leetcode/LC1588_SumOfAllOddLengthSubarrays/Solution.java) |  |
 | 1605 | FindValidMatrixGivenRowAndColumnSums | [solution](./java/src/main/java/com/wkodate/leetcode/LC1605_FindValidMatrixGivenRowAndColumnSums/Solution.java) |  |
 | 1624 | LargestSubstringBetweenTwoEqualCharacters | [solution](./java/src/main/java/com/wkodate/leetcode/LC1624_LargestSubstringBetweenTwoEqualCharacters/Solution.java) |  |
