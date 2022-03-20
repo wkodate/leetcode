@@ -401,6 +401,7 @@ LeetCode
 | 1342 | NumberOfStepsToRReduceANumberToZero | [solution](./java/src/main/java/com/wkodate/leetcode/LC1342_NumberOfStepsToRReduceANumberToZero/Solution.java) |  |
 | 1344 | AngleBetweenHandsOfAClock | [solution](./java/src/main/java/com/wkodate/leetcode/LC1344_AngleBetweenHandsOfAClock/Solution.java) |  |
 | 1347 | MinimumNumberOfStepsToMakeTwoStringsAnagram | [solution](./java/src/main/java/com/wkodate/leetcode/LC1347_MinimumNumberOfStepsToMakeTwoStringsAnagram/Solution.java) |  |
+| 1351 | CountNegativeNumbersInASortedMatrix |  | [solution](./cpp/lc1351_count_negative_numbers_in_a_sorted_matrix.cpp) |
 | 1356 | SortIntegersByTheNumberOf1Bits | [solution](./java/src/main/java/com/wkodate/leetcode/LC1356_SortIntegersByTheNumberOf1Bits/Solution.java) |  |
 | 1365 | HowManyNumbersAreSmallerThanTheCurrentNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC1365_HowManyNumbersAreSmallerThanTheCurrentNumber/Solution.java) |  |
 | 1370 | IncreasingDecreasingString | [solution](./java/src/main/java/com/wkodate/leetcode/LC1370_IncreasingDecreasingString/Solution.java) |  |
