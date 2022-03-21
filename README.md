@@ -429,7 +429,7 @@ LeetCode
 | 1492 | TheKthFactorOfN | [solution](./java/src/main/java/com/wkodate/leetcode/LC1492_TheKthFactorOfN/Solution.java) |  |
 | 1510 | StoneGameIV | [solution](./java/src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |  |
 | 1512 | NumberOfGoodPairs | [solution](./java/src/main/java/com/wkodate/leetcode/LC1512_NumberOfGoodPairs/Solution.java) |  |
-| 1523 | CountOddNumbersInAnIntervalRange | [solution](./java/src/main/java/com/wkodate/leetcode/LC1523_CountOddNumbersInAnIntervalRange/Solution.java) |  |
+| 1523 | CountOddNumbersInAnIntervalRange | [solution](./java/src/main/java/com/wkodate/leetcode/LC1523_CountOddNumbersInAnIntervalRange/Solution.java) | [solution](./cpp/lc1523_count_odd_numbers_in_an_interval_range.cpp) |
 | 1525 | NumberOfGoodWaysToSplitAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC1525_NumberOfGoodWaysToSplitAString/Solution.java) |  |
 | 1539 | KthMissingPositiveNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC1539_KthMissingPositiveNumber/Solution.java) |  |
 | 1550 | ThreeConsecutiveOdds | [solution](./java/src/main/java/com/wkodate/leetcode/LC1550_ThreeConsecutiveOdds/Solution.java) |  |
