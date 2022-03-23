@@ -347,6 +347,7 @@ LeetCode
 | 986 | IntervalListIntersections | [solution](./java/src/main/java/com/wkodate/leetcode/LC0986_IntervalListIntersections/Solution.java) |  |
 | 987 | VerticalOrderTraversalOfABinaryTree | [solution](./java/src/main/java/com/wkodate/leetcode/LC0987_VerticalOrderTraversalOfABinaryTree/Solution.java) |  |
 | 989 | AddToArrayFormOfInteger | [solution](./java/src/main/java/com/wkodate/leetcode/LC0989_AddToArrayFormOfInteger/Solution.java) |  |
+| 991 | BrokenCalculator |  | [solution](./cpp/lc0991_broken_calculator.cpp) |
 | 993 | CousinsInBinaryTree | [solution](./java/src/main/java/com/wkodate/leetcode/LC0993_CousinsInBinaryTree/Solution.java) |  |
 | 994 | RottingOranges | [solution](./java/src/main/java/com/wkodate/leetcode/LC0994_RottingOranges/Solution.java) |  |
 | 997 | FindTheTownJudge | [solution](./java/src/main/java/com/wkodate/leetcode/LC0997_FindTheTownJudge/Solution.java) |  |
