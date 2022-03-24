@@ -426,7 +426,7 @@ LeetCode
 | 1475 | FinalPricesWithASpecialDiscountInAShop | [solution](./java/src/main/java/com/wkodate/leetcode/LC1475_FinalPricesWithASpecialDiscountInAShop/Solution.java) |  |
 | 1476 | SubrectangleQueries | [solution](./java/src/main/java/com/wkodate/leetcode/LC1476_SubrectangleQueries/SubrectangleQueries.java) |  |
 | 1480 | RunningSumOf1dArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC1480_RunningSumOf1dArray/Solution.java) | [solution](./cpp/lc1480_running_sum_of_1d_array.cpp) |
-| 1491 | AverageSalaryExcludingTheMinimumAndMaximumSalary | [solution](./java/src/main/java/com/wkodate/leetcode/LC1491_AverageSalaryExcludingTheMinimumAndMaximumSalary/Solution.java) |  |
+| 1491 | AverageSalaryExcludingTheMinimumAndMaximumSalary | [solution](./java/src/main/java/com/wkodate/leetcode/LC1491_AverageSalaryExcludingTheMinimumAndMaximumSalary/Solution.java) | [solution](./cpp/lc1491_average_salary_excluding_the_minimum_and_maximum_salary.cpp) |
 | 1492 | TheKthFactorOfN | [solution](./java/src/main/java/com/wkodate/leetcode/LC1492_TheKthFactorOfN/Solution.java) |  |
 | 1510 | StoneGameIV | [solution](./java/src/main/java/com/wkodate/leetcode/LC1510_StoneGameIV/Solution.java) |  |
 | 1512 | NumberOfGoodPairs | [solution](./java/src/main/java/com/wkodate/leetcode/LC1512_NumberOfGoodPairs/Solution.java) |  |
