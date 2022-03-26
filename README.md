@@ -254,7 +254,7 @@ LeetCode
 | 697 | DegreeOfAnArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0697_DegreeOfAnArray/Solution.java) |  |
 | 700 | SearchInABinarySearchTree | [solution](./java/src/main/java/com/wkodate/leetcode/LC0700_SearchInABinarySearchTree/Solution.java) |  |
 | 703 | KthLargestElementInAStream | [solution](./java/src/main/java/com/wkodate/leetcode/LC0703_KthLargestElementInAStream/KthLargest2.java) |  |
-| 704 | BinarySearch | [solution](./java/src/main/java/com/wkodate/leetcode/LC0704_BinarySearch/Solution.java) |  |
+| 704 | BinarySearch | [solution](./java/src/main/java/com/wkodate/leetcode/LC0704_BinarySearch/Solution.java) | [solution](./cpp/lc0704_binary_search.cpp) |
 | 705 | DesignHashSet | [solution](./java/src/main/java/com/wkodate/leetcode/LC0705_DesignHashSet/MyHashSet2.java) |  |
 | 706 | DesignHashMap | [solution](./java/src/main/java/com/wkodate/leetcode/LC0706_DesignHashMap/MyHashMap.java) |  |
 | 707 | DesignLinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0707_DesignLinkedList/MyLinkedList.java) |  |
