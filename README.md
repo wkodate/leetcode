@@ -100,7 +100,7 @@ LeetCode
 | 187 | RepeatedDNASequences | [solution](./java/src/main/java/com/wkodate/leetcode/LC0187_RepeatedDNASequences/Solution.java) |  |
 | 189 | RotateArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0189_RotateArray/Solution.java) |  |
 | 190 | ReverseBits | [solution](./java/src/main/java/com/wkodate/leetcode/LC0190_ReverseBits/Solution.java) |  |
-| 191 | NumberOf1Bits | [solution](./java/src/main/java/com/wkodate/leetcode/LC0191_NumberOf1Bits/Solution.java) |  |
+| 191 | NumberOf1Bits | [solution](./java/src/main/java/com/wkodate/leetcode/LC0191_NumberOf1Bits/Solution.java) | [solution](./cpp/lc0191_number_of_1_bits.cpp) |
 | 198 | HouseRobber | [solution](./java/src/main/java/com/wkodate/leetcode/LC0198_HouseRobber/Solution.java) |  |
 | 200 | NumberOfIslands | [solution](./java/src/main/java/com/wkodate/leetcode/LC0200_NumberOfIslands/Solution.java) |  |
 | 201 | BitwiseANDOfNumbersRange | [solution](./java/src/main/java/com/wkodate/leetcode/LC0201_BitwiseANDOfNumbersRange/Solution.java) |  |
