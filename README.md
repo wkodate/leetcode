@@ -151,7 +151,7 @@ LeetCode
 | 332 | ReconstructItinerary | [solution](./java/src/main/java/com/wkodate/leetcode/LC0332_ReconstructItinerary/Solution.java) |  |
 | 338 | CountingBits | [solution](./java/src/main/java/com/wkodate/leetcode/LC0338_CountingBits/Solution.java) |  |
 | 342 | PowerOfFour | [solution](./java/src/main/java/com/wkodate/leetcode/LC0342_PowerOfFour/Solution.java) |  |
-| 344 | ReverseString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0344_ReverseString/Solution.java) |  |
+| 344 | ReverseString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0344_ReverseString/Solution.java) | [solution](./cpp/lc0344_reverse_string.cpp) |
 | 345 | ReverseVowelsOfAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0345_ReverseVowelsOfAString/Solution.java) |  |
 | 347 | TopKFrequentElements | [solution](./java/src/main/java/com/wkodate/leetcode/LC0347_TopKFrequentElements/Solution.java) |  |
 | 349 | IntersectionOfTwoArrays | [solution](./java/src/main/java/com/wkodate/leetcode/LC0349_IntersectionOfTwoArrays/Solution.java) |  |
