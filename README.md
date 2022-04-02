@@ -383,7 +383,7 @@ LeetCode
 | 1254 | NumberOfClosedIslands | [solution](./java/src/main/java/com/wkodate/leetcode/LC1254_NumberOfClosedIslands/Solution.java) |  |
 | 1260 | Shift2DGrid | [solution](./java/src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) |  |
 | 1266 | MinimumTimeVisitingAllPoints | [solution](./java/src/main/java/com/wkodate/leetcode/LC1266_MinimumTimeVisitingAllPoints/Solution.java) |  |
-| 1281 | SubtractTheProductAndSumOfDigitsOfAnInteger | [solution](./java/src/main/java/com/wkodate/leetcode/LC1281_SubtractTheProductAndSumOfDigitsOfAnInteger/Solution.java) |  |
+| 1281 | SubtractTheProductAndSumOfDigitsOfAnInteger | [solution](./java/src/main/java/com/wkodate/leetcode/LC1281_SubtractTheProductAndSumOfDigitsOfAnInteger/Solution.java) | [solution](./cpp/lc1281_subtract_the_product_and_sum_of_digits_of_an_integer.cpp) |
 | 1282 | GroupThePeopleGivenTheGroupSizeTheyBelongTo | [solution](./java/src/main/java/com/wkodate/leetcode/LC1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java) |  |
 | 1283 | FindTheSmallestDivisorGivenAThreshold | [solution](./java/src/main/java/com/wkodate/leetcode/LC1283_FindTheSmallestDivisorGivenAThreshold/Solution.java) |  |
 | 1286 | IteratorForCombination | [solution](./java/src/main/java/com/wkodate/leetcode/LC1286_IteratorForCombination/CombinationIterator.java) |  |
