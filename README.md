@@ -20,7 +20,7 @@ LeetCode
 | 26 | RemoveDuplicatesFromSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) |  |
 | 27 | RemoveElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) |  |
 | 28 | ImplementStrStr | [solution](./java/src/main/java/com/wkodate/leetcode/LC0028_ImplementStrStr/Solution.java) |  |
-| 31 | NextPermutation | [solution](./java/src/main/java/com/wkodate/leetcode/LC0031_NextPermutation/Solution.java) |  |
+| 31 | NextPermutation | [solution](./java/src/main/java/com/wkodate/leetcode/LC0031_NextPermutation/Solution.java) | [solution](./cpp/lc0031_next_permutation.cpp) |
 | 33 | SearchInRotatedSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0033_SearchInRotatedSortedArray/Solution.java) |  |
 | 34 | FindFirstAndLastPositionOfElementInSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0034_FindFirstAndLastPositionOfElementInSortedArray/Solution.java) |  |
 | 35 | SearchInsertPosition | [solution](./java/src/main/java/com/wkodate/leetcode/LC0035_SearchInsertPosition/Solution.java) |  |
