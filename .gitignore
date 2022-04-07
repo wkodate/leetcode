@@ -28,3 +28,6 @@ target/
 
 .DS_Store
 *.swp
+
+cpp/*
+!cpp/*.cpp
