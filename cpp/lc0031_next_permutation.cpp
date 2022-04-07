@@ -22,7 +22,7 @@ private:
 public:
   void nextPermutation(vector<int> &nums) {
     int i = nums.size() - 2;
-    while (i >= 0 && nums[i + 1] <= nums[i]) {
+    while (i >= 0 && nums[i] >= nums[i + 1]) {
       i--;
     }
     if (i >= 0) {
@@ -52,4 +52,7 @@ int main() {
   // [1,5,1]
   vector<int> nums3 = {1, 1, 5};
   s.nextPermutation(nums3);
+
+  vector<int> nums4 = {8, 9, 7};
+  s.nextPermutation(nums4);
 }
