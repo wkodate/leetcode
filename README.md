@@ -140,7 +140,7 @@ LeetCode
 | 279 | PerfectSquares | [solution](./java/src/main/java/com/wkodate/leetcode/LC0279_PerfectSquares/Solution.java) |  |
 | 283 | MoveZeroes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0283_MoveZeroes/Solution.java) |  |
 | 287 | FindTheDuplicateNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC0287_FindTheDuplicateNumber/Solution.java) |  |
-| 289 | GameOfLife | [solution](./java/src/main/java/com/wkodate/leetcode/LC0289_GameOfLife/Solution.java) |  |
+| 289 | GameOfLife | [solution](./java/src/main/java/com/wkodate/leetcode/LC0289_GameOfLife/Solution.java) | [solution](./cpp/lc0289_game_of_life.cpp) |
 | 292 | NimGame | [solution](./java/src/main/java/com/wkodate/leetcode/LC0292_NimGame/Solution.java) |  |
 | 300 | LongestIncreasingSubsequence | [solution](./java/src/main/java/com/wkodate/leetcode/LC0300_LongestIncreasingSubsequence/Solution.java) |  |
 | 303 | RangeSumQueryImmutable | [solution](./java/src/main/java/com/wkodate/leetcode/LC0303_RangeSumQueryImmutable/NumArray.java) |  |
