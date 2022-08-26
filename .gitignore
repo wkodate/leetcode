@@ -31,3 +31,4 @@ target/
 
 cpp/*
 !cpp/*.cpp
+.vscode

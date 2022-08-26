@@ -140,7 +140,7 @@ LeetCode
 | 279 | PerfectSquares | [solution](./java/src/main/java/com/wkodate/leetcode/LC0279_PerfectSquares/Solution.java) |  |
 | 283 | MoveZeroes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0283_MoveZeroes/Solution.java) |  |
 | 287 | FindTheDuplicateNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC0287_FindTheDuplicateNumber/Solution.java) |  |
-| 289 | GameOfLife | [solution](./java/src/main/java/com/wkodate/leetcode/LC0289_GameOfLife/Solution.java) |  |
+| 289 | GameOfLife | [solution](./java/src/main/java/com/wkodate/leetcode/LC0289_GameOfLife/Solution.java) | [solution](./cpp/lc0289_game_of_life.cpp) |
 | 292 | NimGame | [solution](./java/src/main/java/com/wkodate/leetcode/LC0292_NimGame/Solution.java) |  |
 | 300 | LongestIncreasingSubsequence | [solution](./java/src/main/java/com/wkodate/leetcode/LC0300_LongestIncreasingSubsequence/Solution.java) |  |
 | 303 | RangeSumQueryImmutable | [solution](./java/src/main/java/com/wkodate/leetcode/LC0303_RangeSumQueryImmutable/NumArray.java) |  |
@@ -153,7 +153,7 @@ LeetCode
 | 342 | PowerOfFour | [solution](./java/src/main/java/com/wkodate/leetcode/LC0342_PowerOfFour/Solution.java) |  |
 | 344 | ReverseString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0344_ReverseString/Solution.java) | [solution](./cpp/lc0344_reverse_string.cpp) |
 | 345 | ReverseVowelsOfAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0345_ReverseVowelsOfAString/Solution.java) |  |
-| 347 | TopKFrequentElements | [solution](./java/src/main/java/com/wkodate/leetcode/LC0347_TopKFrequentElements/Solution.java) |  |
+| 347 | TopKFrequentElements | [solution](./java/src/main/java/com/wkodate/leetcode/LC0347_TopKFrequentElements/Solution.java) | [solution](./cpp/lc0347_top_k_frequent_elements.cpp) |
 | 349 | IntersectionOfTwoArrays | [solution](./java/src/main/java/com/wkodate/leetcode/LC0349_IntersectionOfTwoArrays/Solution.java) |  |
 | 350 | IntersectionOfTwoArraysII | [solution](./java/src/main/java/com/wkodate/leetcode/LC0350_IntersectionOfTwoArraysII/Solution.java) |  |
 | 357 | ComplexNumberMultiplication | [solution](./java/src/main/java/com/wkodate/leetcode/LC0357_ComplexNumberMultiplication/Solution.java) |  |
@@ -381,7 +381,7 @@ LeetCode
 | 1227 | CountSquareSubmatricesWithAllOnes | [solution](./java/src/main/java/com/wkodate/leetcode/LC1227_CountSquareSubmatricesWithAllOnes/Solution.java) |  |
 | 1232 | CheckIfItIsAStraightLine | [solution](./java/src/main/java/com/wkodate/leetcode/LC1232_CheckIfItIsAStraightLine/Solution.java) |  |
 | 1254 | NumberOfClosedIslands | [solution](./java/src/main/java/com/wkodate/leetcode/LC1254_NumberOfClosedIslands/Solution.java) |  |
-| 1260 | Shift2DGrid | [solution](./java/src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) |  |
+| 1260 | Shift2dGrid | [solution](./java/src/main/java/com/wkodate/leetcode/LC1260_Shift2DGrid/Solution.java) | [solution](./cpp/lc1260_shift_2D_grid.cpp) |
 | 1266 | MinimumTimeVisitingAllPoints | [solution](./java/src/main/java/com/wkodate/leetcode/LC1266_MinimumTimeVisitingAllPoints/Solution.java) |  |
 | 1281 | SubtractTheProductAndSumOfDigitsOfAnInteger | [solution](./java/src/main/java/com/wkodate/leetcode/LC1281_SubtractTheProductAndSumOfDigitsOfAnInteger/Solution.java) | [solution](./cpp/lc1281_subtract_the_product_and_sum_of_digits_of_an_integer.cpp) |
 | 1282 | GroupThePeopleGivenTheGroupSizeTheyBelongTo | [solution](./java/src/main/java/com/wkodate/leetcode/LC1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo/Solution.java) |  |
