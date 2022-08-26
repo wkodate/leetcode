@@ -447,7 +447,7 @@ LeetCode
 | 1662 | CheckIfTwoStringArraysAreEquivalent | [solution](./java/src/main/java/com/wkodate/leetcode/LC1662_CheckIfTwoStringArraysAreEquivalent/Solution.java) |  |
 | 1663 | SmallestStringWithAGivenNumericValue |  | [solution](./cpp/lc1663_smallest_string_with_a_given_numeric_value.cpp) |
 | 1669 | MergeInBetweenLinkedLists | [solution](./java/src/main/java/com/wkodate/leetcode/LC1669_MergeInBetweenLinkedLists/Solution.java) |  |
-| 1672 | RichestCustomerWealth | [solution](./java/src/main/java/com/wkodate/leetcode/LC1672_RichestCustomerWealth/Solution.java) |  |
+| 1672 | RichestCustomerWealth | [solution](./java/src/main/java/com/wkodate/leetcode/LC1672_RichestCustomerWealth/Solution.java) | [solution](./cpp/lc1672_richest_customer_wealth.cpp) |
 | 1684 | CountTheNumberOfConsistentStrings | [solution](./java/src/main/java/com/wkodate/leetcode/LC1684_CountTheNumberOfConsistentStrings/Solution.java) |  |
 | 1694 | ReformatPhoneNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC1694_ReformatPhoneNumber/Solution.java) |  |
 | 1848 | MinimumDistanceToTheTargetElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC1848_MinimumDistanceToTheTargetElement/Solution.java) |  |
