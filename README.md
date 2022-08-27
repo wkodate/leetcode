@@ -399,7 +399,7 @@ LeetCode
 | 1329 | SortTheMatrixDiagonally | [solution](./java/src/main/java/com/wkodate/leetcode/LC1329_SortTheMatrixDiagonally/Solution.java) |  |
 | 1332 | RemovePalindromicSubsequences | [solution](./java/src/main/java/com/wkodate/leetcode/LC1332_RemovePalindromicSubsequences/Solution.java) |  |
 | 1337 | TheKWeakestRowsInAMatrix | [solution](./java/src/main/java/com/wkodate/leetcode/LC1337_TheKWeakestRowsInAMatrix/Solution.java) |  |
-| 1342 | NumberOfStepsToRReduceANumberToZero | [solution](./java/src/main/java/com/wkodate/leetcode/LC1342_NumberOfStepsToRReduceANumberToZero/Solution.java) |  |
+| 1342 | NumberOfStepsToReduceANumberToZero | [solution](./java/src/main/java/com/wkodate/leetcode/LC1342_NumberOfStepsToRReduceANumberToZero/Solution.java) | [solution](./cpp/lc1342_number_of_steps_to_reduce_a_number_to_zero.cpp) |
 | 1344 | AngleBetweenHandsOfAClock | [solution](./java/src/main/java/com/wkodate/leetcode/LC1344_AngleBetweenHandsOfAClock/Solution.java) |  |
 | 1347 | MinimumNumberOfStepsToMakeTwoStringsAnagram | [solution](./java/src/main/java/com/wkodate/leetcode/LC1347_MinimumNumberOfStepsToMakeTwoStringsAnagram/Solution.java) |  |
 | 1351 | CountNegativeNumbersInASortedMatrix |  | [solution](./cpp/lc1351_count_negative_numbers_in_a_sorted_matrix.cpp) |
