@@ -29,6 +29,5 @@ target/
 .DS_Store
 *.swp
 
-cpp/*
-!cpp/*.cpp
+cpp/a.out
 .vscode
