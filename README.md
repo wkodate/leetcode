@@ -163,7 +163,7 @@ LeetCode
 | 374 | GuessNumberHigherOrLower | [solution](./java/src/main/java/com/wkodate/leetcode/LC0374_GuessNumberHigherOrLower/Solution.java) |  |
 | 380 | InsertDeleteGetRandomO1 | [solution](./java/src/main/java/com/wkodate/leetcode/LC0380_InsertDeleteGetRandomO1/RandomizedSet.java) |  |
 | 382 | LinkedListRandomNode | [solution](./java/src/main/java/com/wkodate/leetcode/LC0382_LinkedListRandomNode/Solution.java) |  |
-| 383 | RansomNote | [solution](./java/src/main/java/com/wkodate/leetcode/LC0383_RansomNote/Solution.java) |  |
+| 383 | RansomNote | [solution](./java/src/main/java/com/wkodate/leetcode/LC0383_RansomNote/Solution.java) | [solution](./cpp/lc0383_ransom_note.cpp) |
 | 384 | ShuffleAnArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0384_ShuffleAnArray/Solution.java) |  |
 | 387 | FirstUniqueCharacterInAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0387_FirstUniqueCharacterInAString/Solution.java) |  |
 | 389 | FindTheDifference | [solution](./java/src/main/java/com/wkodate/leetcode/LC0389_FindTheDifference/Solution.java) |  |
