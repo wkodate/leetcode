@@ -304,7 +304,7 @@ LeetCode
 | 867 | TransposeMatrix | [solution](./java/src/main/java/com/wkodate/leetcode/LC0867_TransposeMatrix/Solution.java) |  |
 | 868 | BinaryGap | [solution](./java/src/main/java/com/wkodate/leetcode/LC0868_BinaryGap/Solution.java) |  |
 | 872 | LeafSimilarTrees | [solution](./java/src/main/java/com/wkodate/leetcode/LC0872_LeafSimilarTrees/Solution.java) |  |
-| 876 | MiddleOfTheLinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0876_MiddleOfTheLinkedList/Solution.java) |  |
+| 876 | MiddleOfTheLinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0876_MiddleOfTheLinkedList/Solution.java) | [solution](./cpp/lc0876_middle_of_the_linked_list.cpp) |
 | 881 | BoatsToSavePeople | [solution](./java/src/main/java/com/wkodate/leetcode/LC0881_BoatsToSavePeople/Solution.java) |  |
 | 883 | ProjectionAreaOf3DShapes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0883_ProjectionAreaOf3DShapes/Solution.java) |  |
 | 884 | UncommonWordsFromTwoSentences | [solution](./java/src/main/java/com/wkodate/leetcode/LC0884_UncommonWordsFromTwoSentences/Solution.java) |  |
