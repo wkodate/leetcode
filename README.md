@@ -191,7 +191,7 @@ LeetCode
 | 463 | IslandPerimeter | [solution](./java/src/main/java/com/wkodate/leetcode/LC0463_IslandPerimeter/Solution.java) |  |
 | 468 | ValidateIPAddress | [solution](./java/src/main/java/com/wkodate/leetcode/LC0468_ValidateIPAddress/Solution.java) |  |
 | 476 | NumberComplement | [solution](./java/src/main/java/com/wkodate/leetcode/LC0476_NumberComplement/Solution.java) |  |
-| 485 | MaxConsecutiveOnes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0485_MaxConsecutiveOnes/Solution.java) |  |
+| 485 | MaxConsecutiveOnes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0485_MaxConsecutiveOnes/Solution.java) | [solution](./cpp/lc0485_max_consecutive_ones.cpp) |
 | 494 | TargetSum | [solution](./java/src/main/java/com/wkodate/leetcode/LC0494_TargetSum/Solution.java) |  |
 | 496 | NextGreaterElementI | [solution](./java/src/main/java/com/wkodate/leetcode/LC0496_NextGreaterElementI/Solution.java) |  |
 | 497 | RandomPointInNonOverlappingRectangles | [solution](./java/src/main/java/com/wkodate/leetcode/LC0497_RandomPointInNonOverlappingRectangles/Solution.java) |  |
