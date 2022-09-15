@@ -342,7 +342,7 @@ LeetCode
 | 970 | PowerfulIntegers | [solution](./java/src/main/java/com/wkodate/leetcode/LC0970_PowerfulIntegers/Solution.java) |  |
 | 973 | KClosestPointsToOrigin | [solution](./java/src/main/java/com/wkodate/leetcode/LC0973_KClosestPointsToOrigin/Solution.java) |  |
 | 976 | LargestPerimeterTriangle | [solution](./java/src/main/java/com/wkodate/leetcode/LC0976_LargestPerimeterTriangle/Solution.java) |  |
-| 977 | SquaresOfASortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0977_SquaresOfASortedArray/Solution.java) |  |
+| 977 | SquaresOfASortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0977_SquaresOfASortedArray/Solution.java) | [solution](./cpp/lc0977_squares_of_a_sorted_array.cpp) |
 | 985 | SumOfEvenNumbersAfterQueries | [solution](./java/src/main/java/com/wkodate/leetcode/LC0985_SumOfEvenNumbersAfterQueries/Solution.java) |  |
 | 986 | IntervalListIntersections | [solution](./java/src/main/java/com/wkodate/leetcode/LC0986_IntervalListIntersections/Solution.java) |  |
 | 987 | VerticalOrderTraversalOfABinaryTree | [solution](./java/src/main/java/com/wkodate/leetcode/LC0987_VerticalOrderTraversalOfABinaryTree/Solution.java) |  |
