@@ -6,7 +6,7 @@ void printArray(vector<string> &data) {
   for (int i = 0; i < data.size(); i++) {
     cout << data[i];
     if (i != data.size() - 1) {
-      cout << " ";
+      cout << ",";
     }
   }
   cout << "]" << endl;
