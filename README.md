@@ -52,7 +52,7 @@ LeetCode
 | 79 | WordSearch | [solution](./java/src/main/java/com/wkodate/leetcode/LC0079_WordSearch/Solution.java) |  |
 | 80 | RemoveDuplicatesFromSortedArrayII | [solution](./java/src/main/java/com/wkodate/leetcode/LC0080_RemoveDuplicatesFromSortedArrayII/Solution.java) |  |
 | 83 | RemoveDuplicatesFromSortedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0083_RemoveDuplicatesFromSortedList/Solution.java) |  |
-| 88 | MergeSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0088_MergeSortedArray/Solution.java) |  |
+| 88 | MergeSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0088_MergeSortedArray/Solution.java) | [solution](./cpp/lc0088_merge_sorted_array.cpp) |
 | 94 | BinaryTreeInorderTraversal | [solution](./java/src/main/java/com/wkodate/leetcode/LC0094_BinaryTreeInorderTraversal/Solution.java) |  |
 | 96 | UniqueBinarySearchTrees | [solution](./java/src/main/java/com/wkodate/leetcode/LC0096_UniqueBinarySearchTrees/Solution.java) |  |
 | 98 | ValidateBinarySearchTree | [solution](./java/src/main/java/com/wkodate/leetcode/LC0098_ValidateBinarySearchTree/Solution.java) |  |
