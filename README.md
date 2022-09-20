@@ -17,7 +17,7 @@ LeetCode
 | 20 | ValidParentheses | [solution](./java/src/main/java/com/wkodate/leetcode/LC0020_ValidParentheses/Solution.java) |  |
 | 21 | MergeTwoSortedLists | [solution](./java/src/main/java/com/wkodate/leetcode/LC0021_MergeTwoSortedLists/Solution.java) |  |
 | 24 | SwapNodesInPairs | [solution](./java/src/main/java/com/wkodate/leetcode/LC0024_SwapNodesInPairs/Solution.java) |  |
-| 26 | RemoveDuplicatesFromSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) |  |
+| 26 | RemoveDuplicatesFromSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) | [solution](./cpp/lc0026_remove_duplicates_from_sorted_array.cpp) |
 | 27 | RemoveElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) | [solution](./cpp/lc0027_remove_element.cpp) |
 | 28 | ImplementStrStr | [solution](./java/src/main/java/com/wkodate/leetcode/LC0028_ImplementStrStr/Solution.java) |  |
 | 31 | NextPermutation | [solution](./java/src/main/java/com/wkodate/leetcode/LC0031_NextPermutation/Solution.java) | [solution](./cpp/lc0031_next_permutation.cpp) |
