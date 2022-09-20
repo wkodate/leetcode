@@ -18,7 +18,7 @@ LeetCode
 | 21 | MergeTwoSortedLists | [solution](./java/src/main/java/com/wkodate/leetcode/LC0021_MergeTwoSortedLists/Solution.java) |  |
 | 24 | SwapNodesInPairs | [solution](./java/src/main/java/com/wkodate/leetcode/LC0024_SwapNodesInPairs/Solution.java) |  |
 | 26 | RemoveDuplicatesFromSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) |  |
-| 27 | RemoveElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) |  |
+| 27 | RemoveElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) | [solution](./cpp/lc0027_remove_element.cpp) |
 | 28 | ImplementStrStr | [solution](./java/src/main/java/com/wkodate/leetcode/LC0028_ImplementStrStr/Solution.java) |  |
 | 31 | NextPermutation | [solution](./java/src/main/java/com/wkodate/leetcode/LC0031_NextPermutation/Solution.java) | [solution](./cpp/lc0031_next_permutation.cpp) |
 | 33 | SearchInRotatedSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0033_SearchInRotatedSortedArray/Solution.java) |  |
