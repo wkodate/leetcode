@@ -401,6 +401,7 @@ LeetCode
 | 1337 | TheKWeakestRowsInAMatrix | [solution](./java/src/main/java/com/wkodate/leetcode/LC1337_TheKWeakestRowsInAMatrix/Solution.java) |  |
 | 1342 | NumberOfStepsToReduceANumberToZero | [solution](./java/src/main/java/com/wkodate/leetcode/LC1342_NumberOfStepsToRReduceANumberToZero/Solution.java) | [solution](./cpp/lc1342_number_of_steps_to_reduce_a_number_to_zero.cpp) |
 | 1344 | AngleBetweenHandsOfAClock | [solution](./java/src/main/java/com/wkodate/leetcode/LC1344_AngleBetweenHandsOfAClock/Solution.java) |  |
+| 1346 | CheckIfNAndItsDoubleExist |  | [solution](./cpp/lc1346_check_if_n_and_its_double_exist.cpp) |
 | 1347 | MinimumNumberOfStepsToMakeTwoStringsAnagram | [solution](./java/src/main/java/com/wkodate/leetcode/LC1347_MinimumNumberOfStepsToMakeTwoStringsAnagram/Solution.java) |  |
 | 1351 | CountNegativeNumbersInASortedMatrix |  | [solution](./cpp/lc1351_count_negative_numbers_in_a_sorted_matrix.cpp) |
 | 1356 | SortIntegersByTheNumberOf1Bits | [solution](./java/src/main/java/com/wkodate/leetcode/LC1356_SortIntegersByTheNumberOf1Bits/Solution.java) |  |
