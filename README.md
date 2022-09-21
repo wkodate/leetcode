@@ -328,7 +328,7 @@ LeetCode
 | 933 | NumberOfRecentCalls | [solution](./java/src/main/java/com/wkodate/leetcode/LC0933_NumberOfRecentCalls/RecentCounter.java) |  |
 | 937 | ReorderDataInLogFiles | [solution](./java/src/main/java/com/wkodate/leetcode/LC0937_ReorderDataInLogFiles/Solution.java) |  |
 | 938 | RangeSumOfBST | [solution](./java/src/main/java/com/wkodate/leetcode/LC0938_RangeSumOfBST/Solution.java) |  |
-| 941 | ValidMountainArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0941_ValidMountainArray/Solution.java) |  |
+| 941 | ValidMountainArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0941_ValidMountainArray/Solution.java) | [solution](./cpp/lc0941_valid_mountain_array.cpp) |
 | 942 | DIStringMatch | [solution](./java/src/main/java/com/wkodate/leetcode/LC0942_DIStringMatch/Solution.java) |  |
 | 944 | DeleteColumnsToMakeSorted | [solution](./java/src/main/java/com/wkodate/leetcode/LC0944_DeleteColumnsToMakeSorted/Solution.java) |  |
 | 946 | ValidateStackSequences | [solution](./java/src/main/java/com/wkodate/leetcode/LC0946_ValidateStackSequences/Solution.java) |  |
