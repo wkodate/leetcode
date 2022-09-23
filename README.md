@@ -389,6 +389,7 @@ LeetCode
 | 1286 | IteratorForCombination | [solution](./java/src/main/java/com/wkodate/leetcode/LC1286_IteratorForCombination/CombinationIterator.java) |  |
 | 1290 | ConvertBinaryNumberInALinkedListToInteger | [solution](./java/src/main/java/com/wkodate/leetcode/LC1290_ConvertBinaryNumberInALinkedListToInteger/Solution.java) |  |
 | 1295 | FindNumbersWithEvenNumberOfDigits | [solution](./java/src/main/java/com/wkodate/leetcode/LC1295_FindNumbersWithEvenNumberOfDigits/Solution.java) | [solution](./cpp/lc1295_find_numbers_with_even_number_of_digits.cpp) |
+| 1299 | ReplaceElementsWithGreatestElementOnRightSide |  | [solution](./cpp/lc1299_replace_elements_with_greatest_element_on_right_side.cpp) |
 | 1302 | DeepestLeavesSum | [solution](./java/src/main/java/com/wkodate/leetcode/LC1302_DeepestLeavesSum/Solution.java) |  |
 | 1304 | FindNUniqueIntegersSumUpToZero | [solution](./java/src/main/java/com/wkodate/leetcode/LC1304_FindNUniqueIntegersSumUpToZero/Solution.java) |  |
 | 1306 | JumpGameIII | [solution](./java/src/main/java/com/wkodate/leetcode/LC1306_JumpGameIII/Solution.java) |  |
