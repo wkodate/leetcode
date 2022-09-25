@@ -138,7 +138,7 @@ LeetCode
 | 275 | HIndexII | [solution](./java/src/main/java/com/wkodate/leetcode/LC0275_HIndexII/Solution.java) |  |
 | 278 | FirstBadVersion | [solution](./java/src/main/java/com/wkodate/leetcode/LC0278_FirstBadVersion/Solution.java) |  |
 | 279 | PerfectSquares | [solution](./java/src/main/java/com/wkodate/leetcode/LC0279_PerfectSquares/Solution.java) |  |
-| 283 | MoveZeroes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0283_MoveZeroes/Solution.java) |  |
+| 283 | MoveZeroes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0283_MoveZeroes/Solution.java) | [solution](./cpp/lc0283_move_zeroes.cpp) |
 | 287 | FindTheDuplicateNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC0287_FindTheDuplicateNumber/Solution.java) |  |
 | 289 | GameOfLife | [solution](./java/src/main/java/com/wkodate/leetcode/LC0289_GameOfLife/Solution.java) | [solution](./cpp/lc0289_game_of_life.cpp) |
 | 292 | NimGame | [solution](./java/src/main/java/com/wkodate/leetcode/LC0292_NimGame/Solution.java) |  |
