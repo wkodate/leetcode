@@ -316,7 +316,7 @@ LeetCode
 | 896 | MonotonicArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0896_MonotonicArray/Solution.java) |  |
 | 897 | IncreasingOrderSearchTree | [solution](./java/src/main/java/com/wkodate/leetcode/LC0897_IncreasingOrderSearchTree/Solution.java) |  |
 | 901 | OnlineStockSpan | [solution](./java/src/main/java/com/wkodate/leetcode/LC0901_OnlineStockSpan/StockSpanner.java) |  |
-| 905 | SortArrayByParity | [solution](./java/src/main/java/com/wkodate/leetcode/LC0905_SortArrayByParity/Solution.java) |  |
+| 905 | SortArrayByParity | [solution](./java/src/main/java/com/wkodate/leetcode/LC0905_SortArrayByParity/Solution.java) | [solution](./cpp/lc0905_sort_array_by_parity.cpp) |
 | 908 | SmallestRangeI | [solution](./java/src/main/java/com/wkodate/leetcode/LC0908_SmallestRangeI/Solution.java) |  |
 | 912 | SortAnArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0912_SortAnArray/Solution.java) |  |
 | 917 | ReverseOnlyLetters | [solution](./java/src/main/java/com/wkodate/leetcode/LC0917_ReverseOnlyLetters/Solution.java) |  |
