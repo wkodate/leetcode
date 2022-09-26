@@ -364,7 +364,7 @@ LeetCode
 | 1044 | LongestDuplicateSubstring | [solution](./java/src/main/java/com/wkodate/leetcode/LC1044_LongestDuplicateSubstring/Solution.java) |  |
 | 1046 | LastStoneWeight | [solution](./java/src/main/java/com/wkodate/leetcode/LC1046_LastStoneWeight/Solution.java) |  |
 | 1047 | RemoveAllAdjacentDuplicatesInString | [solution](./java/src/main/java/com/wkodate/leetcode/LC1047_RemoveAllAdjacentDuplicatesInString/Solution.java) |  |
-| 1051 | HeightChecker | [solution](./java/src/main/java/com/wkodate/leetcode/LC1051_HeightChecker/Solution.java) |  |
+| 1051 | HeightChecker | [solution](./java/src/main/java/com/wkodate/leetcode/LC1051_HeightChecker/Solution.java) | [solution](./cpp/lc1051_height_checker.cpp) |
 | 1071 | GreatestCommonDivisorOfStrings | [solution](./java/src/main/java/com/wkodate/leetcode/LC1071_GreatestCommonDivisorOfStrings/Solution.java) |  |
 | 1089 | DuplicateZeros | [solution](./java/src/main/java/com/wkodate/leetcode/LC1089_DuplicateZeros/Solution.java) | [solution](./cpp/lc1089_duplicate_zeros.cpp) |
 | 1091 | ShortestPathInBinaryMatrix | [solution](./java/src/main/java/com/wkodate/leetcode/LC1091_ShortestPathInBinaryMatrix/Solution.java) |  |
