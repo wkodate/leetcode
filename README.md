@@ -258,7 +258,7 @@ LeetCode
 | 704 | BinarySearch | [solution](./java/src/main/java/com/wkodate/leetcode/LC0704_BinarySearch/Solution.java) | [solution](./cpp/lc0704_binary_search.cpp) |
 | 705 | DesignHashSet | [solution](./java/src/main/java/com/wkodate/leetcode/LC0705_DesignHashSet/MyHashSet2.java) |  |
 | 706 | DesignHashMap | [solution](./java/src/main/java/com/wkodate/leetcode/LC0706_DesignHashMap/MyHashMap.java) |  |
-| 707 | DesignLinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0707_DesignLinkedList/MyLinkedList.java) |  |
+| 707 | DesignLinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0707_DesignLinkedList/MyLinkedList.java) | [solution](./cpp/lc0707_design_linked_list.cpp) |
 | 709 | ToLowerCase | [solution](./java/src/main/java/com/wkodate/leetcode/LC0709_ToLowerCase/Solution.java) |  |
 | 717 | 1BitAnd2BitCharacters | [solution](./java/src/main/java/com/wkodate/leetcode/LC0717_1BitAnd2BitCharacters/Solution.java) |  |
 | 720 | LongestWordInDictionary | [solution](./java/src/main/java/com/wkodate/leetcode/LC0720_LongestWordInDictionary/Solution.java) |  |
