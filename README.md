@@ -125,7 +125,7 @@ LeetCode
 | 230 | KthSmallestElementInABST | [solution](./java/src/main/java/com/wkodate/leetcode/LC0230_KthSmallestElementInABST/Solution.java) |  |
 | 231 | PowerOfTwo | [solution](./java/src/main/java/com/wkodate/leetcode/LC0231_PowerOfTwo/Solution.java) |  |
 | 232 | ImplementQueueUsingStacks | [solution](./java/src/main/java/com/wkodate/leetcode/LC0232_ImplementQueueUsingStacks/MyQueue.java) |  |
-| 234 | PalindromeLinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0234_PalindromeLinkedList/Solution.java) |  |
+| 234 | PalindromeLinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0234_PalindromeLinkedList/Solution.java) | [solution](./cpp/lc0234_palindrome_linked_list.cpp) |
 | 237 | DeleteNodeInALinkedList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0237_DeleteNodeInALinkedList/Solution.java) |  |
 | 238 | ProductOfArrayExceptSelf | [solution](./java/src/main/java/com/wkodate/leetcode/LC0238_ProductOfArrayExceptSelf/Solution.java) |  |
 | 242 | ValidAnagram | [solution](./java/src/main/java/com/wkodate/leetcode/LC0242_ValidAnagram/Solution.java) |  |
