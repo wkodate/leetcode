@@ -15,7 +15,7 @@ LeetCode
 | 15 | 3Sum | [solution](./java/src/main/java/com/wkodate/leetcode/LC0015_3Sum/Solution.java) |  |
 | 19 | RemoveNthNodeFromEndOfList | [solution](./java/src/main/java/com/wkodate/leetcode/LC0019_RemoveNthNodeFromEndOfList/Solution.java) |  |
 | 20 | ValidParentheses | [solution](./java/src/main/java/com/wkodate/leetcode/LC0020_ValidParentheses/Solution.java) |  |
-| 21 | MergeTwoSortedLists | [solution](./java/src/main/java/com/wkodate/leetcode/LC0021_MergeTwoSortedLists/Solution.java) |  |
+| 21 | MergeTwoSortedLists | [solution](./java/src/main/java/com/wkodate/leetcode/LC0021_MergeTwoSortedLists/Solution.java) | [solution](./cpp/lc0021_merge_two_sorted_lists.cpp) |
 | 24 | SwapNodesInPairs | [solution](./java/src/main/java/com/wkodate/leetcode/LC0024_SwapNodesInPairs/Solution.java) |  |
 | 26 | RemoveDuplicatesFromSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0026_RemoveDuplicatesFromSortedArray/Solution.java) | [solution](./cpp/lc0026_remove_duplicates_from_sorted_array.cpp) |
 | 27 | RemoveElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC0027_RemoveElement/Solution.java) | [solution](./cpp/lc0027_remove_element.cpp) |
