@@ -165,7 +165,7 @@ LeetCode
 | 382 | LinkedListRandomNode | [solution](./java/src/main/java/com/wkodate/leetcode/LC0382_LinkedListRandomNode/Solution.java) |  |
 | 383 | RansomNote | [solution](./java/src/main/java/com/wkodate/leetcode/LC0383_RansomNote/Solution.java) | [solution](./cpp/lc0383_ransom_note.cpp) |
 | 384 | ShuffleAnArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0384_ShuffleAnArray/Solution.java) |  |
-| 387 | FirstUniqueCharacterInAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0387_FirstUniqueCharacterInAString/Solution.java) |  |
+| 387 | FirstUniqueCharacterInAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0387_FirstUniqueCharacterInAString/Solution.java) | [solution](./cpp/lc0387_first_unique_character_in_a_string.cpp) |
 | 389 | FindTheDifference | [solution](./java/src/main/java/com/wkodate/leetcode/LC0389_FindTheDifference/Solution.java) |  |
 | 392 | IsSubsequence | [solution](./java/src/main/java/com/wkodate/leetcode/LC0392_IsSubsequence/Solution.java) |  |
 | 394 | DecodeString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0394_DecodeString/Solution.java) |  |
