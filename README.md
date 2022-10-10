@@ -155,7 +155,7 @@ LeetCode
 | 345 | ReverseVowelsOfAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0345_ReverseVowelsOfAString/Solution.java) |  |
 | 347 | TopKFrequentElements | [solution](./java/src/main/java/com/wkodate/leetcode/LC0347_TopKFrequentElements/Solution.java) | [solution](./cpp/lc0347_top_k_frequent_elements.cpp) |
 | 349 | IntersectionOfTwoArrays | [solution](./java/src/main/java/com/wkodate/leetcode/LC0349_IntersectionOfTwoArrays/Solution.java) |  |
-| 350 | IntersectionOfTwoArraysII | [solution](./java/src/main/java/com/wkodate/leetcode/LC0350_IntersectionOfTwoArraysII/Solution.java) |  |
+| 350 | IntersectionOfTwoArraysIi | [solution](./java/src/main/java/com/wkodate/leetcode/LC0350_IntersectionOfTwoArraysII/Solution.java) | [solution](./cpp/lc0350_intersection_of_two_arrays_II.cpp) |
 | 357 | ComplexNumberMultiplication | [solution](./java/src/main/java/com/wkodate/leetcode/LC0357_ComplexNumberMultiplication/Solution.java) |  |
 | 367 | ValidPerfectSquare | [solution](./java/src/main/java/com/wkodate/leetcode/LC0367_ValidPerfectSquare/Solution.java) |  |
 | 368 | LargestDivisibleSubset | [solution](./java/src/main/java/com/wkodate/leetcode/LC0368_LargestDivisibleSubset/Solution.java) |  |
