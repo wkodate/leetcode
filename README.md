@@ -89,7 +89,7 @@ LeetCode
 | 151 | ReverseWordsInAString | [solution](./java/src/main/java/com/wkodate/leetcode/LC0151_ReverseWordsInAString/Solution.java) |  |
 | 153 | FindMinimumInRotatedSortedArray | [solution](./java/src/main/java/com/wkodate/leetcode/LC0153_FindMinimumInRotatedSortedArray/Solution.java) |  |
 | 154 | FindMinimumInRotatedSortedArrayII | [solution](./java/src/main/java/com/wkodate/leetcode/LC0154_FindMinimumInRotatedSortedArrayII/Solution.java) |  |
-| 155 | MinStack | [solution](./java/src/main/java/com/wkodate/leetcode/LC0155_MinStack/MinStack2.java) |  |
+| 155 | MinStack | [solution](./java/src/main/java/com/wkodate/leetcode/LC0155_MinStack/MinStack2.java) | [solution](./cpp/lc0155_min_stack.cpp) |
 | 160 | IntersectionOfTwoLinkedLists | [solution](./java/src/main/java/com/wkodate/leetcode/LC0160_IntersectionOfTwoLinkedLists/Solution.java) |  |
 | 162 | FindPeakElement | [solution](./java/src/main/java/com/wkodate/leetcode/LC0162_FindPeakElement/Solution.java) |  |
 | 167 | TwoSumII | [solution](./java/src/main/java/com/wkodate/leetcode/LC0167_TwoSumII/Solution.java) |  |
