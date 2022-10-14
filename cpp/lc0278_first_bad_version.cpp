@@ -3,7 +3,7 @@ using namespace std;
 
 class Solution {
 public:
-  //bool isBadVersion(int version) { return version >= 4; }
+  bool isBadVersion(int version) { return version >= 4; }
 
   int firstBadVersion(int n) {
     long long left = -1;
