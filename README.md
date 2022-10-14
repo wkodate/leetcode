@@ -136,7 +136,7 @@ LeetCode
 | 268 | MissingNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC0268_MissingNumber/Solution.java) |  |
 | 274 | HIndex | [solution](./java/src/main/java/com/wkodate/leetcode/LC0274_HIndex/Solution.java) |  |
 | 275 | HIndexII | [solution](./java/src/main/java/com/wkodate/leetcode/LC0275_HIndexII/Solution.java) |  |
-| 278 | FirstBadVersion | [solution](./java/src/main/java/com/wkodate/leetcode/LC0278_FirstBadVersion/Solution.java) |  |
+| 278 | FirstBadVersion | [solution](./java/src/main/java/com/wkodate/leetcode/LC0278_FirstBadVersion/Solution.java) | [solution](./cpp/lc0278_first_bad_version.cpp) |
 | 279 | PerfectSquares | [solution](./java/src/main/java/com/wkodate/leetcode/LC0279_PerfectSquares/Solution.java) |  |
 | 283 | MoveZeroes | [solution](./java/src/main/java/com/wkodate/leetcode/LC0283_MoveZeroes/Solution.java) | [solution](./cpp/lc0283_move_zeroes.cpp) |
 | 287 | FindTheDuplicateNumber | [solution](./java/src/main/java/com/wkodate/leetcode/LC0287_FindTheDuplicateNumber/Solution.java) |  |
